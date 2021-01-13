@@ -25,39 +25,39 @@ JBS_national_populist_party:0 "Hizb Alearabiu"
 JBS_national_populist_party_long:0 "Hizb Alearabiu"
 
 ### Tooltips ###
-JBS_arabian_tribes_mobilized_tooltip:0 "We shall mobilise the Tribes.\n"
-JBS_elected_a_rashidi_tooltip:0 "Elect the Rashidi candidate as Sultan"
-JBS_elect_rashidi_tooltip:0 "Elect the Rashidi candidate as Sultan"
-JBS_elect_al_sabah_tooltip:0 "Elect the Al-Sabah candidate as Sultan"
-JBS_elect_al_nahyan_tooltip:0 "Elect the Al-Nahyan candidate as Sultan"
-JBS_elect_a_heshemite_tooltip:0 "Elect the Heshemite candidate as Sultan"
+JBS_arabian_tribes_mobilized_tooltip:0 "Nous allons mobiliser les tribus.
+JBS_elected_a_rashidi_tooltip:0 "Élire le candidat Rashidi comme sultan"
+JBS_elect_rashidi_tooltip:0 "Élire le candidat Rashidi comme sultan"
+JBS_elect_al_sabah_tooltip:0 "Élire le candidat d'Al-Sabah comme sultan"
+JBS_elect_al_nahyan_tooltip:0 "Élire le candidat Al-Nahyan au poste de Sultan"
+JBS_elect_a_heshemite_tooltip:0 "Élire le candidat hégémite au poste de sultan"
 JBS_elect_a_howleitat_tooltip:0 "Elect the Howleitat candidateas Sultan"
-JBS_trucial_nahyan_tooltip:0 "The House of Al-Nahyan will invest in the Trucial Region.\n"
-JBS_syrian_howleitat_tooltip:0 "The Howietat Leadership will invest in Syria.\n"
-JBS_international_reputation_tooltip:0 "Propganda efforts will help with our reputation with other countries around the world.\n"
-jbs_TPC_deal:0 "§GWe will be rewarded further in the future should the oil wells strike more of the black gold"
-200_infantry_equipment_10_PP:0 "£pol_power §Y10§! £rifle_texticon §H200§!"
-200_infantry_equipment_10_PP_blocked:0 "£pol_power §R10§! £rifle_texticon §R200§!"
+JBS_trucial_nahyan_tooltip:0 "La Maison d'Al-Nahyan va investir dans la Région Tribale".
+JBS_syrian_howleitat_tooltip:0 "Les dirigeants de Howietat vont investir en Syrie".
+JBS_international_reputation_tooltip:0 "Les efforts de Propganda contribueront à améliorer notre réputation auprès des autres pays du monde.
+jbs_TPC_deal:0 "§GNous serons encore plus récompensés à l'avenir si les puits de pétrole devaient trouver davantage d'or noir"
+200_équipement_d'infanterie_10_PP:0 "£pol_power §Y10§ ! £rifle_texticon §H200§ !"
+200_équipements_d'infanterie_10_PP_bloqués:0 "£pol_power §R10§ ! Textile_foulard §R200§ !"
 
 ### Decisions ###
-JBS_SAU_Power_Struggle:0 "Preparations for the War of Unification"
-JBS_SAU_Power_Struggle_desc:0 "Time has not been very kind to the House of Rashid. Losing most of their male family members at the hands of the Ibn Saud and suffering from continous raids into their territory by the Ikhwan, the Rashidi federation of Emirs is cracking under the weight of the Wahabbists. Support by the Ottoman Empire is keeping our dominion on its feet however as their continued partnership and alliance with our Emir ensures his lands are safe. Further reinforced in 1925 when the former British protectorates of the Trucial States, Qatar and Bahrain were placed under our supervision, ties with the Sultan are strong.\n\nNonetheless some have argued that this partnership is the only thing keeping our realm together and should disaster befall the Ottomans, Ibn Saud may see it as his destiny to unite the peninsula under his rule."
+JBS_SAU_Power_Struggle:0 "Préparations pour la guerre d'unification"
+JBS_SAU_Power_Struggle_desc:0 "Le temps n'a pas été très gentil avec la Maison de Rashid. Perdant la plupart des membres masculins de sa famille aux mains des Saoudiens d'Ibn et souffrant des incursions continuelles des Ikhwan sur son territoire, la fédération des émirs Rashidi craque sous le poids des wahhabites. Le soutien de l'Empire ottoman maintient cependant notre domination sur ses pieds, car leur partenariat et leur alliance continus avec notre émir garantissent la sécurité de ses terres. Renforcés en 1925 lorsque les anciens protectorats britanniques des États de la Trêve, du Qatar et de Bahreïn ont été placés sous notre supervision, les liens avec le sultan sont solides. Néanmoins, certains ont fait valoir que ce partenariat est la seule chose qui maintienne notre royaume ensemble et que si un désastre devait arriver aux Ottomans, Ibn Saoud pourrait considérer comme son destin d'unir la péninsule sous son règne.
 
-JBS_War_of_Unification:0 "Arab War of Unification"
-JBS_War_of_Unification_desc:0 "The final struggle for control over the Arab interior is rapidly approaching, as the Ottoman behemoth is cracking under the weight of the worldwide economic depression, temporarily unable to maintain peace on the peninsula. All Emirs will have to pick a side, for the future of the Arab world will be written in blood. Those who win will have the chance to shape the destiny of the Arabs. The losers will find themselves disgraced, cast aside or slain on the field of battle."
-JBS_Counter_SAU_UAE:0 "Counter Saudi influence in the Trucial States"
-JBS_Counter_SAU_UAE_desc:0 "As our power in the region diminishes, the cronies of Ibn Saud are trying to sway the Emirs of the Trucial States to his banner. Promising riches, weapons, departure of the Turk and the purification of the Islamic faith, many seem to be aligning themselves with him or at least considering his offer. We need to outbid Ibn Saud or we may find ourselves very rapidly without allies in the Persian Gulf."
-JBS_Counter_SAU_Qatar:0 "Counter Saudi influence in Qatar"
-JBS_Counter_SAU_Qatar_desc:0 "As our power in the region diminishes, the cronies of Ibn Saud are trying to sway the Emir of Qatar to his banner. Promising riches, weapons, departure of the Turk and the purification of the Islamic faith, many seem to be aligning themselves with him or at least considering his offer. We need to outbid Ibn Saud or we may find ourselves very rapidly without allies in the Persian Gulf."
-JBS_Counter_SAU_Bahrain:0 "Counter Saudi influence in Bahrain"
-JBS_Counter_SAU_Bahrain_desc:0 "As our power in the region diminishes, the cronies of Ibn Saud are trying to sway the Emir of Bahrain to his banner. Promising riches, weapons, departure of the Turk and the purification of the Islamic faith, many seem to be aligning themselves with him or at least considering his offer. We need to outbid Ibn Saud or we may find ourselves very rapidly without allies in the Persian Gulf."
-JBS_Counter_SAU_Arabian_Desert:0 "Counter Saudi influence in the Arabian Desert"
-JBS_Counter_SAU_Arabian_Desert_desc:0 "Camels of the Ikhwan have been spotted on the horizon raiding and sacking their way through the surrounding of Hafar Al-Batin. We need to mobilise our own army to push them out again, lest the Saudis may claim the region as theirs."
-JBS_Counter_SAU_Al_Hasa:0 "Counter Saudi influence in Al-Hasa"
-JBS_Counter_SAU_Al_Hasa_desc:0 "The Coastal strip of Al-Hasa is under siege by the Ikwhan! Should we lose this vital region, we will be cut off from our allies further South so it is of the utmost importance that we do not let the port fall into the hands of the Saudis"
+JBS_War_of_Unification:0 "La guerre d'unification arabe"
+JBS_War_of_Unification_desc:0 "La lutte finale pour le contrôle de l'intérieur arabe approche rapidement, alors que le mastodonte ottoman craque sous le poids de la dépression économique mondiale, temporairement incapable de maintenir la paix dans la péninsule. Tous les émirs devront choisir un camp, car l'avenir du monde arabe sera écrit dans le sang. Ceux qui gagneront auront la chance de façonner le destin des Arabes. Les perdants se retrouveront déshonorés, mis à l'écart ou tués sur le champ de bataille".
+JBS_Counter_SAU_UAE:0 "Contre l'influence saoudienne dans les États de la Trêve"
+JBS_Counter_SAU_UAE_desc:0 "Alors que notre pouvoir dans la région diminue, les acolytes d'Ibn Saud tentent de faire basculer les Emirs des Etats de la Trêve sur sa bannière. Promettant des richesses, des armes, le départ du Turc et la purification de la foi islamique, beaucoup semblent s'aligner sur lui ou du moins considérer son offre. Nous devons surenchérir sur Ibn Saoud, sinon nous pourrions nous retrouver très rapidement sans alliés dans le Golfe persique".
+JBS_Counter_SAU_Qatar:0 "Contre l'influence saoudienne au Qatar"
+JBS_Counter_SAU_Qatar_desc:0 "Alors que notre pouvoir dans la région diminue, les acolytes d'Ibn Saud tentent de faire basculer l'émir du Qatar sur sa bannière. Promettant des richesses, des armes, le départ du Turc et la purification de la foi islamique, beaucoup semblent s'aligner sur lui ou du moins considérer son offre. Nous devons surenchérir sur Ibn Saoud, sinon nous pourrions nous retrouver très rapidement sans alliés dans le Golfe Persique".
+JBS_Counter_SAU_Bahrain:0 "Contre l'influence saoudienne à Bahreïn"
+JBS_Counter_SAU_Bahrain_desc:0 "Alors que notre pouvoir dans la région diminue, les copains d'Ibn Saud tentent de faire basculer l'émir de Bahreïn sur sa bannière. Promettant des richesses, des armes, le départ du Turc et la purification de la foi islamique, beaucoup semblent s'aligner sur lui ou du moins considérer son offre. Nous devons surenchérir sur Ibn Saoud, sinon nous pourrions nous retrouver très rapidement sans alliés dans le Golfe Persique".
+JBS_Counter_SAU_Arabian_Desert:0 "Contre l'influence saoudienne dans le désert d'Arabie"
+JBS_Counter_SAU_Arabian_Desert_desc:0 "Des chameaux de l'Ikhwan ont été aperçus à l'horizon, pillant et saccageant les environs de Hafar Al-Batin. Nous devons mobiliser notre propre armée pour les repousser à nouveau, de peur que les Saoudiens ne revendiquent la région comme la leur".
+JBS_Counter_SAU_Al_Hasa:0 "Contre l'influence saoudienne à Al-Hasa"
+JBS_Counter_SAU_Al_Hasa_desc:0 "La bande côtière d'Al-Hasa est assiégée par les Ikwhan ! Si nous perdons cette région vitale, nous serons coupés de nos alliés plus au sud. Il est donc de la plus haute importance que nous ne laissions pas le port tomber entre les mains des Saoudiens"
 
-JBS_Ottoman_Favours:0 "Diplomacy with the Sublime Porte"
-JBS_Ottoman_Favours_desc:0 "The Ottoman Empire, commonly refered to as the Sublime Porte, is our largest ally in the region and also its strongest military. Even though we should not expect direct intervention from them should the Saudis strike, we can still rely on the Sultans favour in times of need." 
+JBS_Ottoman_Favours:0 "Diplomatie avec la Sublime Porte"
+JBS_Ottoman_Favours_desc:0 "L'Empire ottoman, communément appelé la Sublime Porte, est notre plus grand allié dans la région et aussi son plus puissant militaire. Même si nous ne devons pas nous attendre à une intervention directe de leur part en cas de frappe des Saoudiens, nous pouvons toujours compter sur les faveurs des sultans en cas de besoin". 
 
 JBS_Ottoman_Training:0 "Invite Experts from the Erkân-ı Harbiye Mektebi"
 JBS_Ottoman_Training_desc:0 "The Ottomans have fought a bloody war with us at their side two decades ago but even then it was clear who had the doctrinal advantage. Fighting war for close to a decade on end, the Ottomans are battle hardened, trained and capable of providing us with all the assistance necessary to reform our army."
