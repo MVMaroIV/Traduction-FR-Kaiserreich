@@ -3,497 +3,497 @@
 yemen_focus:0 "Yemen Focus Tree"
 
 ### Ideas ###
-YEM_black_monday:0 "Ripples of Black Monday"
-YEM_black_monday_desc:0 "While not hitting us as hard as other nations, our connections to the Ottoman Empire has given us the Black Monday economic contagion. There is no doubt that the Republicans will blame the Imam for this."
-YEM_Modern_Eco:0 "Modernised Economy"
-YEM_Modern_Eco_desc:0 "Western newspapers have begun to express hope in the Yemeni economy again. Through currency reform and austerity, our markets have regained some confidence. Yemen can now stand economically with the rest of the world."
-YEM_Ottoman_Rule:0 "Ottoman Rule"
-YEM_Ottoman_Rule_desc:0 "Ottoman rule in Yemen has led to two distinct types of dissidence to form. One is the rebels that treat our fealty to the Caliph as a betrayal of our Zaydi order, and the other that sees the nationalism in the Ottoman empire as preferable to the wise rule of the Imam."
-YEM_Old_Army:0 "Outdated Army"
-YEM_Old_Army_desc:0 "The army of Yemen is only adept at defending our territory, and has not yet tasted victory in a foreign war. We are outpaced by most of the modern world."
+YEM_black_monday_desc:0 "Bien que nous ne soyons pas aussi touchés que d'autres nations, nos liens avec l'Empire ottoman nous ont donné le Lundi noir 
+la contagion économique. Il ne fait aucun doute que les républicains en accuseront l'imam".
+YEM_Modern_Eco:0 "Une économie modernisée"
+YEM_Modern_Eco_desc:0 "Les journaux occidentaux ont recommencé à exprimer leur espoir dans l'économie yéménite. Grâce à la réforme monétaire et à l'austérité, nos marchés ont retrouvé une certaine confiance. Le Yémen peut maintenant se tenir économiquement au même niveau que le reste du monde".
+YEM_Ottoman_Rule:0 "Règle ottomane"
+YEM_Ottoman_Rule_desc:0 "La domination ottomane au Yémen a conduit à la formation de deux types distincts de dissidence. L'un est celui des rebelles qui considèrent notre fidélité au calife comme une trahison de notre ordre Zaydi, et l'autre qui considère le nationalisme de l'empire ottoman comme préférable à la sage domination de l'imam.
+YEM_Old_Army:0 "Armée dépassée"
+YEM_Old_Army_desc:0 "L'armée du Yémen n'est habile qu'à défendre notre territoire, et n'a pas encore goûté à la victoire dans une guerre étrangère. Nous sommes dépassés par la plupart du monde moderne".
 YEM_Modern_Plans:0 "Modern Planning"
-YEM_Modern_Plans_desc:0 "Through experience in the war against the Ottomans and increased military education in foreign academies, Yemen's army can now stand on its own two feet."
-YEM_Anarchy:0 "State in Disorder"
-YEM_Anarchy_desc:0 "With a combination of Ottoman rule and the vast expanse of Yemen's newly gained territory, the Imam has had trouble displaying his authority to all his subjects."
-YEM_Anarchy_2:0 "State in Disorder"
-YEM_Anarchy_2_desc:0 "With a combination of Ottoman rule and the vast expanse of Yemen's newly gained territory, the Imam has had trouble displaying his authority to all his subjects."
-YEM_NiceGuy:0 "Benevolent Rule"
-YEM_NiceGuy_desc:0 "The Imam has decided to show his less loyal tribal subjects his benevolent side. These subjects have surprisingly responded with long overdue taxes and contracts that show their loyalty."
-YEM_ToughGuy:0 "Strict Rule"
-YEM_ToughGuy_desc:0 "Those who refuse the Imams draft must be corralled. Disloyalty during this critical hour will not be forgiven."
-YEM_Gendarmes:0 "Yemeni Gendarmerie"
-YEM_Gendarmes_desc:0 "The establishment of the Gendarmerie has helped us keep rebel movements from endangering the country, for now at least."
-YEM_Thicc_Gendarmes:0 "Expanded Gendarmes"
-YEM_Thicc_Gendarmes_desc:0 "The expansion of the Gendarmerie has made it an even more effective force capable of even helping to defend against foreign threats."
-YEM_Ottoman_Rule_weak:0 "Fading Overlord"
-YEM_Ottoman_Rule_weak_desc:0 "While Ottoman rule is still present, their presence and reign over the country has diminished. Many Ottoman soldiers have grown weary of adventure in our land."
-YEM_Ottoman_Rule_Split:0 "Yemeni Administration"
-YEM_Ottoman_Rule_Split_desc:0 "Even if our country remains divided on religious and political matters, we need to immediately administer our own lands or risk losing them."
-YEM_Purges:0 "Purged Population"
-YEM_Purges_desc:0 "Disloyal elements of our society have been forcefully removed on the Imam's orders."
-YEM_HorsieBoyes:0 "Arabian Horsemen"
-YEM_HorsieBoyes_desc:0 "Unlike the rest of the world, the Middle East is one of the few places where cavalry is still effective. Our generals have been trained on the use of horses to help defend ourselves."
-YEM_forts:0 "Protect Yemen"
-YEM_forts_desc:0 "Yemen is the home to many and must be protected no matter what the cost."
-YEM_Rifle_Guilds_Temp:0 "Gunsmith Guilds"
-YEM_Rifle_Guilds_Temp_desc:0 "Gun production has improved significantly due to coordinated efforts between gunsmiths in the country."
-YEM_Merchant_Fleet:0 "Founded Merchant Marine"
-YEM_Merchant_Fleet_desc:0 "Our key position in trade has led to the creation of a merchant marine, which has vastly increased trade profits."
-YEM_Yemen_On_Fire:0 "Kingdom In Chaos"
-YEM_Yemen_On_Fire_desc:0 "Our freedom from the Ottomans had one very key disadvantage, the freedom of rebel groups to begin moving again. Violence has returned to the streets and the existence of the Imamate is in danger."
-YEM_Prepared_Army:0 "Prepared Army"
-YEM_Prepared_Army_desc:0 "Our soldiers are loyal to the Imam and ready to fight for his cause at any time."
-YEM_Troop_Movement:0 "Limited Access Roads"
-YEM_Troop_Movement_desc:0 "Securing roads for use of the Imam's loyal army has led to an decrease in travel time all around."
-YEM_Unified_Eco:0 "Unified Economy"
-YEM_Unified_Eco_desc:0 "The Imam has managed to inspire most under his rule to work together for the future development of Yemen."
-YEM_Nepotism:0 "Control the State"
-YEM_Nepotism_desc:0 "The new political climate of Yemen requires the complete and utter cooperation of our people."
-YEM_Devotion:0 "Devoted Sovereign"
-YEM_Devotion_desc:0 "Our efforts to suppress disloyal elements within our society who harm our populace has satisfied our people greatly."
-YEM_Humane:0 "Popular King"
-YEM_Humane_desc:0 "The king has regained some honour among the people. The majority of Yemeni see the Imam as a necessity to their lives, and the security of the Imamate is secure as a result."
-YEM_Eternal_Saana:0 "Sana'a Powerbase"
-YEM_Eternal_Saana_desc:0 "The Imam works as the sole and final authority of Yemen, and all matters must go through him first and foremost."
-YEM_Common_Law:0 "Common Law Reaffirmed"
-YEM_Common_Law_desc:0 "Common Law also known as Sharia Law is now affirmed within the country, and an integral part of society."
-YEM_President:0 "Presidential Powers"
-YEM_President_desc:0 "The role of the president is now key in the running of Yemen with him holding the most power within the Republic."
-YEM_Euro_Zone:0 "European Trade"
-YEM_Euro_Zone_desc:0 "Trade with European countries is beginning to build up a large sector of our economy and wealth."
-YEM_New_Laws:0 "Revamped Laws"
-YEM_New_Laws_desc:0 "The old laws within Yemen which followed the Zaydi leadership model have been replaced with civil law based on precedence over incidence."
-YEM_Local:0 "Local Rule"
-YEM_Local_desc:0 "More autonomy has been given to individual areas within the country, with decisions lying on the locals shoulders."
-YEM_Pol_Indust:0 "Political Industrialisation"
-YEM_Pol_Indust_desc:0 "The industry within the country has begun to boom as a result of our political reforms."
-YEM_Farm_boye:0 "Qat and Coffee Farms"
-YEM_Farm_boye_desc:0 "Farming has extended into new fertile valleys of Yemen. Better yet that the new farms are growing Qat and Coffee, food and drug that us Yemenis are famous for."
+YEM_Modern_Plans_desc:0 "Grâce à l'expérience acquise lors de la guerre contre les Ottomans et à une formation militaire accrue dans les académies étrangères, l'armée du Yémen peut désormais se débrouiller seule.
+YEM_Anarchie:0 "L'État en désordre"
+YEM_Anarchy_desc:0 "Avec la combinaison de la domination ottomane et de la vaste étendue du territoire nouvellement gagné du Yémen, l'imam a eu du mal à afficher son autorité à tous ses sujets.
+YEM_Anarchy_2:0 "L'État en désordre"
+YEM_Anarchy_2_desc:0 "Avec la combinaison de la domination ottomane et de la vaste étendue du territoire nouvellement gagné du Yémen, l'imam a eu du mal à afficher son autorité à tous ses sujets.
+YEM_NiceGuy:0 "Règle bienveillante"
+YEM_NiceGuy_desc:0 "L'imam a décidé de montrer à ses sujets tribaux moins fidèles son côté bienveillant. Ces sujets ont réagi de manière surprenante en payant des impôts et des contrats qui auraient dû être payés depuis longtemps et qui montrent leur loyauté".
+YEM_ToughGuy:0 "Règle stricte"
+YEM_ToughGuy_desc:0 "Ceux qui refusent le recrutement des Imams doivent être enfermés. La déloyauté pendant cette heure critique ne sera pas pardonnée".
+YEM_Gendarmes:0 "Gendarmerie yéménite"
+YEM_Gendarmes_desc:0 "La création de la gendarmerie nous a permis d'empêcher les mouvements rebelles de mettre le pays en danger, du moins pour l'instant".
+YEM_Thicc_Gendarmes:0 "Gendarmes élargis"
+YEM_Thicc_Gendarmes_desc:0 "L'expansion de la gendarmerie en a fait une force encore plus efficace, capable même de contribuer à la défense contre les menaces étrangères.
+YEM_Ottoman_Rule_faible:0 "Fading Overlord"
+YEM_Ottoman_Rule_weak_desc:0 "Si la domination ottomane est toujours présente, sa présence et son règne sur le pays ont diminué. De nombreux soldats ottomans se sont lassés de l'aventure dans notre pays".
+YEM_Ottoman_Rule_Split:0 "Administration yéménite"
+YEM_Ottoman_Rule_Split_desc:0 "Même si notre pays reste divisé sur les questions religieuses et politiques, nous devons immédiatement administrer nos propres terres, sous peine de les perdre.
+YEM_Purges:0 "Purge de la population"
+YEM_Purges_desc:0 "Des éléments déloyaux de notre société ont été enlevés par la force sur ordre de l'imam".
+YEM_HorsieBoyes:0 "Cavaliers arabes"
+YEM_HorsieBoyes_desc:0 "Contrairement au reste du monde, le Moyen-Orient est l'un des rares endroits où la cavalerie est encore efficace. Nos généraux ont été formés à l'utilisation des chevaux pour nous aider à nous défendre".
+YEM_forts:0 "Protéger le Yémen"
+YEM_forts_desc:0 "Le Yémen est le foyer de beaucoup de gens et doit être protégé quel qu'en soit le prix.
+YEM_Rifle_Guilds_Temp:0 "Guildes d'armuriers"
+YEM_Rifle_Guilds_Temp_desc:0 "La production d'armes s'est considérablement améliorée grâce aux efforts coordonnés entre les armuriers du pays".
+YEM_Merchant_Fleet:0 "Fondé la marine marchande"
+YEM_Merchant_Fleet_desc:0 "Notre position clé dans le commerce a conduit à la création d'une marine marchande, ce qui a considérablement augmenté les bénéfices commerciaux.
+YEM_Yemen_On_Fire:0 "Royaume en chaos"
+YEM_Yémen_On_Fire_desc:0 "Notre liberté par rapport aux Ottomans avait un inconvénient majeur, la liberté des groupes rebelles de recommencer à bouger. La violence est revenue dans les rues et l'existence de l'Imamate est en danger".
+YEM_Prepared_Army:0 "Armée préparée"
+YEM_Prepared_Army_desc:0 "Nos soldats sont fidèles à l'imam et prêts à se battre pour sa cause à tout moment."
+YEM_Troop_Movement:0 "Routes à accès limité"
+YEM_Troop_Movement_desc:0 "La sécurisation des routes à l'usage de l'armée loyale de l'imam a entraîné une diminution de la durée des déplacements tout autour.
+YEM_Unified_Eco:0 "L'économie unifiée"
+YEM_Unified_Eco_desc:0 "L'imam a réussi à inspirer la plupart des gens sous son règne à travailler ensemble pour le développement futur du Yémen".
+YEM_Nepotism:0 "Contrôler l'État"
+YEM_Nepotism_desc:0 "Le nouveau climat politique du Yémen exige la coopération complète et totale de notre peuple".
+YEM_Devotion:0 "Souverain dévoué"
+YEM_Devotion_desc:0 "Nos efforts pour supprimer les éléments déloyaux au sein de notre société qui nuisent à notre population ont grandement satisfait notre peuple".
+YEM_Humane:0 "Roi populaire"
+YEM_Humane_desc:0 "Le roi a retrouvé un peu d'honneur auprès du peuple. La majorité des Yéménites considèrent l'imam comme une nécessité pour leur vie, et la sécurité de l'imamate est donc assurée".
+YEM_Eternal_Saana:0 "Base de pouvoir de Sanaa"
+YEM_Eternal_Saana_desc:0 "L'imam est la seule et dernière autorité du Yémen, et toutes les affaires doivent passer par lui avant tout.
+YEM_Loi_commun:0 "Common Law Reaffirmée"
+YEM_Common_Law_desc:0 "La Common Law, également connue sous le nom de Sharia Law, est désormais affirmée dans le pays et fait partie intégrante de la société.
+YEM_Président:0 "Pouvoirs présidentiels"
+YEM_President_desc:0 "Le rôle du président est désormais essentiel dans la gestion du Yémen, car il détient le plus de pouvoir au sein de la République.
+YEM_Euro_Zone:0 "Commerce européen"
+YEM_Euro_Zone_desc:0 "Le commerce avec les pays européens commence à constituer un large secteur de notre économie et de notre richesse".
+YEM_New_Laws:0 "Des lois rénovées
+YEM_New_Laws_desc:0 "Les anciennes lois au Yémen qui suivaient le modèle de leadership Zaydi ont été remplacées par le droit civil basé sur la préséance sur l'incidence.
+YEM_Local:0 "Règle locale"
+YEM_Local_desc:0 "Une plus grande autonomie a été accordée à certaines régions du pays, les décisions reposant sur les épaules de la population locale".
+YEM_Pol_Indust:0 "L'industrialisation politique"
+YEM_Pol_Indust_desc:0 "L'industrie dans le pays a commencé à connaître un essor grâce à nos réformes politiques".
+YEM_Farm_boye:0 "Fermes de qat et de café"
+YEM_Farm_boye_desc:0 "L'agriculture s'est étendue dans de nouvelles vallées fertiles du Yémen. Mieux encore, les nouvelles fermes cultivent le qat et le café, des aliments et des médicaments qui font la renommée des Yéménites".
 YEM_embrace_nahda:0 "Embracing Nahda"
-YEM_embrace_nahda_desc:0 "Nahda has begun affecting our society in accordance with new traditions, including a development of Islamic culture that will be the envy of the Arab world."
-YEM_local_admin:0 "Local Representatives"
-YEM_local_admin_desc:0 "Representatives have been assigned to each region in Yemen to explain the needs of the area and how to solve their problems."
-YEM_pan_arab_thot:0 "Pan-Arabist Thought"
-YEM_pan_arab_thot_desc:0 "Arab unity has again reached the shores of Yemen. The idea that we may overcome our national differences and unite against mushrikun."
+YEM_embrace_nahda_desc:0 "La Nahda a commencé à affecter notre société conformément à de nouvelles traditions, notamment un développement de la culture islamique qui fera l'envie du monde arabe".
+YEM_local_admin:0 "Représentants locaux"
+YEM_local_admin_desc:0 "Des représentants ont été affectés à chaque région du Yémen pour expliquer les besoins de la zone et comment résoudre leurs problèmes".
+YEM_pan_arab_thot:0 "Pensée panarabe"
+YEM_pan_arab_thot_desc:0 "L'unité arabe a de nouveau atteint les rivages du Yémen. L'idée que nous pouvons surmonter nos différences nationales et nous unir contre le mushrikun".
 YEM_famine:0 "Famine"
-YEM_disloyal_vassal:0 "Disloyal Vassal"
-YEM_disloyal_vassal_desc:0 "The Ottomans should hold no control over us or our decisions. Our power is derived a greater power than theirs."
-YEM_arabian_integration:0 "Integrating Arabia"
-YEM_arabian_integration_desc:0 "With our defeat over Arabia, we now control the entirety of Arabia. However, problems run amok as the Yemeni and Arabian cultures hold animosity."
-YEM_arabian_integration_rebuild:0 "Rebuilding Arabia"
-YEM_arabian_integration_rebuild_desc:0 "Our Assistance in the process of repairing our great and holy land is admired by many."
-YEM_arabian_integration_dissent:0 "Crushing Arabian Dissent"
-YEM_arabian_integration_dissent_desc:0 "Many former Arabians have taken an outright hostile stance to our administration and are being dealt with accordingly."
-YEM_arabian_integration_2:0 "Appeasing Tribes"
-YEM_arabian_integration_2_desc:0 "The many tribes within our newly acquired lands are being compensated with gifts and special privileges to make them loyal to our government."
-YEM_arabian_integration_administration:0 "New Arabian Administration"
-YEM_arabian_integration_administration_desc:0 "Administrative laws have been updated to allow us to keep this great bounty of land we won."
-YEM_arabian_integration_rashids:0 "House of Rashid Invited"
-YEM_arabian_integration_rashids_desc:0 "The House of Rashid has been invited to Yemen after fleeing from Saudi Arabia."
+YEM_disloyal_vassal:0 "Vassal déloyal"
+YEM_disloyal_vassal_desc:0 "Les Ottomans ne devraient avoir aucun contrôle sur nous ou sur nos décisions. Notre pouvoir est plus grand que le leur".
+YEM_arabian_integration:0 "Intégrer l'Arabie"
+YEM_arabian_integration_desc:0 "Avec notre défaite sur l'Arabie, nous contrôlons maintenant la totalité de l'Arabie. Cependant, les problèmes s'enchaînent car les cultures yéménite et arabe sont animées d'une certaine animosité".
+YEM_arabian_integration_rebuild:0 "Reconstruire l'Arabie"
+YEM_arabian_integration_rebuild_desc:0 "Notre assistance dans le processus de réparation de notre grande et sainte terre est admirée par beaucoup".
+YEM_arabian_integration_dissent:0 "Écraser la dissidence arabe"
+YEM_arabian_integration_dissent_desc:0 "De nombreux anciens Arabes ont adopté une position franchement hostile à notre administration et sont traités en conséquence".
+YEM_arabian_integration_2:0 "Tribus d'apaisement"
+YEM_arabian_integration_2_desc:0 "Les nombreuses tribus qui vivent sur nos terres nouvellement acquises reçoivent des cadeaux et des privilèges spéciaux pour les rendre loyales envers notre gouvernement.
+YEM_arabian_integration_administration_2_desc:0 "Nouvelle administration arabe"
+YEM_arabian_integration_administration_desc:0 "Les lois administratives ont été mises à jour pour nous permettre de conserver cette grande prime de terre que nous avons gagnée.
+YEM_arabian_integration_rashids:0 "La maison de Rashid est invitée"
+YEM_arabian_integration_rashids_desc:0 "La Maison de Rachid a été invitée au Yémen après avoir fui l'Arabie Saoudite.
 YEM_arabian_integration_arabian_spirit:0 "Arabian Spirit"
-YEM_arabian_integration_arabian_spirit_desc:0 "The populace is now completely satisfied with our rule, and our new Arabian country will walk through this century with our head held high."
-YEM_PostalService:0 "Yemeni Postal Service"
-YEM_PostalService_desc:0 "To better exert control over the vast swathes of territory we govern and to connect our people to the central government, a new and expanded postal service has been set up by the Imam."
+YEM_arabian_integration_arabian_spirit_desc:0 "La population est maintenant entièrement satisfaite de notre régime, et notre nouveau pays arabe traversera ce siècle la tête haute".
+YEM_PostalService:0 "Service postal du Yémen"
+YEM_PostalService_desc:0 "Pour mieux contrôler les vastes étendues de territoire que nous gouvernons et pour relier notre peuple au gouvernement central, un nouveau service postal élargi a été mis en place par l'imam".
 
 ### Decisions###
-YEM_rebel_category:0 "Fight for our Freedom"
-YEM_rebel_category_desc:0 "With our preparation ready, we can officially declare independence from the Ottoman threat when the oppurtunity rises."
+YEM_rebel_category:0 "Lutter pour notre liberté"
+YEM_rebel_category_desc:0 "Avec notre préparation prête, nous pouvons officiellement déclarer l'indépendance de la menace ottomane lorsque l'occasion se présentera.
 
-YEM_proclaim_kingdom:0 "Proclaim the Mutawakkilite Kingdom"
-YEM_proclaim_kingdom_desc:0 "It is time! With our country more unified than ever, we can officially abolish the Imamate and officially declare the Kingdom of Yemen! Of course, we must first deal with the Ottomans who will not take kindly to this."
+YEM_proclaim_kingdom:0 "Proclamer le Royaume Mutawakkilite"
+YEM_proclaim_kingdom_desc:0 "Il est temps ! Notre pays étant plus unifié que jamais, nous pouvons officiellement abolir l'Imamate et déclarer officiellement le Royaume du Yémen ! Bien sûr, nous devons d'abord nous occuper des Ottomans qui ne seront pas d'accord avec cela".
 
 ### Tooltips ###
-YEM_free_fate_tooltip:0 "§RThis will affect the fate of our country once we break free from Ottoman rule.§!\n"
-YEM_authoritarian_tooltip:0 "This will push the country towards §YAuthoritarianism§!\n\n"
-YEM_democracy_tooltip:0 "This will push the country towards §YLiberalisation§!\n\n"
-YEM_OTT_peace_tooltip:0 "§RWe'll need to hold out against the Ottomans for 4 months before we can truly break free.§!\n"
-YEM_rebel_tooltip:0 "§RWe will rebel against the decaying Ottoman Empire!§!\n"
-YEM_rebel:0 "Yemen's Rebellion"
-YEM_rassid_arabia_flag:0 "Rassid Arabia has been declared"
-YEM_SocLibs:0 "The Shabab al-Amr have been elected"
-YEM_SocCons:0 "The Hait ad-Nadial have been elected"
-YEM_Imam_Gone:0 "The Imam has been deposed"
-YEM_flagship_tooltip:0 "Our flagship, the 'Yahya Sana'a Aden Arwa' will be deployed"
-YEM_JBS_invasion:0 "The Rashids invaded Yemen"
-YEM_rebel_OTT:0 "We have rebelled against the Ottoman Empire."
+YEM_free_fate_tooltip:0 "§R Cela affectera le destin de notre pays une fois que nous nous serons libérés de la domination ottomane.§!\n"
+YEM_authoritarian_tooltip:0 "Cela poussera le pays vers §YAuthoritarianism§!\n\n"
+YEM_democracy_tooltip:0 "Cela poussera le pays vers la §YLibéralisation§!\n\n"
+YEM_OTT_peace_tooltip:0 "§RNous devrons tenir tête aux Ottomans pendant 4 mois avant de pouvoir vraiment nous libérer.§!\n"
+YEM_rebel_tooltip:0 "§RNous nous rebellerons contre l'Empire ottoman en déclin !§!\n"
+YEM_rebel:0 "La rébellion du Yémen"
+YEM_rassid_arabia_flag:0 "L'Arabie rassidique a été déclarée"
+YEM_SocLibs:0 "Les Shabab al-Amr ont été élus"
+YEM_SocCons:0 "Les Hait ad-Nadial ont été élus"
+YEM_Imam_Gone:0 "L'imam a été déposé"
+YEM_flagship_tooltip:0 "Notre navire amiral, le "Yahya Sana'a Aden Arwa", sera déployé".
+YEM_JBS_invasion:0 "Les Rashid ont envahi le Yémen"
+YEM_rebel_OTT:0 "Nous nous sommes rebellés contre l'Empire ottoman."
 
 ### Parties Yemen ###
-YEM_totalist_party:0 "ATUM"
-YEM_totalist_party_long:0 "Aden Trade Union Maximists"
+YEM_totalist_party:0 "USMA"
+YEM_totalist_party_long:0 "Union Syndicale Maximiste d'Aden"
 YEM_radical_socialist_party:0 "Lajnat Almuqawama"
 YEM_radical_socialist_party_long:0 "Lajnat Almuqawama"
-YEM_syndicalist_party:0 "ATUC"
-YEM_syndicalist_party_long:0 "Aden Trade Union Congress"
-YEM_social_democrat_party:0 "MTU"
-YEM_social_democrat_party_long:0 "Moderate Trade Unionists"
+YEM_syndicalist_party:0 "CSA"
+YEM_syndicalist_party_long:0 "Congrès Syndical d'Aden"
+YEM_social_democrat_party:0 "Modérés"
+YEM_social_democrat_party_long:0 "Syndicalistes Modérés"
 YEM_social_liberal_party:0 "Shabab Al-Amr"
 YEM_social_liberal_party_long:0 "Shabab al-Amr bil-Maruf wal-Nahian al-Munka"
-YEM_market_liberal_party:0 "Liberalists"
-YEM_market_liberal_party_long:0 "Hait al-Nadial Liberalists"
+YEM_market_liberal_party:0 "Libéraux"
+YEM_market_liberal_party_long:0 "Hait al-Nadial Libéraux"
 YEM_social_conservative_party:0 "Hait al-Nadial"
 YEM_social_conservative_party_long:0 "Hait al-Nadial"
-YEM_authoritarian_democrat_party:0 "Royalists"
-YEM_authoritarian_democrat_party_long:0 "Royalists"
-YEM_paternal_autocrat_party:0 "Imamate"
-YEM_paternal_autocrat_party_long:0 "The Imamate"
-YEM_national_populist_party:0 "YAR"
-YEM_national_populist_party_long:0 "Yemen Arab Republic"
+YEM_authoritarian_democrat_party:0 "Royalistes"
+YEM_authoritarian_democrat_party_long:0 "Royalistes"
+YEM_paternal_autocrat_party:0 "Imamat"
+YEM_paternal_autocrat_party_long:0 "L'Imamat"
+YEM_national_populist_party:0 "RAY"
+YEM_national_populist_party_long:0 "Républicains Arabes du Yemen"
 
 ### Events ###
 
-yemen.1.t:0 "The Imamate of Yemen"
-yemen.1.d:0 "Following Ottoman Victories in Southern Arabia and victory in the Weltkrieg, along with collapse of the British Empire in 1920, Yemen experienced a large growth in the size of her borders. However with the continued Ottoman governance of the Sunni populations and their extremely lax ruling of the areas under their control the newly enlarged state found itself riddled with unrest. With the Zaydi Shia Imam at the head of state, he seeks to dominate the Yemeni lands, earn his freedom from the Ottomans, and defend what his country had rightfully earned."
-yemen.1.a:0 "Greater Yemen must be defended!"
+yemen.1.t:0 "L'imamat du Yémen"
+yemen.1.d:0 "Après les victoires ottomanes en Arabie du Sud et la victoire dans la Weltkrieg, ainsi que l'effondrement de l'Empire britannique en 1920, le Yémen a connu une forte croissance de la taille de ses frontières. Cependant, avec la poursuite de la gouvernance ottomane des populations sunnites et leur laxisme extrême dans la gestion des zones sous leur contrôle, le nouvel État élargi s'est retrouvé en proie à des troubles. Avec l'imam chiite Zaydi à la tête de l'État, il cherche à dominer les terres yéménites, à gagner sa liberté face aux Ottomans et à défendre ce que son pays a légitimement gagné".
+yemen.1.a:0 "Le Grand Yémen doit être défendu !"
 
-yemen.2.t:0 "Black Monday Ripples Hit Yemen!"
-yemen.2.d:0 "After the crash of the German stock markets, the ripples have already washed over both the economically weak Ottomans and the economically young Egypt. What small economy we have in Yemen has been put into decline by the global crisis."
-yemen.2.a:0 "We must act soon!"
+yemen.2.t:0 "Les vagues du lundi noir frappent le Yémen !"
+yemen.2.d:0 "Après le crash des marchés boursiers allemands, les répercussions se sont déjà fait sentir sur les Ottomans, économiquement faibles, et sur la jeune Egypte. La petite économie que nous avons au Yémen a été mise en déclin par la crise mondiale".
+yemen.2.a:0 "Nous devons agir vite !"
 
-yemen.3.t:0 "Rebellious Sentiment in Yemen"
-yemen.3.d:0 "After the end of the Weltkrieg, and past that, the unrest in Yemen has only been increasing. The poor administration by the Ottomans and the discontent from the authoritarian rule of the Imamate has led to numerous intellectual groups, and over time they have sought refuge in areas out of our control and in more weak Ottoman governed regions. We must now decide how to handle these revolutionaries hiding in our lands"
-yemen.3.a:0 "They shall be rooted out!"
+yemen.3.t:0 "Sentiment de rébellion au Yémen"
+yemen.3.d:0 "Après la fin de la Weltkrieg, et au-delà, les troubles au Yémen n'ont fait qu'augmenter. La mauvaise administration des Ottomans et le mécontentement face au régime autoritaire de l'Imamate ont donné naissance à de nombreux groupes intellectuels qui, au fil du temps, ont cherché refuge dans des zones hors de notre contrôle et dans des régions à régime ottoman plus faible. Nous devons maintenant décider comment gérer ces révolutionnaires qui se cachent sur nos terres".
+yemen.3.a:0 "Ils seront déracinés !"
 
-yemen.4.t:0 "Rebellious Sentiment in Asir"
-yemen.4.d:0 "We have sent loyal troops under the guidance of a few local ministers and one of the Imam's sons into the Province of Asir to hunt for rebels, and find a way to deal with the unrest."
-yemen.4.a:0 "They shall be brought to the wall!"
-yemen.4.b:0 "Yemen must stand united!"
+yemen.4.t:0 "Sentiment de rébellion en Asie"
+yemen.4.d:0 "Nous avons envoyé des troupes loyales sous la direction de quelques ministres locaux et d'un des fils de l'imam dans la province d'Asir pour chasser les rebelles et trouver un moyen de faire face aux troubles.
+yemen.4.a:0 "Ils seront amenés au mur !"
+yemen.4.b:0 "Le Yémen doit rester uni !"
 
-yemen.5.t:0 "Rebellious Sentiment in Aden"
-yemen.5.d:0 "We have sent loyal Troops under the guidance of a few local ministers and one of the Imam's Sons into the Province of Aden to hunt for rebels, and find a way to deal with the unrest."
-yemen.5.a:0 "They shall be brought to the wall!"
-yemen.5.b:0 "Yemen must stand united!"
+yemen.5.t:0 "Sentiment de rébellion à Aden"
+yemen.5.d:0 "Nous avons envoyé des troupes loyales sous la direction de quelques ministres locaux et d'un des fils de l'imam dans la province d'Aden pour chasser les rebelles et trouver un moyen de faire face aux troubles.
+yemen.5.a:0 "Ils seront amenés au mur !"
+yemen.5.b:0 "Le Yémen doit rester uni !"
 
-yemen.6.t:0 "End of Anarchy"
-yemen.6.d:0 "Now that we have sent probing forces across our countryside and there is an air of control. All we can hope is that our actions were enough to preserve internal stability in Yemen."
-yemen.6.a:0 "It is time to heal."
+yemen.6.t:0 "La fin de l'anarchie"
+yemen.6.d:0 "Maintenant que nous avons envoyé des forces de sondage à travers notre campagne et qu'il y a un air de contrôle. Tout ce que nous pouvons espérer, c'est que nos actions ont été suffisantes pour préserver la stabilité interne du Yémen".
+yemen.6.a:0 "Il est temps de guérir."
 
-yemen.8.t:0 "A Light Hand"
-yemen.8.d:0 "Our military ventures into Ottoman held land led us to realise that the true enemy are the occupying Turks, they are at fault for this unrest, and we shall rally the people against them."
-yemen.8.a:0 "Down with the Ottomans!"
+yemen.8.t:0 "A Light Hand" (Une main légère)
+yemen.8.d:0 "Nos aventures militaires dans les terres détenues par les Ottomans nous ont fait comprendre que le véritable ennemi est l'occupant turc, qu'il est responsable de ces troubles et que nous allons rallier le peuple contre lui.
+yemen.8.a:0 "A bas les Ottomans !"
 
 yemen.9.t:0 "Focused Crackdown"
-yemen.9.d:0 "After the first few crackdowns on dissent we have taken a more lax tone in our anti-partisan efforts. This will ensure the people of Yemen do not hate us, and that the wounds we have open can heal sooner."
-yemen.9.a:0 "We've shown our hand."
+yemen.9.d:0 "Après les premières mesures de répression de la dissidence, nous avons adopté un ton plus laxiste dans nos efforts antipartisans. Cela permettra au peuple du Yémen de ne pas nous haïr, et de faire en sorte que les blessures que nous avons ouvertes puissent guérir plus rapidement".
+yemen.9.a:0 "Nous avons montré notre main."
 
-yemen.10.t:0 "A Firm Grip"
-yemen.10.d:0 "We have searched high and low for as many people bearing unsavory ideas as we could, some have fled into deeper hiding, however they are politically broken. Blood stains the streets of towns across Yemen."
-yemen.10.a:0 "There will be no questioning my rule!"
+yemen.10.t:0 "Une prise ferme"
+yemen.10.d:0 "Nous avons cherché en haut et en bas autant de personnes portant des idées douteuses que possible, certaines ont fui dans une clandestinité plus profonde, mais elles sont politiquement brisées. Le sang souille les rues des villes du Yémen".
+yemen.10.a:0 "Il n'y aura pas de remise en cause de mon règne !"
 
-yemen.11.t:0 "The Kingdom Proclaimed!"
-yemen.11.d:0 "In the ashes of the old order in Arabia our free kingdom will rise. We must now deal with the consequences of being without major outside aid. As forces within Yemen begin to stir we must keep aware of the world outside our lands."
-yemen.11.a:0 "Three hurrahs for Yemen!"
+yemen.11.t:0 "Le royaume proclamé !"
+yemen.11.d:0 "Dans les cendres de l'ancien ordre en Arabie, notre royaume libre s'élèvera. Nous devons maintenant faire face aux conséquences de notre absence d'aide extérieure majeure. Alors que les forces à l'intérieur du Yémen commencent à s'agiter, nous devons rester conscients du monde extérieur à nos terres."
+yemen.11.a:0 "Trois hourras pour le Yémen !"
 
-yemen.14.t:0 "The Rebellion is Crushed"
-yemen.14.d:0 "With the rebellion rooted out in its infancy it did not have enough steam to resist the forces of the Imamate, the kingdom is preserved!"
-yemen.14.a:0 "We have assured peace and stability."
+yemen.14.t:0 "La rébellion est écrasée"
+yémen.14.d:0 "La rébellion ayant été déracinée à ses débuts, elle n'a pas eu assez de force pour résister aux forces de l'Imamate, le royaume est préservé !
+yemen.14.a:0 "Nous avons assuré la paix et la stabilité."
 
-yemen.16.t:0 "On the Verge of Collapse"
-yemen.16.d:0 "With our mercy towards rebel groups within our country while we were under Ottoman rule, the rebels have begun to rise up against our regime! Wishing to end the Imamate and declare the Republic of Yemen, this group could be a risk of our sovereignty. We must crush these upstarts at once!"
-yemen.16.a:0 "For the republic!"
-yemen.16.b:0 "They must be stopped!"
+yemen.16.t:0 "Au bord de l'effondrement"
+yemen.16.d:0 "Avec notre pitié envers les groupes rebelles de notre pays alors que nous étions sous la domination ottomane, les rebelles ont commencé à se soulever contre notre régime ! Souhaitant mettre fin à l'Imamate et déclarer la République du Yémen, ce groupe pourrait être un risque pour notre souveraineté. Nous devons écraser ces arrivistes immédiatement !"
+yemen.16.a:0 "Pour la république !"
+yemen.16.b:0 "Ils doivent être arrêtés !"
 
-yemen.17.t:0 "Disorder in the Kingdom"
-yemen.17.d:0 "With our mercy towards rebel groups within our country while we were under Ottoman rule, the rebels have begun to rise up against our regime! Wishing to end the Imamate and declare the Republic of Yemen, this group could be a risk of our sovereignty. We must crush these upstarts at once!"
-yemen.17.a:0 "The republic shall prevail!"
-yemen.17.b:0 "We will break them!"
+yemen.17.t:0 "Désordre dans le royaume"
+yemen.17.d:0 "Avec notre pitié envers les groupes rebelles de notre pays alors que nous étions sous la domination ottomane, les rebelles ont commencé à se soulever contre notre régime ! Souhaitant mettre fin à l'Imamate et déclarer la République du Yémen, ce groupe pourrait être un risque pour notre souveraineté. Nous devons écraser ces arrivistes immédiatement !"
+yemen.17.a:0 "La république prévaudra !"
+yemen.17.b:0 "Nous les briserons !"
 
-yemen.18.t:0 "The Rebellion is Crushed"
-yemen.18.d:0 "With the hard fought victory against the rebels, they lost all power to resist the forces of the Imamate, the kingdom is preserved!"
-yemen.18.a:0 "We have assured peace and stability."
+yemen.18.t:0 "La rébellion est écrasée"
+yemen.18.d:0 "Avec la victoire durement remportée contre les rebelles, ils ont perdu tout pouvoir de résister aux forces de l'Imamate, le royaume est préservé !
+yemen.18.a:0 "Nous avons assuré la paix et la stabilité."
 
-yemen.19.t:0 "The Rebellion is Crushed"
-yemen.19.d:0 "With the rebellion rooted out partially in its infancy it was softened up for the forces of the Imamate, the kingdom is preserved!"
-yemen.19.a:0 "We have assured peace and stability."
+yemen.19.t:0 "La rébellion est écrasée"
+yemen.19.d:0 "La rébellion ayant été partiellement déracinée à ses débuts, elle a été adoucie pour les forces de l'Imamate, le royaume est préservé !
+yemen.19.a:0 "Nous avons assuré la paix et la stabilité."
 
-yemen.20.t:0 "The First Election of the New Republic"
-yemen.20.d:0 "With the overthrow of the corrupt Imamate, the first ever Yemeni election have been held. The two main factions which have been the ones to overthrow the Imamate, are the Hait al-Nadial and the Shabab Al-Amr. Both parties have put towards great work towards their campaign, and the people all greatly await the results of the election."
-yemen.20.a:0 "The Hait al-Nidal will guide us."
-yemen.20.b:0 "The Shabab Al-Amr Will give us the change we need!"
+yemen.20.t:0 "La première élection de la nouvelle République"
+yemen.20.d:0 "Avec le renversement de l'imamat corrompu, les toutes premières élections yéménites ont eu lieu. Les deux principales factions qui ont été celles qui ont renversé l'Imamate sont le Hait al-Nadial et le Shabab Al-Amr. Les deux partis ont fait de gros efforts pour leur campagne, et le peuple attend avec impatience les résultats de l'élection".
+yemen.20.a:0 "Le Hait al-Nidal nous guidera."
+yemen.20.b:0 "Le Shabab Al-Amr nous donnera le changement dont nous avons besoin !"
 
-yemen.22.t:0 "Yemen Attains Independence"
-yemen.22.d:0 "The rebellious vassal state of Yemen in the south of us declared independence from us over 2 months ago. With very limited advances into their territory and fierce resistance, our advisers suggested letting them go, with the majority of the government and the Sultan all agreeing the resources and men lost is not worth it when we have the greater threats of Egypt, Arabia, and [PER.GetNameDef] to worry about."
-yemen.22.a:0 "We'll come back, stronger than before."
+yemen.22.t:0 "Le Yémen accède à l'indépendance"
+yemen.22.d:0 "L'État vassal rebelle du Yémen, au sud de notre pays, a déclaré son indépendance il y a plus de deux mois. Avec des avancées très limitées sur leur territoire et une résistance féroce, nos conseillers ont suggéré de les laisser partir, la majorité du gouvernement et le Sultan étant tous d'accord pour dire que les ressources et les hommes perdus ne valent pas la peine alors que nous devons nous préoccuper des plus grandes menaces que sont l'Égypte, l'Arabie et [PER.GetNameDef]".
+yemen.22.a:0 "Nous reviendrons, plus forts qu'avant."
 
 yemen.23.t:0 "Our Independence Secured"
-yemen.23.d:0 "With our revolt against the Ottomans four months ago, the Ottomans obtained very minimal land gains against our newly found kingdom, and the Ottoman government has officially decided to end the war. However with a unified threat gone, the republicans within Yemen have begun to move again. While independence has been obtained, the road ahead will still be a troubled one."
-yemen.23.a:0 "We will persevere."
+yemen.23.d:0 "Avec notre révolte contre les Ottomans il y a quatre mois, les Ottomans ont obtenu des gains fonciers très minimes contre notre royaume nouvellement fondé, et le gouvernement ottoman a officiellement décidé de mettre fin à la guerre. Cependant, la menace unifiée ayant disparu, les républicains du Yémen ont recommencé à bouger. Bien que l'indépendance ait été obtenue, le chemin à parcourir sera encore semé d'embûches".
+yemen.23.a:0 "Nous allons persévérer."
 
-yemen.24.t:0 "Our Presence in Yemen"
-yemen.24.d:0 "While Yemen revolted against our rule over four months ago, we have managed to push past their prepared defences and take over the rest of Hejaz. With the Yemeni Imam and people realizing their defeat, they have agreed to surrender on the terms that the Imam gets to remain on the Yemeni throne."
-yemen.24.a:0 "Another threat disposed of."
+yemen.24.t:0 "Notre présence au Yémen"
+yemen.24.d:0 "Alors que le Yémen s'est révolté contre notre régime il y a plus de quatre mois, nous avons réussi à dépasser leurs défenses préparées et à prendre le contrôle du reste du Hejaz. L'imam yéménite et le peuple ont réalisé leur défaite et ont accepté de se rendre aux conditions que l'imam reste sur le trône du Yémen.
+yemen.24.a:0 "Une autre menace éliminée."
 
-yemen.25.t:0 "Defeat Against the Ottomans"
-yemen.25.d:0 "While the kingdom was proclaimed not longer than four months ago, the eternal Ottoman threat has managed to push deep within our lines. With the loss of Azir and the Ottomans encroaching upon our capital, our Imam officially decided to surrender to the Ottomans. The Imam due to this decision has been allowed to stay on the Yemeni throne, but we will most likely have a closer watch on our nation from now on."
-yemen.25.a:0 "One day, we'll all be free."
+yemen.25.t:0 "Défaite contre les Ottomans"
+yemen.25.d:0 "Alors que le royaume a été proclamé il n'y a pas plus de quatre mois, l'éternelle menace ottomane a réussi à s'enfoncer profondément dans nos lignes. Avec la perte de l'Azir et l'empiètement des Ottomans sur notre capitale, notre imam a officiellement décidé de se rendre aux Ottomans. Grâce à cette décision, l'imam a été autorisé à rester sur le trône du Yémen, mais nous aurons très probablement une surveillance plus étroite sur notre nation à partir de maintenant".
+yemen.25.a:0 "Un jour, nous serons tous libres."
 
-yemen.26.t:0 "Conquest of Arabia"
-yemen.26.d:0 "While most assumed our war against Arabia would be a largely fruitless effort, we have not only managed to prevail, but push even further. With the fall of the Arabian capital, we have managed to unify Arabia under our banner. While the process of integration will be a long and drawn-out process, we can now declare ourselves Arabia."
-yemen.26.a:0 "Truly a Greater Yemen."
+yemen.26.t:0 "Conquête de l'Arabie"
+yemen.26.d:0 "Alors que la plupart des gens pensaient que notre guerre contre l'Arabie serait un effort largement infructueux, nous avons non seulement réussi à l'emporter, mais nous avons poussé encore plus loin. Avec la chute de la capitale arabe, nous avons réussi à unifier l'Arabie sous notre bannière. Alors que le processus d'intégration sera long et fastidieux, nous pouvons maintenant nous déclarer "Arabie"".
+yemen.26.a:0 "Vraiment un grand Yémen."
 
-yemen.27.t:0 "Supporting the Rashids"
-yemen.27.d:0 "Tensions have been high between Jabal Shammar and Nejd over unification of Arabia, and they have reached a boiling point as of now. With war now declared by Jabal Shammar, lead by the Rashid Dynasty which is directly related to our Rassid Dynasty, we can help them achieve victory over the hated Sauds to the North."
-yemen.27.a:0 "Send our brethren support."
-yemen.27.b:0 "Our independence comes first."
+yemen.27.t:0 "Soutenir les Rachid"
+yemen.27.d:0 "Les tensions ont été fortes entre Jabal Shammar et Nejd au sujet de l'unification de l'Arabie, et elles ont atteint un point d'ébullition dès maintenant. Avec la guerre maintenant déclarée par Jabal Shammar, dirigée par la dynastie des Rashid qui est directement liée à notre dynastie rassidique, nous pouvons les aider à remporter la victoire sur les Sauds détestés du Nord".
+yemen.27.a:0 "Envoyez le soutien de nos frères."
+yemen.27.b:0 "Notre indépendance passe avant tout."
 
-yemen.28.t:0 "The Rassids Send Support"
-yemen.28.d:0 "Our cousin dynasty in Yemen, the Rassids have begun to send us support in toppling Saud's emirate in the south of Arabia. While Yemen is still under Ottoman influence, they have pledged to do whatever they can to support our decisions and ambitions into the future."
-yemen.28.a:0 "We'll always have a friend in the south."
+yemen.28.t:0 "Les Rassids envoient leur soutien"
+yemen.28.d:0 "Notre dynastie cousine au Yémen, les Rassids, a commencé à nous envoyer son soutien pour renverser l'émirat saoudien dans le sud de l'Arabie. Alors que le Yémen est toujours sous influence ottomane, ils se sont engagés à faire tout leur possible pour soutenir nos décisions et nos ambitions à l'avenir".
+yemen.28.a:0 "Nous aurons toujours un ami dans le sud."
 
 yemen.29.t:0 "Dhofar Taken"
-yemen.29.d:0 "With our invasion of Oman over the territory of Dhofar a success, we can leave them to their own wits. Of course, there are some within the government which think we should continue the war in order to strengthen our state further, but a drawn out war in Oman is less than desirable when other threats still lie about."
-yemen.29.a:0 "We'll be taking Dhofar."
-yemen.29.b:0 "We'll be taking Oman!"
+yemen.29.d:0 "Notre invasion d'Oman sur le territoire du Dhofar étant un succès, nous pouvons les laisser à leur sort. Bien sûr, certains au sein du gouvernement pensent que nous devrions poursuivre la guerre afin de renforcer davantage notre État, mais une guerre prolongée en Oman est moins que souhaitable alors que d'autres menaces existent encore.
+yemen.29.a:0 "Nous allons prendre le Dhofar."
+yemen.29.b:0 "Nous allons prendre Oman !"
 
 yemen.30.t:0 "Dhofar Integrated"
-yemen.30.d:0 "With our takeover of Dhofar from Oman not long ago, we have begun to successfully integrate the territory into our country. While the territory is sparsely populated and arid, it is not any less useful to our kingdom than any other part of the Greater Yemeni state. With this, all of Yemen's claims lye within our hands, and we will try to keep them safe."
-yemen.30.a:0 "Our dream is complete."
+yemen.30.d:0 "Avec notre reprise du Dhofar d'Oman il y a peu, nous avons commencé à intégrer avec succès le territoire dans notre pays. Bien que le territoire soit peu peuplé et aride, il n'est pas moins utile à notre royaume que toute autre partie de l'État du Grand Yémen. Avec cela, toutes les revendications du Yémen sont entre nos mains, et nous allons essayer de les garder en sécurité".
+yemen.30.a:0 "Notre rêve est complet."
 
-yemen.32.t:0 "Imam Hanged"
-yemen.32.d:0 "The former dictator and Imam of Yemen, Yahya al Hamid has been put to death in a public trial today in the name of the Republic. With the hanging comes a destruction of influence from imperial restorationists, as they are left with Ahmad bin Yahya to the throne, who is a less noticeable and inspirational figure than his father. Hopefully this will ensure the Republic remains strong in the face of threats into the future."
-yemen.32.a:0 "He got what he deserved."
+yemen.32.t:0 "Imam pendu"
+yemen.32.d:0 "L'ancien dictateur et imam du Yémen, Yahya al Hamid, a été mis à mort aujourd'hui dans un procès public au nom de la République. Cette pendaison s'accompagne d'une destruction de l'influence des restaurateurs impériaux, puisqu'ils sont laissés avec Ahmad bin Yahya sur le trône, qui est une figure moins visible et moins inspirée que son père. Il faut espérer que cela permettra à la République de rester forte face aux menaces qui pèsent sur elle".
+yemen.32.a:0 "Il a eu ce qu'il méritait."
 
 yemen.33.t:0 "Putting the Sauds to Death"
-yemen.33.d:0 "With us managing to calm the situation within Arabia significantly, we can begin to make moves against political opponents. The most obvious was the Saud Dynasty, which ruled over Arabia previously and attempted to put an end to our nation. This morning in a public trial, the entirety of the Saud Dynasty that we captured in the war, including Abdulaziz al Saud, have been put to death."
-yemen.33.a:0 "An end to an eternal enemy."
+yemen.33.d:0 "Si nous parvenons à calmer la situation en Arabie de manière significative, nous pourrons commencer à prendre des mesures contre les opposants politiques. La plus évidente est celle de la dynastie des Saoud, qui a régné sur l'Arabie auparavant et a tenté de mettre fin à notre nation. Ce matin, lors d'un procès public, l'ensemble de la dynastie saoudienne que nous avons capturée pendant la guerre, y compris Abdulaziz al Saud, a été mise à mort".
+yemen.33.a:0 "La fin d'un ennemi éternel."
 
-yemen.34.t:0 "Rassids Invited to Arabia"
-yemen.34.d:0 "With the death of the Saud Dynasty and Arabia now calmer than ever before, the conditions are right for our cousin dynasty, the Rashids, to partake in the administration of our new Arabia. The Rashids are extremely grateful for this opportunity as they thought their chances of ever ruling Arabia were shattered after their defeat against Nejd, but an enemy of an enemy is a friend."
-yemen.34.a:0 "Welcome Home, Dear Friends."
+yemen.34.t:0 "Rassids invités en Arabie"
+yemen.34.d:0 "Avec la mort de la dynastie des Saoud et de l'Arabie, maintenant plus calme que jamais, les conditions sont réunies pour que notre dynastie cousine, les Rachid, participe à l'administration de notre nouvelle Arabie. Les Rachid sont extrêmement reconnaissants de cette opportunité car ils pensaient que leurs chances de diriger un jour l'Arabie étaient anéanties après leur défaite contre Nejd, mais l'ennemi d'un ennemi est un ami".
+yemen.34.a:0 "Bienvenue à la maison, chers amis."
 
 yemen.35.t:0 "The Rebel Remnants"
-yemen.35.d:0 "With us managing to withstand the rebel scum earlier, our focus has largely been ignoring the remnants of the rebels and more of consolidating the regime after the civil war, the consolidation of the regime means we can finally finish them off. Yemeni Gendarmes have been sent all throughout Yemen to hunt down the remnants of this Republican scum, with it being mostly successful. The reappearance of Republican movements in Yemen won't be happening anytime soon."
-yemen.35.a:0 "Traitors of the state will always be dealt with."
+yemen.35.d:0 "Alors que nous avons réussi à résister à la racaille des rebelles plus tôt, notre attention s'est largement concentrée sur l'ignorance des restes des rebelles et plus sur la consolidation du régime après la guerre civile, la consolidation du régime signifie que nous pouvons enfin les achever. Des gendarmes yéménites ont été envoyés dans tout le Yémen pour traquer les restes de cette racaille républicaine, avec succès pour la plupart. La réapparition des mouvements républicains au Yémen ne se fera pas de sitôt".
+yemen.35.a:0 "Les traîtres à l'État seront toujours traités."
 
-yemen.36.t:0 "Continued Flow of Refugees"
-yemen.36.d:0 "As the Ottoman Empire continues to crack down in Hejaz and skirmishes between the Saudis and the Rashids drag on more and more people flock to our borders to seek refuge. This include those who align with the Republican side of Yemeni politics."
-yemen.36.a:0 "Hopefully they don't cause trouble..."
+yemen.36.t:0 "Flux continu de réfugiés"
+yemen.36.d:0 "Alors que l'Empire ottoman continue de sévir dans le Hejaz et que les escarmouches entre les Saoudiens et les Rachidiens font que de plus en plus de gens affluent à nos frontières pour y chercher refuge. Cela inclut ceux qui s'alignent sur le côté républicain de la politique yéménite".
+yemen.36.a:0 "Espérons qu'ils ne causeront pas de problèmes..."
 
-yemen.37.t:0 "Black Monday Ripples"
-yemen.37.d:0 "Black Monday, while not hitting us as hard as other nations, has indirectly resulted in an increased amount of Anti-Monarchist thought within the country. Republicans while typically concentrated in the north and south of our country, have begun to popup in our capital and other places unseen before. This could set a worrying trend if not handled carefully..."
-yemen.37.a:0 "They'll be crushed where they stand."
+yemen.37.t:0 "Ondes du lundi noir"
+yemen.37.d:0 "Le Lundi noir, bien qu'il ne nous frappe pas aussi durement que d'autres nations, a indirectement entraîné une augmentation de la pensée antimonarchiste dans le pays. Les républicains, bien que généralement concentrés dans le nord et le sud de notre pays, ont commencé à apparaître dans notre capitale et dans d'autres endroits, comme jamais auparavant. Cela pourrait déclencher une tendance inquiétante si on n'y prend garde..."
+yemen.37.a:0 "Ils seront écrasés là où ils se trouvent."
 
-yemen.38.t:0 "Yemen Requests an Old Ship"
-yemen.38.d:0 "Yemen, a nation in Southern Arabia has been attempting to build a navy for months now, with success occurring on rare occasions. In order to help kickstart the project further, Yemen has asked to purchase the 'SMS Kaiser Wilhelm der Grosse', which was built at the turn of the century. Considering the decent price Yemen is offering for a ship this old, there is little reason to refuse their request."
-yemen.38.a:0 "We'll accept the purchase."
-yemen.38.b:0 "We'd rather have the scrap."
+yemen.38.t:0 "Le Yémen demande un vieux navire"
+yemen.38.d:0 "Le Yémen, une nation du sud de l'Arabie, tente de construire une marine depuis des mois maintenant, avec de rares succès. Afin d'aider à faire avancer le projet, le Yémen a demandé à acheter le "SMS Kaiser Wilhelm der Grosse", qui a été construit au début du siècle. Compte tenu du prix décent que le Yémen offre pour un navire aussi ancien, il n'y a guère de raison de refuser leur demande".
+yemen.38.a:0 "Nous acceptons l'achat."
+yemen.38.b:0 "Nous préférons avoir la ferraille."
 
-yemen.39.t:0 "Germany Provides a Ship"
-yemen.39.d:0 "Germany has accepted our purchase of a ship! They have given us the old ship 'SMS Kaiser Wilhelm der Grosse', which is hereby being renamed to the 'Yahya Sana'a Aden Arwa' while under our control. This ship will be the starting point of a great Yemeni navy into the future!"
-yemen.39.a:0 "Yemen rules the waves!"
+yemen.39.t:0 "L'Allemagne fournit un navire"
+yemen.39.d:0 "L'Allemagne a accepté notre achat d'un navire ! Ils nous ont donné l'ancien navire "SMS Kaiser Wilhelm der Grosse", qui est renommé "Yahya Sana'a Aden Arwa" pendant qu'il est sous notre contrôle. Ce navire sera le point de départ d'une grande marine yéménite dans le futur !"
+yemen.39.a:0 "Le Yémen domine les vagues !"
 
-yemen.40.t:0 "Germany Refuses the Purchase"
-yemen.40.d:0 "Despite our generous offer for such an old ship, Germany has decided to turn down our offer to purchase an old German cruiser. While this doesn't mean the end of a chance for a Yemeni navy in the future, it has served to demoralize Yemeni people who dreamed of sailing the seas in the future."
-yemen.40.a:0 "A sad day indeed."
+yemen.40.t:0 "L'Allemagne refuse l'achat"
+yemen.40.d:0 "Malgré notre offre généreuse pour un si vieux navire, l'Allemagne a décidé de refuser notre offre d'achat d'un vieux croiseur allemand. Bien que cela ne signifie pas la fin d'une chance pour une marine yéménite à l'avenir, cela a servi à démoraliser les Yéménites qui rêvaient de naviguer sur les mers à l'avenir".
+yemen.40.a:0 "Un triste jour en effet."
 
-yemen.41.t:0 "[GetYear] General Election"
-yemen.41.d:0 "With our liberation over 4 years ago, it is now time for another general election. The parties remain the same as last year, with the Hait al-Nadial and Shabab al-Amr going head to head over the victor. The results are opened, and the winner is..."
-yemen.41.a:0 "The Hait al-Nadial!"
-yemen.41.b:0 "The Shabab al-Amr!"
+yemen.41.t:0 " [GetYear] General Election "
+yemen.41.d:0 "Avec notre libération il y a plus de 4 ans, il est maintenant temps de tenir de nouvelles élections générales. Les partis restent les mêmes que l'année dernière, le Hait al-Nadial et le Shabab al-Amr s'affrontant pour la victoire. Les résultats sont ouverts, et le vainqueur est..."
+yemen.41.a:0 "Le Hait al-Nadial !"
+yemen.41.b:0 "Le Shabab al-Amr !"
 
-yemen.42.t:0 "Peace with the Sauds?"
-yemen.42.d:0 "Our war with Saudi Arabia has not been going into our favour, with Asir being lost and the Saudis encroaching on our capital. With our nation's existence in danger, we might need to give up Asir just for the sake of our survival."
-yemen.42.a:0 "Offer them Najran and Asir."
-yemen.42.b:0 "We'll beat them back!"
+yemen.42.t:0 "Peace with the Sauds ?"
+yemen.42.d:0 "Notre guerre avec l'Arabie Saoudite ne joue pas en notre faveur, l'Asie étant perdue et les Saoudiens empiétant sur notre capitale. L'existence de notre nation étant en danger, nous pourrions avoir besoin d'abandonner l'Asir juste pour le bien de notre survie."
+yemen.42.a:0 "Offrez-leur Najran et Asir."
+yemen.42.b:0 "Nous les battrons en retour !"
 
-yemen.43.t:0 "Yemen Offers Asir and Najran"
-yemen.43.d:0 "With the war against Yemen going to our advantage, they have offered us the Najran Desert and Asir in exchange for their survival. While we could continue pushing onward, there are bigger threats like [PER.GetNameDef] to the north breathing down our shoulders."
-yemen.43.a:0 "What a fine deal!"
-yemen.43.b:0 "Yemen is Arabian, no matter what."
+yemen.43.t:0 "Le Yémen offre l'Asir et le Najran"
+yemen.43.d:0 "La guerre contre le Yémen étant à notre avantage, ils nous ont offert le désert de Najran et l'Asir en échange de leur survie. Alors que nous pourrions continuer à avancer, il y a de plus grandes menaces comme [PER.GetNameDef] au nord qui pèse sur nos épaules."
+yemen.43.a:0 "Quelle belle affaire !"
+yemen.43.b:0 "Le Yémen est arabe, quoi qu'il arrive."
 
 yemen.44.t:0 "The Sauds Accept"
-yemen.44.d:0 "The Saudis have accepted our deal for peace in exchange for Najran and Asir. While our survival is secured, this has largely put an end to the Greater Yemen idea and has halted any ideas of expansionism."
-yemen.44.a:0 "A fate worse than death..."
+yemen.44.d:0 "Les Saoudiens ont accepté notre accord de paix en échange de Najran et Asir. Bien que notre survie soit assurée, cela a largement mis fin à l'idée du Grand Yémen et à toute idée d'expansionnisme".
+yemen.44.a:0 "Un destin pire que la mort..."
 
-yemen.45.t:0 "The Sauds Continue the War!"
-yemen.45.d:0 "The Sauds has outright denied any attempts at peace between our two nations, claiming that 'Yemen is rightfully Arabian'. This war will now continue for who knows how long, with no end in sight!"
-yemen.45.a:0 "We'll resist to the last man!"
+yemen.45.t:0 "Les Sauds continuent la guerre !"
+yemen.45.d:0 "Les Sauds ont carrément nié toute tentative de paix entre nos deux nations, affirmant que "le Yémen est légitimement arabe". Cette guerre va maintenant continuer pour je ne sais combien de temps, sans aucune fin en vue !"
+yemen.45.a:0 "Nous résisterons jusqu'au dernier homme !"
 
 ### Focuses ###
-YEM_My_Clay:0 "Defend Greater Yemen"
-YEM_My_Clay_desc:0 "In the wake of the Weltkrieg and the fall of the British Empire, Yemen has never been stronger. Defending our current form must be top priority, along with ensuring we are free from the Ottoman Empire."
-YEM_Consolidate_Hinterlands:0 "Consolidate The Hinterlands"
-YEM_Consolidate_Hinterlands_desc:0 "Yemen, particularly in the south is sparsely populated outside of it's coastlines and major ports. We must ensure they regions are consolidated and made for better living."
-YEM_Teaboo_Problems_commith:0 "Dealing with Rebel Remnants"
-YEM_Teaboo_Problems_commith_desc:0 "Although rebel groups were thought to be dealt with previously, the problem rose up again when the rebels that fled from Sana'a into Asir were provoked by people fleeing from Hejaz. Now that we own Asir and the rebels are active again, we have to deal with them one way or another."
-YEM_Live_and_let_live:0 "Religious Autonomy"
-YEM_Live_and_let_live_desc:0 "Religious Autonomy has been Enjoyed across Yemen going back to before the deal with the Ottomans, this deal is even more beneficial to us given our massive land grabs in recent years."
-YEM_Support_Zaydi:0 "Encourage Zaydi Faith"
-YEM_Support_Zaydi_desc:0 "With our massive expansions in the past few years we have seen the Zaydi faith become a smaller and smaller demographic in our own nation. This must be rectified."
-YEM_Protecc_Imam:0 "Create Yemeni Gendarmes"
-YEM_Protecc_Imam_desc:0 "With the rise of rebel groups once again, we must ensure the safety of the Imam against the threat. Creating the Gendarmes should help us suppress rebellious sentiment in the capital."
-YEM_Steal_Ottoman_Jobs:0 "Take Powers From Ottomans"
-YEM_Steal_Ottoman_Jobs_desc:0 "Ottoman officials still hold many seats within our governments and jobs, removing them will help lower the influence they hold over our people and country."
-YEM_Rebel_Crackdown:0 "Crackdown On Rebels"
-YEM_Rebel_Crackdown_desc:0 "While the Gendarmes are doing their job well since their expansion, rebels still lie where we can't see them. Launching an official crackdown on rebel activity in Asir and Aden will help permanently eliminate the threat."
-YEM_Minorities_Census:0 "Minorities Census"
-YEM_Minorities_Census_desc:0 "While Yemen is known to have minority cultures before the border expansion, the recent territorial expansion has increased the size of these minorities. Holding a census will help us figure out how to treat the new minorities in our country."
-YEM_Expand_Post_Services:0 "Expand Postal Service"
-YEM_Expand_Post_Services_desc:0 "Spreading information throughout Yemen has been a struggle not only due to the lack of roads and infrastructure, but also the small postal industry to spread news about events in the country. Expanding it will help us clearing explain what is going on to our people."
-YEM_Rally_The_Tribesmen:0 "Rally the Tribesmen"
-YEM_Rally_The_Tribesmen_desc:0 "War is brewing in the Middle East and Turkish arms may very soon not see itself the dominant force they have been for the last few decades. As the other Arabs gather their tribesmen, we should be wise to follow suit."
-YEM_Every_Yemen_a_Kingdom:0 "Declare the Mutawakkilite Kingdom"
-YEM_Every_Yemen_a_Kingdom_desc:0 "With our preparations complete, we can declare ourselves an independent kingdom when the Ottomans are in their most dire situation."
+YEM_My_Clay:0 "Défendre le Grand Yémen"
+YEM_My_Clay_desc:0 "Dans le sillage de la Weltkrieg et de la chute de l'Empire britannique, le Yémen n'a jamais été aussi fort. La défense de notre forme actuelle doit être la priorité absolue, tout comme la garantie que nous sommes libérés de l'Empire ottoman".
+YEM_Consolidate_Hinterlands:0 "Consolider l'arrière-pays"
+YEM_Consolidate_Hinterlands_desc:0 "Le Yémen, en particulier dans le sud, est peu peuplé en dehors de ses côtes et de ses principaux ports. Nous devons veiller à ce que ces régions soient consolidées et rendues plus vivables".
+YEM_Teaboo_Problems_commith:0 "S'occuper des restes des rebelles"
+YEM_Teaboo_Problems_commith_desc:0 "Bien que l'on ait pensé que les groupes rebelles étaient traités auparavant, le problème est réapparu lorsque les rebelles qui ont fui Sana'a vers l'Asie ont été provoqués par des personnes fuyant le Hejaz. Maintenant que nous possédons l'Asir et que les rebelles sont à nouveau actifs, nous devons les traiter d'une manière ou d'une autre".
+YEM_Live_and_let_live:0 "Autonomie religieuse"
+YEM_Live_and_let_live_desc:0 "L'autonomie religieuse a été appréciée à travers le Yémen depuis avant l'accord avec les Ottomans, cet accord est encore plus avantageux pour nous étant donné notre accaparement massif des terres ces dernières années.
+YEM_Support_Zaydi:0 "Encourager la foi Zaydi"
+YEM_Support_Zaydi_desc:0 "Avec nos expansions massives de ces dernières années, nous avons vu la foi Zaydi devenir une population de plus en plus petite dans notre propre nation. Cela doit être rectifié".
+YEM_Protecc_Imam:0 "Créer des gendarmes yéménites"
+YEM_Protecc_Imam_desc:0 "Avec la montée des groupes rebelles, une fois de plus, nous devons assurer la sécurité de l'imam contre la menace. La création des Gendarmes devrait nous aider à réprimer le sentiment de rébellion dans la capitale".
+YEM_Steal_Ottoman_Jobs:0 "Prendre les pouvoirs aux Ottomans"
+YEM_Steal_Ottoman_Jobs_desc:0 "Les fonctionnaires ottomans occupent toujours de nombreux sièges au sein de nos gouvernements et de nos emplois, les supprimer contribuera à réduire l'influence qu'ils exercent sur notre peuple et notre pays.
+YEM_Rebel_Crackdown:0 "La répression des rebelles"
+YEM_Rebel_Crackdown_desc:0 "Si les gendarmes font bien leur travail depuis leur expansion, les rebelles se trouvent toujours là où on ne les voit pas. Le lancement d'une répression officielle des activités des rebelles à Asir et Aden contribuera à éliminer définitivement la menace".
+YEM_Minorities_Census:0 "Recensement des minorités"
+YEM_Minorities_Census_desc:0 "Bien que le Yémen soit connu pour avoir des cultures minoritaires avant l'expansion de la frontière, la récente expansion territoriale a augmenté la taille de ces minorités. La tenue d'un recensement nous aidera à déterminer comment traiter les nouvelles minorités dans notre pays".
+YEM_Expand_Post_Services:0 "Etendre le Service Postal"
+YEM_Expand_Post_Services_desc:0 "La diffusion de l'information dans tout le Yémen a été une lutte non seulement en raison du manque de routes et d'infrastructures, mais aussi de la petite industrie postale pour diffuser des nouvelles sur les événements dans le pays. En l'élargissant, nous pourrons mieux expliquer ce qui se passe à notre population".
+YEM_Rally_The_Tribesmen:0 "Rallier les hommes des tribus"
+YEM_Rally_The_Tribesmen_desc:0 "Une guerre se prépare au Moyen-Orient et les armes turques pourraient très bientôt ne plus se voir comme la force dominante qu'elles ont été ces dernières décennies. Alors que les autres Arabes rassemblent leurs hommes de tribu, il serait sage de leur emboîter le pas".
+YEM_Every_Yemen_a_Kingdom:0 "Déclarer le Royaume Mutawakkilite"
+YEM_Every_Yemen_a_Kingdom_desc:0 "Une fois nos préparatifs terminés, nous pourrons nous déclarer royaume indépendant lorsque les Ottomans seront dans leur situation la plus difficile.
 
-YEM_Modern_Construction:0 "Modern Constructions"
-YEM_Modern_Construction_desc:0 "The methods of our current construction are long and outdated, and don't work well for the modern setting. Reforming our construction policies could be a good start in building Yemen for the future."
-YEM_Update_Aden_Rail:0 "New Aden Rail Lines"
-YEM_Update_Aden_Rail_desc:0 "The Aden Railway was built by the British in 1916 in order to help the transportation of supplies within the region. While the railway still has its uses, it is in desperate need of an update to be used effectively."
-YEM_Western_Yemen_Infra:0 "Red Sea Railways"
-YEM_Western_Yemen_Infra_desc:0 "The Red Sea has been a hub for Yemeni profit ever since the beginning of the millennium, generating great profit. Expanding railways should help increase the profit we get from the region."
-YEM_Hinterlands_Settling:0 "Populate the Hinterlands"
-YEM_Hinterlands_Settling_desc:0 "Despite our best efforts, the Hinterlands in the south of Yemen are still as empty and barren as ever. Making the region easier to commute to should help the region's population grow over time."
-YEM_Aden_Trade:0 "Expand Aden's Trade Influence"
-YEM_Aden_Trade_desc:0 "With the colonisation of the Hinterlands in Aden, Aden will soon become a place for commercial profit for Yemen."
-YEM_Aden_Goods:0 "Aden Goods Production"
-YEM_Aden_Goods_desc:0 "The goods we got through the Aden trade reveal new things not known before revealed by the foreign traders. Using this new-found knowledge and materials, we can expand Aden's industry further."
-YEM_New_Oasis_Hunt:0 "Study Foreign Plans"
-YEM_New_Oasis_Hunt_desc:0 "While we could try and make our own plan for the economy, surely powers who have already gone through the same problems as us before have plans that will work towards modernising the country."
-YEM_Start_Recovery:0 "End the Economic Downturn"
-YEM_Start_Recovery_desc:0 "Although Black Monday affected us much less than other countries due to our disconnect from Germany, some of it's ripples have still managed to affect us. Solving these should help bring some light to our already poor economy."
-YEM_Arable_Land_Reforms:0 "Import Industrial Tools"
-YEM_Arable_Land_Reforms_desc:0 "Our country very much shows the way the old world was, with many of our methods of doing everyday things being outdated. This includes the tools our workers use on a daily basis. Importing tools from beyond should help in making the lives of the workers easier."
-YEM_Oil_Prospects:0 "Prospect for Oil"
-YEM_Oil_Prospects_desc:0 "While we have managed to touch down upon light amounts of oil within Yemen, there has yet to be enough for us to actually generate profit. Perhaps searching for some more could bring unexpected results."
-YEM_Big_Farma:0 "Support Farming Industry"
-YEM_Big_Farma_desc:0 "The farming industry in Yemen is where a lot of the everyday population lies, especially in more sparsely populated areas. We need to ensure the industry remains up to date with the current standards set by the modern world."
-YEM_Modern_Economy:0 "Modern Economy"
-YEM_Modern_Economy_desc:0 "Through various reforms, plight, and crises, Yemen has been able to learn and build up from all these trouble-some experiences. Yemen now stands proud with other European countries, with its newly reforged economy."
+YEM_Construction_moderne:0 "Constructions modernes"
+YEM_Construction_moderne_desc:0 "Les méthodes de construction actuelles sont longues et dépassées, et ne conviennent pas au cadre moderne. La réforme de nos politiques de construction pourrait être un bon début pour la construction du Yémen de demain".
+YEM_Update_Aden_Rail:0 "Nouvelles lignes ferroviaires d'Aden
+YEM_Update_Aden_Rail_desc:0 "Le chemin de fer d'Aden a été construit par les Britanniques en 1916 afin de faciliter le transport des fournitures dans la région. Bien que le chemin de fer ait toujours son utilité, il a désespérément besoin d'une mise à jour pour être utilisé efficacement".
+YEM_Western_Yemen_Infra:0 "Les chemins de fer de la mer Rouge"
+YEM_Western_Yemen_Infra_desc:0 "Depuis le début du millénaire, la mer Rouge est une plaque tournante pour le profit yéménite, générant de grands profits. L'expansion des chemins de fer devrait contribuer à accroître les bénéfices que nous tirons de la région".
+YEM_Hinterlands_Setttling:0 "Peupler l'arrière-pays"
+YEM_Hinterlands_Settling_desc:0 "Malgré tous nos efforts, l'arrière-pays du sud du Yémen est toujours aussi vide et stérile. Faciliter les déplacements dans la région devrait aider la population de la région à croître au fil du temps".
+YEM_Aden_Trade:0 "Accroître l'influence commerciale d'Aden"
+YEM_Aden_Trade_desc:0 "Avec la colonisation de l'arrière-pays d'Aden, Aden deviendra bientôt un lieu de profit commercial pour le Yémen".
+YEM_Aden_Goods:0 "Production de biens à Aden"
+YEM_Aden_Goods_desc:0 "Les marchandises que nous avons obtenues par le commerce d'Aden révèlent des choses nouvelles, inconnues jusqu'alors, révélées par les commerçants étrangers. Grâce à ces nouvelles connaissances et à ces nouveaux matériaux, nous pouvons développer davantage l'industrie d'Aden".
+YEM_New_Oasis_Hunt:0 "Étudier les plans étrangers"
+YEM_New_Oasis_Hunt_desc:0 "Bien que nous puissions essayer de faire notre propre plan pour l'économie, il est certain que les puissances qui ont déjà traversé les mêmes problèmes que nous auparavant ont des plans qui travailleront à la modernisation du pays".
+YEM_Start_Recovery:0 "Mettre fin au ralentissement économique"
+YEM_Start_Recovery_desc:0 "Bien que le Lundi noir nous ait beaucoup moins affectés que d'autres pays en raison de notre déconnexion de l'Allemagne, certaines de ses répercussions ont quand même réussi à nous toucher. Leur résolution devrait contribuer à éclairer notre économie déjà faible".
+YEM_Arable_Land_Reforms:0 "Importer des outils industriels"
+YEM_Arable_Land_Reforms_desc:0 "Notre pays montre bien la façon dont était le vieux monde, avec beaucoup de nos méthodes pour faire les choses quotidiennes qui sont dépassées. Cela inclut les outils que nos travailleurs utilisent quotidiennement. L'importation d'outils de l'extérieur devrait contribuer à faciliter la vie des travailleurs".
+YEM_Oil_Prospects:0 "Prospecter pour du Pétrole"
+YEM_Oil_Prospects_desc:0 "Bien que nous ayons réussi à toucher de faibles quantités de pétrole au Yémen, il n'y en a pas encore assez pour que nous puissions réellement générer des profits. Peut-être que la recherche d'un peu plus de pétrole pourrait apporter des résultats inattendus".
+YEM_Big_Farma:0 "Soutenir l'industrie agricole"
+YEM_Big_Farma_desc:0 "L'industrie agricole au Yémen est le lieu où se trouve une grande partie de la population quotidienne, en particulier dans les zones les moins peuplées. Nous devons nous assurer que l'industrie reste en phase avec les normes actuelles fixées par le monde moderne".
+YEM_Modern_Economy:0 "Economie moderne"
+YEM_Modern_Economy_desc:0 "Grâce à diverses réformes, à sa situation difficile et à ses crises, le Yémen a pu tirer des enseignements de toutes ces expériences troublantes et en tirer profit. Le Yémen est maintenant fier, avec les autres pays européens, de son économie nouvellement réformée".
 
-YEM_Officers_Come_Home:0 "Return of the 40 Officers"
-YEM_Officers_Come_Home_desc:0 "The 40 Officers are a group sent to our government to the Ottoman Empire in order to learn their way of training. Perhaps it is about time we tell them to return?"
-YEM_Modern_Naval_Transports:0 "Metal Convoys"
-YEM_Modern_Naval_Transports_desc:0 "Trade fleets have been key to Economic success for centuries, and ours needs the best ships we can muster to have any influence in this trade rich sea."
-YEM_Merchant_Marine:0 "Establish A Merchant Marine"
-YEM_Merchant_Marine_desc:0 "Merchant Marines are used to defend merchant ships and trade, and are used by many countries now. Establishing a Yemeni merchant marine should hopefully increase the profit of our bountiful trade."
-YEM_Trade_Protection:0 "Protect the New Merchant Fleet"
-YEM_Trade_Protection_desc:0 "With the Yemeni Merchant Marine established, we need to ensure they can get whatever they need to go without any interruption."
-YEM_Aden_Ports:0 "Build Up the Port of Aden"
-YEM_Aden_Ports_desc:0 "Aden is one of our most profitable ports and is where the majority of our income comes from. With the newly established Merchant Marine, expanding the port can maximise our trading profit."
-YEM_Ship_Commission:0 "Commission a Flagship"
-YEM_Ship_Commission_desc:0 "Flagships are used as a point of national prides for countries, as it is their biggest and best ship that they send into battles. Taking a foreign design and making it our own can help boost our nationalism."
-YEM_This_Is_My_Boomstick:0 "New Rifle Designs"
-YEM_This_Is_My_Boomstick_desc:0 "Thee current design of our rifle is long outdated and ineffective for modern day combat, creating a new design for our army is of the utmost importance."
-YEM_Bigger_Boom:0 "Import Artillery"
-YEM_Bigger_Boom_desc:0 "Our country currently lacks any semblance of an artillery design, and is used nowhere within the army. Importing artillery from beyond can put us one step ahead of our dangerous neighbours."
+YEM_Officers_Come_Home:0 "Retour des 40 officiers"
+YEM_Officers_Come_Home_desc:0 "Les 40 officiers sont un groupe envoyé par notre gouvernement dans l'Empire ottoman afin d'apprendre leur mode de formation. Peut-être est-il temps de leur dire de revenir ?"
+YEM_Modern_Naval_Transports:0 "Convois métalliques"
+YEM_Modern_Naval_Transports_desc:0 "Les flottes commerciales ont été la clé du succès économique pendant des siècles, et la nôtre a besoin des meilleurs navires que nous pouvons rassembler pour avoir une quelconque influence dans cette mer riche en commerce".
+YEM_Merchant_Marine:0 "Créer une marine marchande"
+YEM_Merchant_Marine_desc:0 "Les marines marchandes sont utilisées pour défendre les navires marchands et le commerce, et sont maintenant utilisées par de nombreux pays. La création d'une marine marchande yéménite devrait, espérons-le, accroître le profit de notre commerce florissant".
+YEM_Trade_Protection:0 "Protéger la nouvelle flotte marchande"
+YEM_Trade_Protection_desc:0 "Avec la mise en place de la marine marchande yéménite, nous devons nous assurer qu'ils peuvent obtenir tout ce dont ils ont besoin sans aucune interruption.
+YEM_Aden_Ports:0 "Renforcer le port d'Aden"
+YEM_Aden_Ports_desc:0 "Aden est l'un de nos ports les plus rentables et c'est de là que provient la majorité de nos revenus. Avec la nouvelle marine marchande, l'expansion du port peut maximiser nos bénéfices commerciaux".
+YEM_Ship_Commission:0 "Commander un navire amiral"
+YEM_Ship_Commission_desc:0 "Les navires amiral sont utilisés comme un point de fierté nationale pour les pays, car c'est leur plus grand et meilleur navire qu'ils envoient au combat. Prendre un modèle étranger et le faire nôtre peut contribuer à renforcer notre nationalisme".
+YEM_This_Is_My_Boomstick:0 "Nouveaux modèles de fusils"
+YEM_This_Is_My_Boomstick_desc:0 "La conception actuelle de notre fusil est depuis longtemps dépassée et inefficace pour le combat moderne, il est de la plus haute importance de créer une nouvelle conception pour notre armée.
+YEM_Bigger_Boom:0 "Importer l'artillerie"
+YEM_Bigger_Boom_desc:0 "Notre pays n'a actuellement aucun semblant de conception d'artillerie, et n'est utilisé nulle part dans l'armée. L'importation d'artillerie de l'étranger peut nous donner une longueur d'avance sur nos dangereux voisins.
 YEM_Fortify_To_Protecc:0 "Fortify Asir"
-YEM_Fortify_To_Protecc_desc:0 "Asir is where the majority of fighting will be going on with our Ottoman overlords and the Nejd Emirate to the north, so protecting it along with the rest of the country is our highest priority."
-YEM_Mountain_Warriors:0 "Professional Mountaineers"
-YEM_Mountain_Warriors_desc:0 "Yemen in various areas has very mountainous landscape that can end up being hard to traverse, however we can turn this into an advantage. Teaching specific regiments of men how to effectively fight in these mountains can put us a step above our in-experienced enemies."
-YEM_Arabian_Knights:0 "Arabian Horsemen"
-YEM_Arabian_Knights_desc:0 "Cavalry is seen as a highly outdated form of fighting within the 'modern world', but it still has a place within the Middle East due to the vast deserts covering it. Ensuring we can master this art is crucial for Middle-Eastern warfare."
-YEM_Better_Shovels:0 "Military Support"
-YEM_Better_Shovels_desc:0 "Raising a truly modern military requires men in the backlines to back it up, also known as support units. Things like hospitals and engineers can help specialise our forces for specific needs and circumstances."
-YEM_Trench_War:0 "Study Trench Warfare"
-YEM_Trench_War_desc:0 "Trench warfare was mainly used in the Weltkrieg and has been proven to work. Since the modern doctrine has not been tested on the scale of the Weltkrieg yet, trench warfare is the safer bet to use until a later date."
-YEM_Scouts:0 "Military Engineering"
-YEM_Scouts_desc:0 "Guns, especially our slightly outdated design, have a tendency to fail at the most inconvenient and unexpected times, and can decide the fate of a battle. Having trusted mechanics and engineers on the ready can help reverse this effect."
-YEM_Hold_The_Line:0 "Planning In Advance"
-YEM_Hold_The_Line_desc:0 "We Shall make Plans for war against nations Before they have begun, and open up a whole wing for our Military experts and Members of Government to Make Plans and Debate them."
-YEM_Rifle_Guilds:0 "Riflemakers and Gunsmith Guilds"
-YEM_Rifle_Guilds_desc:0 "Guilds are a way for many gunsmiths and riflemakers to meet up and come up with new designs, which is highly beneficial."
-YEM_Taiz_Arsenal:0 "Found the Ta'izz Arsenal"
-YEM_Taiz_Arsenal_desc:0 "The Fledgling industrial zone of Ta'izz is the perfect spot to found our first plant for heavy guns production."
-YEM_Modern_Army:0 "Modernised Armed Forces"
-YEM_Modern_Army_desc:0 "Through various reforms, foreign studies, and developments of our own, Yemen is now ready to show off it's modern military to the other powers of the world."
-YEM_Military_Science:0 "Military Science"
-YEM_Military_Science_desc:0 "Modern military science continues to advance. We must train the next generation of minds to keep pace and advance our own military thought and leadership to keep the army of Yemen on top."
+YEM_Fortify_To_Protecc_desc:0 "L'Asir est l'endroit où la majorité des combats se dérouleront avec nos seigneurs ottomans et l'émirat de Nejd au nord, donc sa protection, ainsi que celle du reste du pays, est notre plus grande priorité.
+YEM_Mountain_Warriors:0 "Alpinistes professionnels"
+YEM_Mountain_Warriors_desc:0 "Dans diverses régions, le Yémen possède un paysage très montagneux qui peut finir par être difficile à traverser, mais nous pouvons en faire un avantage. Apprendre à des régiments d'hommes spécifiques comment combattre efficacement dans ces montagnes peut nous mettre à un niveau supérieur à nos ennemis inexpérimentés".
+YEM_Arabian_Knights:0 "Cavaliers arabes"
+YEM_Arabian_Knights_desc:0 "La cavalerie est considérée comme une forme de combat très dépassée dans le "monde moderne", mais elle a toujours sa place au Moyen-Orient en raison des vastes déserts qui le recouvrent. S'assurer que nous pouvons maîtriser cet art est crucial pour la guerre au Moyen-Orient".
+YEM_Better_Shovels:0 "Soutien militaire"
+YEM_Better_Shovels_desc:0 "Pour mettre sur pied une armée vraiment moderne, il faut des hommes en arrière-plan pour la soutenir, aussi appelés unités de soutien. Les hôpitaux et les ingénieurs peuvent aider à spécialiser nos forces en fonction de besoins et de circonstances spécifiques".
+YEM_Trench_War:0 "Etudier la guerre des tranchées"
+YEM_Trench_War_desc:0 "La guerre des tranchées a été principalement utilisée dans la Weltkrieg et a fait ses preuves. Comme la doctrine moderne n'a pas encore été testée à l'échelle de la Weltkrieg, la guerre des tranchées est la solution la plus sûre à utiliser jusqu'à une date ultérieure".
+YEM_Scouts:0 "Génie militaire"
+YEM_Scouts_desc:0 "Les armes, en particulier notre conception légèrement dépassée, ont tendance à échouer aux moments les plus inopportuns et inattendus, et peuvent décider du sort d'une bataille. Le fait d'avoir des mécaniciens et des ingénieurs de confiance prêts à intervenir peut aider à inverser cet effet".
+YEM_Hold_The_Line:0 "Planifier à l'avance"
+YEM_Hold_The_Line_desc:0 "Nous devons élaborer des plans de guerre contre les nations avant qu'elles ne commencent, et ouvrir toute une aile à nos experts militaires et aux membres du gouvernement pour qu'ils puissent élaborer des plans et en débattre.
+YEM_Rifle_Guilds:0 "Les fabricants de fusils et les guildes d'armuriers"
+YEM_Rifle_Guilds_desc:0 "Les guildes sont un moyen pour de nombreux armuriers et carabiniers de se rencontrer et de proposer de nouveaux modèles, ce qui est très bénéfique.
+YEM_Taiz_Arsenal:0 "Trouver l'Arsenal de Ta'izz"
+YEM_Taiz_Arsenal_desc:0 "La zone industrielle naissante de Ta'izz est l'endroit parfait pour fonder notre première usine de production d'armes lourdes.
+YEM_Armée_moderne:0 "Des forces armées modernisées"
+YEM_Modern_Army_desc:0 "Grâce à diverses réformes, études étrangères et développements de notre part, le Yémen est maintenant prêt à montrer son armée moderne aux autres puissances du monde".
+YEM_Military_Science:0 "Science militaire"
+YEM_Military_Science_desc:0 "La science militaire moderne continue de progresser. Nous devons former la prochaine génération d'esprits pour suivre le rythme et faire avancer notre propre pensée et notre propre leadership militaire afin de maintenir l'armée du Yémen au sommet".
 
-YEM_Free_Kingdom:0 "Free Kingdom"
-YEM_Free_Kingdom_desc:0 "With our liberation from the corrupt Ottoman Empire, we can now move onto the future as a Yemeni Kingdom."
-YEM_Claim_Dhofar:0 "Claim Dhofar"
-YEM_Claim_Dhofar_desc:0 "With Greater Yemen becoming very close to reality, the last part we need is Dhofar, currently owned by the isolationist Oman."
-YEM_Desperate_Struggle:0 "Desperate Struggle"
-YEM_Desperate_Struggle_desc:0 "With Our Military returning fresh from fighting the Turkish oppressors, the unsavory elements of society have risen up and struck us with our backs turned. The Battle for Yemen has Begun."
-YEM_Chaos_In_The_Cities:0 "Chaos in The Cities"
-YEM_Chaos_In_The_Cities_desc:0 "The rebellion has reached new heights never seen before, it is nearing warlike conditions nationwide."
-YEM_Rebels_Crushed:0 "Rebels Crushed"
-YEM_Rebels_Crushed_desc:0 "Despite the rebels fervor and devotion, our loyal military has managed to stamp out the last flames of rebellion. This should hopefully lead to a future of peace for Yemen."
-#YEM_Nepotism:0 "Trusted Government" already defined above as an idea
-#YEM_Nepotism_desc:0 "The People have placed their faith in the Imam to Guide the nation for centuries, and He will continue to do so." already defined above as an idea desc
-YEM_Efficient_Rule:0 "Efficient Rule"
-YEM_Efficient_Rule_desc:0 "The Imam has his whole life devoted himself to Yemen, Impressing statesmen from across the globe. His rule shall be hailed as one of progress and efficiency."
-YEM_Devoted_Sovereign:0 "Devoted Sovereign"
-YEM_Devoted_Sovereign_desc:0 "The king now remains as the final authority within Yemen, with no one being able to stand in his way. All people will look up to him and his excellent rule."
-YEM_Humane_And_Just:0 "Humane and Just"
-YEM_Humane_And_Just_desc:0 "A foreign man once noted the Imam's methods as 'Humane and Patriarchal'. Such is his rule seen to his loyal subjects as Humane and Just."
-YEM_Troop_Passage:0 "Military Roads"
-YEM_Troop_Passage_desc:0 "Reconstructing roads within the country to be built for the military will help troops reach where they need to be more efficiently."
-YEM_All_Roads_To_Sanaa:0 "The Heart of Yemen"
-YEM_All_Roads_To_Sanaa_desc:0 "Sana'a is the heart and home of the Yemeni people, where all roads begin and end. We must build it up further to ensure it's glory stays."
-YEM_Unified_Economy:0 "Unified Economy"
-YEM_Unified_Economy_desc:0 "The economy within Yemen was hit hard by the effects of Black Monday, and many lessons have been learned. Now we can attempt to reunify the economy."
-YEM_Advanced_Comms:0 "Advanced Communications"
-YEM_Advanced_Comms_desc:0 "Radar is a rather recent innovation in the western world which helps thinks like troops, ships, and planes detect enemy movement. Studying this technology could allow all corners of Yemen to be overseen from Sana'a."
-#YEM_Prepared_Army:0 "Prepared Army" already defined above as an idea
-#YEM_Prepared_Army_desc:0 "With Yemen fully united and ready to face any foreign threats, we must have a proper army to defend it with." already defined above as an idea desc
-YEM_Centralize_Power:0 "Sole and Final Authority"
-YEM_Centralize_Power_desc:0 "The Imam of Yemen will work as the sole and final authority in all of Yemen, with everything done with the government being approved by him."
+YEM_Free_Kingdom:0 "Royaume libre"
+YEM_Free_Kingdom_desc:0 "Avec notre libération de l'Empire ottoman corrompu, nous pouvons maintenant nous tourner vers l'avenir en tant que Royaume du Yémen".
+YEM_Claim_Dhofar:0 "Réclamer Dhofar"
+YEM_Claim_Dhofar_desc:0 "Le Grand Yémen étant très proche de la réalité, la dernière partie dont nous avons besoin est le Dhofar, qui appartient actuellement à l'Oman isolationniste.
+YEM_Desperate_Struggle:0 "Lutte désespérée"
+YEM_Desperate_Struggle_desc:0 "Avec le retour de nos militaires tout juste sortis du combat contre les oppresseurs turcs, les éléments peu recommandables de la société se sont soulevés et nous ont frappés le dos tourné. La bataille pour le Yémen a commencé".
+YEM_Chaos_In_The_Cities:0 "Le chaos dans les villes"
+YEM_Chaos_In_The_Cities_desc:0 "La rébellion a atteint des sommets jamais vus auparavant, elle s'approche de conditions belliqueuses à l'échelle nationale.
+YEM_Rebels_Crushed:0 "Les rebelles écrasés"
+YEM_Rebels_Crushed_desc:0 "Malgré la ferveur et le dévouement des rebelles, nos loyaux militaires ont réussi à éteindre les dernières flammes de la rébellion. Cela devrait, espérons-le, mener à un avenir de paix pour le Yémen".
+#YEM_Nepotism:0 "Gouvernement de confiance" déjà défini ci-dessus comme une idée
+#YEM_Nepotism_desc:0 "Le peuple a placé sa foi dans l'imam pour guider la nation pendant des siècles, et il continuera à le faire", déjà défini ci-dessus comme une idée desc
+YEM_Efficient_Rule:0 "Règle efficace"
+YEM_Efficient_Rule_desc:0 "L'imam a consacré toute sa vie au Yémen, impressionnant les hommes d'État du monde entier. Son règne sera salué comme un règne de progrès et d'efficacité".
+YEM_Devoted_Sovereign:0 "Souverain dévoué"
+YEM_Devoted_Sovereign_desc:0 "Le roi reste désormais l'autorité finale au Yémen, sans que personne ne puisse lui faire obstacle. Tout le monde l'admirera, lui et son excellent gouvernement".
+YEM_Humane_And_Just:0 "Humain et juste"
+YEM_Humane_And_Just_desc:0 "Un homme étranger a un jour noté que les méthodes de l'imam étaient "humaines et patriarcales". Telle est sa règle, perçue par ses loyaux sujets comme Humaine et Juste".
+YEM_Troop_Passage:0 "Military Roads" (Routes militaires)
+YEM_Troop_Passage_desc:0 "La reconstruction des routes à l'intérieur du pays pour les militaires aidera les troupes à se rendre là où elles doivent être plus efficacement".
+YEM_All_Roads_To_Sanaa:0 "Le cœur du Yémen"
+YEM_All_Roads_To_Sanaa_desc:0 "Sana'a est le cœur et la maison du peuple yéménite, où toutes les routes commencent et se terminent. Nous devons continuer à la construire pour que sa gloire demeure".
+YEM_Unified_Economy:0 "Économie unifiée"
+YEM_Unified_Economy_desc:0 "L'économie du Yémen a été durement touchée par les effets du Lundi noir, et de nombreuses leçons ont été tirées. Nous pouvons maintenant tenter de réunifier l'économie".
+YEM_Advanced_Comms:0 "Communications avancées"
+YEM_Advanced_Comms_desc:0 "Le radar est une innovation assez récente dans le monde occidental qui aide à penser comme des troupes, des navires et des avions à détecter les mouvements de l'ennemi. L'étude de cette technologie pourrait permettre de surveiller tous les coins du Yémen depuis Sana'a".
+#YEM_Prepared_Army:0 "Armée préparée" déjà définie ci-dessus comme une idée
+#YEM_Prepared_Army_desc:0 "Le Yémen étant pleinement uni et prêt à faire face à toute menace étrangère, nous devons disposer d'une véritable armée pour le défendre", déjà défini ci-dessus comme une idée desc
+YEM_Centralize_Power:0 "Autorité unique et définitive"
+YEM_Centralize_Power_desc:0 "L'imam du Yémen sera l'unique et dernière autorité dans tout le Yémen, tout ce qui est fait avec le gouvernement étant approuvé par lui.
 
-YEM_Remove_Imam:0 "End the Imammate"
-YEM_Remove_Imam_desc:0 "It is time to liberate the Yemeni people and allow for Yemen to be free! The First Republic of Yemen is declared!"
-YEM_Hold_Elections:0 "Hold Elections"
-YEM_Hold_Elections_desc:0 "With the liberation of the country, it is now time for Yemen to hold its first elections. The two competing are the Shabab Al-Amr and the Hait al-Nadial, with both having a good chance of winning."
-YEM_Soc_Cons:0 "Conservative Republic"
-YEM_Soc_Cons_desc:0 "With the victory of the first Yemeni election being the Hait al-Nadial party, the foundation of the Republic will be built with a Conservative mindset and structure."
-YEM_Reaffirm_Common_Law:0 "Reaffirm Common Law"
-YEM_Reaffirm_Common_Law_desc:0 "Common Law, or Sharia Law, forms the Backbone of laws in the Muslim world. We shall hold true to our traditions and build our republic from these values."
-YEM_Presidential_Powers:0 "Presidential Powers"
-YEM_Presidential_Powers_desc:0 "The next step to establishing peace within the new Republic is to Appoint a President to fill the Power Vacuum left by the Imam."
-YEM_Qat_And_Coffee:0 "Cash Crop Trade"
-YEM_Qat_And_Coffee_desc:0 "Many crops like near Yemen's coast with farmers constantly labouring for them. Some of these are more exclusive to our geographical area, and could be sold for cash."
-YEM_Red_Sea_Trade:0 "Centre of the Red Sea"
-YEM_Red_Sea_Trade_desc:0 "The Red Sea is an area we desperately need to protect if we want to ensure we keep our many trade profits, but our currently sub-par navy cannot achieve this."
-YEM_Trade_With_Europe:0 "Trade With Europe"
-YEM_Trade_With_Europe_desc:0 "With our key location beyond the Suez canal and through the Red Sea, Europeans trading with us can help us exploit our excellent geographic position."
-YEM_Soc_Libs:0 "Liberal Republic"
-YEM_Soc_Libs_desc:0 "With the victory of the first Yemeni election being the Shabab al-Amr, the foundation of the Republic will be built with a Liberal mindset and structure."
-YEM_Modernize_laws:0 "Modernise Laws"
-YEM_Modernize_laws_desc:0 "Yemen's laws still contain many authoritarian practices and outdated imperialist constructs within them, and are in desperate need of a revamp."
-YEM_Regional_Rulers:0 "Regional Rule"
-YEM_Regional_Rulers_desc:0 "With the victory of the Liberal party, we can end the autocracy of Sana'a, and bring the power of Yemen back to the whole nation. Removing more power from the central government and moving it to regional government can help ensure this."
+YEM_Remove_Imam:0 "Mettre fin à l'imammate"
+YEM_Remove_Imam_desc:0 "Il est temps de libérer le peuple yéménite et de permettre au Yémen d'être libre ! La première République du Yémen est déclarée !"
+YEM_Hold_Elections:0 "Organiser des élections"
+YEM_Hold_Elections_desc:0 "Avec la libération du pays, il est maintenant temps pour le Yémen d'organiser ses premières élections. Les deux candidats en lice sont le Shabab Al-Amr et le Hait al-Nadial, qui ont tous deux de bonnes chances de gagner".
+YEM_Soc_Cons:0 "République conservatrice"
+YEM_Soc_Cons_desc:0 "Avec la victoire de la première élection yéménite du parti Hait al-Nadial, les fondations de la République seront construites avec une mentalité et une structure conservatrices.
+YEM_Reaffirm_Common_Law:0 "Réaffirmer la Common Law"
+YEM_Reaffirm_Common_Law_desc:0 "La common law, ou charia, constitue l'épine dorsale des lois dans le monde musulman. Nous devons rester fidèles à nos traditions et construire notre république à partir de ces valeurs".
+YEM_Pouvoirs_présidentiels:0 "Pouvoirs présidentiels"
+YEM_Pouvoirs_présidentiels_desc:0 "La prochaine étape pour établir la paix au sein de la nouvelle République est de nommer un président pour combler le vide du pouvoir laissé par l'Imam".
+YEM_Qat_And_Coffee:0 "Commerce des cultures de rente"
+YEM_Qat_And_Coffee_desc:0 "De nombreuses cultures comme près des côtes du Yémen avec des agriculteurs qui travaillent constamment pour elles. Certaines d'entre elles sont plus exclusives à notre zone géographique et pourraient être vendues au comptant".
+YEM_Red_Sea_Trade:0 "Centre de la mer Rouge"
+YEM_Red_Sea_Trade_desc:0 "La mer Rouge est une zone que nous devons absolument protéger si nous voulons conserver nos nombreux bénéfices commerciaux, mais notre marine actuellement sous-partie ne peut pas y parvenir".
+YEM_Trade_With_Europe:0 "Commerce avec l'Europe"
+YEM_Trade_With_Europe_desc:0 "Grâce à notre position clé au-delà du canal de Suez et à travers la mer Rouge, les Européens qui font du commerce avec nous peuvent nous aider à exploiter notre excellente position géographique".
+YEM_Soc_Libs:0 "République libérale"
+YEM_Soc_Libs_desc:0 "Avec la victoire de la première élection yéménite étant le Shabab al-Amr, les fondations de la République seront construites avec une mentalité et une structure libérales".
+YEM_Modernize_laws:0 "Moderniser les lois"
+YEM_Modernize_laws_desc:0 "Les lois du Yémen contiennent encore de nombreuses pratiques autoritaires et des constructions impérialistes dépassées, et ont désespérément besoin d'être remaniées".
+YEM_Regional_Rulers:0 "Règles régionales"
+YEM_Regional_Rulers_desc:0 "Avec la victoire du parti libéral, nous pouvons mettre fin à l'autocratie de Sanaa, et ramener le pouvoir du Yémen à toute la nation. Retirer plus de pouvoir au gouvernement central et le transférer au gouvernement régional peut aider à y parvenir".
 YEM_Electrification:0 "Electrification"
-YEM_Electrification_desc:0 "Nearly all of Yemen is without the marvel of electric lighting. If we are to Enlighten the people we must light the new Nation."
-YEM_New_Development:0 "New Development"
-YEM_New_Development_desc:0 "With the rapid development across Yemen, we can begin to expand the industry for our people. Our moves here will be the foundation of our new Yemen."
-YEM_Begin_Industrialization:0 "Begin Industrialisation"
-YEM_Begin_Industrialization_desc:0 "With the constitution clarified and the industry being built upon, Yemen can begin to industrialize itself into the future. This will be a lengthy and tough process, but the modernisation of the country could bring miracles into the future."
-YEM_Islamic_Constitution:0 "Islamic Constitution"
-YEM_Islamic_Constitution_desc:0 "While we have been liberated from the monarchy, our nation's identity is still built upon Islamic ideas and principles. With our country ready, we can clarify the contents of such a constitution built upon the Islam, and the Zaydi faith."
-YEM_Local_Representation:0 "Local Representatives"
-YEM_Local_Representation_desc:0 "While Yemen is largely united, each area in Yemen contains various minorities and tribes, especially in the south. Assigning representatives to represent the needs of each of these people-groups will allow us to properly govern the country."
-YEM_Welcome_Intellectuals:0 "Welcome Intellectuals"
-YEM_Welcome_Intellectuals_desc:0 "Yemen Stands as a Beacon of Free Thought and Expression in a sea of Oppressive fearful monarchies. Already intellectuals pour in from across the neighbouring lands seeking Asylum."
-YEM_Begin_Nahda:0 "Begin Nahda"
-YEM_Begin_Nahda_desc:0 "Nahda is much like the Renaissance of the western world but centred around the Islam faith. With it supporting things like Pan-Islamist thought and Anti-Colonialism, it will be important for building our country into the future."
+YEM_Electrification_desc:0 "Presque tout le Yémen est dépourvu de la merveille qu'est l'éclairage électrique. Si nous voulons éclairer le peuple, nous devons éclairer la nouvelle nation".
+YEM_Nouveau_développement:0 "Nouveau développement"
+YEM_New_Development_desc:0 "Avec le développement rapide du Yémen, nous pouvons commencer à développer l'industrie pour notre peuple. Nos déménagements ici seront la base de notre nouveau Yémen".
+YEM_Begin_Industrialization:0 "Commencer l'industrialisation"
+YEM_Begin_Industrialization_desc:0 "Avec la clarification de la constitution et la construction de l'industrie, le Yémen peut commencer à s'industrialiser pour l'avenir. Ce sera un processus long et difficile, mais la modernisation du pays pourrait apporter des miracles dans le futur".
+YEM_Constitution_islamique:0 "Constitution islamique"
+YEM_Constitution_islamique_desc:0 "Bien que nous ayons été libérés de la monarchie, l'identité de notre nation est toujours construite sur les idées et les principes islamiques. Lorsque notre pays sera prêt, nous pourrons clarifier le contenu d'une telle constitution fondée sur l'islam et la foi zaydite".
+YEM_Local_Representation:0 "Représentants locaux"
+YEM_Local_Representation_desc:0 "Bien que le Yémen soit largement uni, chaque région du Yémen contient diverses minorités et tribus, en particulier dans le sud. L'affectation de représentants pour représenter les besoins de chacun de ces groupes de population nous permettra de gouverner correctement le pays".
+YEM_Welcome_Intellectuals:0 "Bienvenue aux intellectuels"
+YEM_Welcome_Intellectuals_desc:0 "Le Yémen se présente comme un phare de la libre pensée et de l'expression dans un océan de monarchies craintives et oppressives. Déjà, des intellectuels affluent de tous les pays voisins pour demander l'asile".
+YEM_Begin_Nahda:0 "Commencer Nahda"
+YEM_Begin_Nahda_desc:0 "Nahda ressemble beaucoup à la Renaissance du monde occidental, mais elle est centrée sur la foi islamique. Comme elle soutient des choses comme la pensée panislamiste et l'anticolonialisme, elle sera importante pour la construction de notre pays dans l'avenir".
 YEM_Political_Liberties:0 "Political Liberties"
-YEM_Political_Liberties_desc:0 "Our people should be able to freely speak their minds on various issues involving the government and its policies, and help us construct the government properly."
-YEM_Pan_Arabist_Thought:0 "Pan Arabist Thought"
-YEM_Pan_Arabist_Thought_desc:0 "With our various modernisations and the embracing of Nahda, originally Pan-Islamic thought has evolved into specifically Pan-Arabist thought. This thought process can help our government and country work towards a future where this is possible."
+YEM_Political_Liberties_desc:0 "Notre peuple devrait pouvoir s'exprimer librement sur diverses questions concernant le gouvernement et ses politiques, et nous aider à construire le gouvernement correctement".
+YEM_Pensée panarabiste:0 "La pensée panarabiste"
+YEM_Pan_Arabist_Thought_desc:0 "Avec nos diverses modernisations et l'adoption du Nahda, la pensée panislamique d'origine a évolué vers une pensée spécifiquement panarabe. Ce processus de pensée peut aider notre gouvernement et notre pays à travailler pour un avenir où cela est possible".
 
-YEM_Rassid_Arabia:0 "Rassid Arabia"
-YEM_Rassid_Arabia_desc:0 "With us managing to secure our independence against the Ottoman and Arabian threat, we have managed to unite Arabia under our own banner. While consolidating large swathes of land will be a difficult process, we can now officially declare Rassid Arabia."
+YEM_Rassid_Arabie:0 "Arabie rassidique"
+YEM_Rassid_Arabia_desc:0 "En parvenant à assurer notre indépendance contre la menace ottomane et arabe, nous avons réussi à unifier l'Arabie sous notre propre bannière. Bien que la consolidation de vastes étendues de terre sera un processus difficile, nous pouvons maintenant déclarer officiellement l'Arabie rassidique".
 YEM_Damage_Control:0 "Damage Control"
-YEM_Damage_Control_desc:0 "The damage caused by our war with the former Arabia has caused devastation within many parts of our new lands and old. We must limit the damage by containing it wherever we can."
-YEM_Rebuild_and_Heal:0 "Rebuild and Heal"
-YEM_Rebuild_and_Heal_desc:0 "The people in the new lands are hardly culturally Yemeni, and integrating Yemeni culture within the Arabian ideal will be a long and arduous process."
-YEM_Appease_Tribes:0 "Appease Tribes"
-YEM_Appease_Tribes_desc:0 "Many local tribes lie within the sparsely populated areas of Arabia, and act independently from our government. We'll need to compensate these tribes if we want our government to be recognized by them."
-YEM_Mobilize_Military_As_Police:0 "Mobilise the Military as Police"
-YEM_Mobilize_Military_As_Police_desc:0 "With the majority of local threats gone, we can safely begin to mobilise the military as police within our country in order to calm the unrest."
+YEM_Damage_Control_desc:0 "Les dommages causés par notre guerre avec l'ancienne Arabie ont provoqué la dévastation de nombreuses parties de nos nouvelles et anciennes terres. Nous devons limiter les dégâts en les contenant partout où nous le pouvons".
+YEM_Rebuild_and_Heal:0 "Reconstruire et guérir"
+YEM_Rebuild_and_Heal_desc:0 "Les habitants des nouvelles terres sont à peine culturellement yéménites, et l'intégration de la culture yéménite dans l'idéal arabe sera un processus long et ardu".
+YEM_Appease_Tribes:0 "Tribus d'apaisement"
+YEM_Appease_Tribes_desc:0 "De nombreuses tribus locales se trouvent dans les régions peu peuplées d'Arabie et agissent indépendamment de notre gouvernement. Nous devrons indemniser ces tribus si nous voulons que notre gouvernement soit reconnu par elles."
+YEM_Mobilize_Military_As_Police:0 "Mobiliser les militaires comme police"
+YEM_Mobilize_Military_As_Police_desc:0 "La majorité des menaces locales ayant disparu, nous pouvons sans risque commencer à mobiliser les militaires comme la police dans notre pays afin de calmer les troubles.
 YEM_Crackdown_On_Dissent:0 "Crackdown on Dissent"
-YEM_Crackdown_On_Dissent_desc:0 "With the mobilisation of the police, cracking down on disloyalty and local tribes has become a much easier job."
-YEM_Purge_Saudis:0 "Purge the Saudis"
-YEM_Purge_Saudis_desc:0 "The Saudi dynasty tried to our country and dynasty, and we will respond in kind. No mercy will be shown to the Saudi family, who threatened our country, people, and Imam."
-YEM_Give_Religious_Freedom:0 "Give Religious Freedom"
-YEM_Give_Religious_Freedom_desc:0 "Yemen itself follows a very different sect of Islam compared to the rest of Arabia, and it would be difficult to convert everyone to our point of view. Ensuring they can practice their religions in peace should work as an alternate solution."
-YEM_Begin_Integration:0 "Begin Integration"
-YEM_Begin_Integration_desc:0 "Through our many reforms, we can begin the integration of many parts of Arabia. This will only be the beginning of an even longer process."
-YEM_New_Administration:0 "New Administration"
-YEM_New_Administration_desc:0 "With unrest mainly gone, we can sort the administration of our vast expanse of territory."
+YEM_Crackdown_On_Dissent_desc:0 "Avec la mobilisation de la police, la répression de la déloyauté et des tribus locales est devenue une tâche beaucoup plus facile.
+YEM_Purge_Saudis:0 "Purgez les Saoudiens"
+YEM_Purge_Saudis_desc:0 "La dynastie saoudienne a essayé de s'en prendre à notre pays et à notre dynastie, et nous allons répondre en conséquence. Nous ne ferons preuve d'aucune pitié envers la famille saoudienne, qui a menacé notre pays, notre peuple et notre imam".
+YEM_Give_Religious_Freedom:0 "Donner la liberté religieuse"
+YEM_Give_Religious_Freedom_desc:0 "Le Yémen lui-même suit une secte de l'Islam très différente du reste de l'Arabie, et il serait difficile de convertir tout le monde à notre point de vue. Faire en sorte qu'ils puissent pratiquer leur religion en paix devrait être une solution de rechange".
+YEM_Begin_Integration:0 "Commencer l'intégration"
+YEM_Begin_Integration_desc:0 "Grâce à nos nombreuses réformes, nous pouvons commencer l'intégration de nombreuses parties de l'Arabie. Ce ne sera que le début d'un processus encore plus long".
+YEM_Nouvelle_administration_desc:0 "Nouvelle administration"
+YEM_New_Administration_desc:0 "Les troubles étant pour la plupart disparus, nous pouvons régler l'administration de notre vaste étendue de territoire".
 YEM_Welcome_Rashids_Back:0 "Welcome the Rashids Back"
-YEM_Welcome_Rashids_Back_desc:0 "The Rashid Dynasty of Jabal Shammar was defeated by the Saudi's and is related to ours. Letting them have a seat in our government will show both good courtesy and help improve our Arabian bonds."
-YEM_Complete_Integration:0 "Complete the Integration"
-YEM_Complete_Integration_desc:0 "With all processes done and over with, we can now become more than Rassid Arabia in name, and make our people see themselves as people within Rassid Arabia as well."
+YEM_Welcome_Rashids_Back_desc:0 "La dynastie des Rashid de Jabal Shammar a été vaincue par les Saoudiens et est liée à la nôtre. En leur permettant de siéger dans notre gouvernement, nous ferons preuve de courtoisie et nous contribuerons à améliorer nos liens avec l'Arabie".
+YEM_Complete_Integration:0 "Compléter l'intégration"
+YEM_Integration_complète_desc:0 "Avec tous les processus réalisés et répétés, nous pouvons maintenant devenir plus que l'Arabie rassidique de nom, et faire en sorte que notre peuple se considère comme un peuple au sein de l'Arabie rassidique également".
 
 #Cosmetic Tags
 YEM_ARA_authoritarian_democrat:0 "Arabie Rassidite"
