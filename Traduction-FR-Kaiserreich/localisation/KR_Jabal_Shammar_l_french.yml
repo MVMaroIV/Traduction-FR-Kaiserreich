@@ -59,295 +59,295 @@ JBS_Counter_SAU_Al_Hasa_desc:0 "La bande côtière d'Al-Hasa est assiégée par 
 JBS_Ottoman_Favours:0 "Diplomatie avec la Sublime Porte"
 JBS_Ottoman_Favours_desc:0 "L'Empire ottoman, communément appelé la Sublime Porte, est notre plus grand allié dans la région et aussi son plus puissant militaire. Même si nous ne devons pas nous attendre à une intervention directe de leur part en cas de frappe des Saoudiens, nous pouvons toujours compter sur les faveurs des sultans en cas de besoin". 
 
-JBS_Ottoman_Training:0 "Invite Experts from the Erkân-ı Harbiye Mektebi"
-JBS_Ottoman_Training_desc:0 "The Ottomans have fought a bloody war with us at their side two decades ago but even then it was clear who had the doctrinal advantage. Fighting war for close to a decade on end, the Ottomans are battle hardened, trained and capable of providing us with all the assistance necessary to reform our army."
-JBS_Ottoman_Weapons_Assistance:0 "Military Contract with ATF"
-JBS_Ottoman_Weapons_Assistance_desc:0 "The facilities of Ankara Tüfek Fabrikasi are producing the finest weapons in the Middle East which we will dearly need should we expect to stand a chance against the forces of Ibn Saud on our own."
-JBS_Sell_out_to_TPC:0 "Sign the TPC Concession"
-JBS_Sell_out_to_TPC_desc:0 "Whilst for now only rumours exist of oil deposits under the sands of Arabia, various companies including the Turkish TPC have shown an interest in purchasing concessions on our land. As we are scratching the bottom of our purses for further funds, this may be an option to consider although should oil indeed be found this could bite us in the back later on."
+JBS_Ottoman_Training:0 "Invitez les experts de l'Erkân-ı Harbiye Mektebi"
+JBS_Ottoman_Training_desc:0 "Les Ottomans ont mené une guerre sanglante avec nous à leurs côtés il y a deux décennies, mais même alors, il était clair qui avait l'avantage doctrinal. Faisant la guerre depuis près de dix ans, les Ottomans sont endurcis au combat, entraînés et capables de nous fournir toute l'assistance nécessaire pour réformer notre armée".
+JBS_Ottoman_Weapons_Assistance:0 "Contrat militaire avec l'ATF"
+JBS_Ottoman_Weapons_Assistance_desc:0 "Les installations d'Ankara Tüfek Fabrikasi produisent les meilleures armes du Moyen-Orient, dont nous aurons grand besoin si nous voulons avoir une chance de nous défendre seuls contre les forces d'Ibn Saoud.
+JBS_Sell_out_to_TPC:0 "Signer la concession TPC"
+JBS_Sell_out_to_TPC_desc:0 "Alors que pour l'instant il n'existe que des rumeurs sur des gisements de pétrole sous les sables d'Arabie, diverses sociétés, dont la TPC turque, ont manifesté leur intérêt pour l'achat de concessions sur nos terres. Alors que nous sommes en train de gratter le fond de nos bourses pour trouver des fonds supplémentaires, cela pourrait être une option à envisager, bien que si du pétrole devait effectivement être trouvé, cela pourrait nous mordre le dos plus tard".
 
 ### Flags ###
-JBS_rashid_victory:0 "House of Rashid is Victorious"
-JBS_united_arab_emirates_flag:0 "We have declared the United Arab Emirates"
-JBS_rashidi_arabia:0 "Rashidi Arabia has been Declared"
-JBS_elected_an_al_sabah:0 "Elected the Al-Sabah Sultan"
-JBS_elected_an_al_nahyan:0 "Elected the Al-Nahyan Sultan"
-JBS_elected_howleitat_emir:0 "Elected the Howleitat Sultan"
-JBS_elected_heshemite_emir:0 "Elected the Heshemite Sultan"
-JBS_elected_rashidi_emir:0 "Elected the Rashidi Sultan"
+JBS_rashid_victory:0 "La maison de Rachid est victorieuse"
+JBS_united_arab_emirates_flag:0 "Nous avons déclaré les Émirats arabes unis"
+JBS_rashidi_arabia:0 "L'Arabie saoudite a été déclarée"
+JBS_elected_an_al_sabah:0 "Le sultan Al-Sabah Elu"
+JBS_elected_an_al_nahyan:0 "Le sultan Al-Nahyan Elu"
+JBS_elected_howleitat_emir:0 "Le sultan Howleitat Elu"
+JBS_elected_heshemite_emir:0 "Le sultan hégémite Elu"
+JBS_elected_rashidi_emir:0 "Le sultan Rashidi Elu"
 
 ### Ideas ###
-JBS_backwards_economy:0 "Archaic Economy"
-JBS_illiterate_populace:0 "Illiterate Populace"
-JBS_trading_expertise_idea:0 "Trading Expertise"
-JBS_food_imports_idea:0 "Food Imports"
-JBS_religious_fervor_idea:0 "High Morale Troops"
-JBS_new_arabian_army:0 "New Arabian Army"
-JBS_arabian_horsemanship_idea:0 "Arabian Horsemanship"
-JBS_desert_logstics_idea:0 "Desert Logistics"
-JBS_arabian_war_of_unification:0 "War of Unification"
+JBS_backwards_economy:0 "Économie archaïque"
+JBS_illiterate_populace:0 "Populations analphabètes"
+JBS_trading_expertise_idea:0 "Expertise en matière de commerce
+JBS_food_imports_idea:0 "Importations alimentaires
+JBS_religious_fervor_idea:0 "Troupes Surmotivées"
+JBS_new_arabian_army:0 "Nouvelle armée arabe"
+JBS_arabian_horsemanship_idea:0 "Cavalerie Arabe"
+JBS_desert_logstics_idea:0 "Logistique du désert"
+JBS_arabian_war_of_unification:0 "Guerre d'unification"
 JBS_ikhwan_raids:0 "Ikhwan Raids"
-JBS_ikhwan_raids_desc:0 "Despite our victory over the Saudis, the Ikhwan continue to raid our camps and land."
-JBS_muslim_universities:0 "Islamic Universities"
-JBS_islamic_welfare:0 "Islamic Welfare"
-JBS_backwards_economy_desc:0 "Our economy is still based on small time agriculture, pastoral activity and oil trading."
-JBS_illiterate_populace_desc:0 "Many, if not most of our people are too uneducated to properly aid us in the ways we need them to."
-JBS_trading_expertise_idea_desc:0 "Our trading expertise is yielding us great benefits with our contacts."
-JBS_food_imports_idea_desc:0 "We are buying foodstuffs en masse and building a foundation for the future."
-JBS_religious_fervor_idea_desc:0 "Well equipped and motivated men, our forces fight for more than their mere nation, but for the Holy Cities, for Faith and their Sovereign."
-JBS_new_arabian_army_desc:0 "Our reformed armed forces now act with renewed vigour and independence from politics, and god-willing will bring us victory in the battlefield."
-JBS_arabian_horsemanship_idea_desc:0 "Our horsemen, equipped with the finest steeds and steeled by years of raids, have answered the call and will fight for us in the coming war for the world."
-JBS_desert_logstics_idea_desc:0 "Our forces are trained to make the best of our terrain and know paths foreigners do not."
-JBS_arabian_war_of_unification_desc:0 "It has begun! Our great wars to unite Arabia under our rule will decide the fate of millions. We must not falter!"
-JBS_muslim_universities_desc:0 "Using public funds, we have expanded our higher learning institutions."
-JBS_islamic_welfare_desc:0 "Charity towards the needy is one of the five pillars of our faith; the many poor, destitute and the orphans and widows of war will not fall to poverty under our rule."
+JBS_ikhwan_raids_desc:0 "Malgré notre victoire sur les Saoudiens, les Ikhwan continuent de faire des raids sur nos camps et nos terres.
+JBS_muslim_universities:0 "Universités islamiques"
+JBS_islamic_welfare:0 "Aide Sociale Islamique" 
+JBS_backwards_economy_desc:0 "Notre économie est toujours basée sur l'agriculture à petite échelle, l'activité pastorale et le commerce du pétrole".
+JBS_illiterate_populace_desc:0 "Beaucoup, si ce n'est la plupart de nos concitoyens, sont trop peu instruits pour nous aider comme il se doit.
+JBS_trading_expertise_idea_desc:0 "Notre expertise en matière de commerce nous apporte de grands avantages grâce à nos contacts".
+JBS_food_imports_idea_desc:0 "Nous achetons des denrées alimentaires en masse et nous construisons une base pour l'avenir."
+JBS_religious_fervor_idea_desc:0 "Hommes bien équipés et motivés, nos forces se battent pour plus que leur simple nation, mais pour les Cités Saintes, pour la Foi et leur Souverain."
+JBS_new_arabian_army_desc:0 "Nos forces armées réformées agissent maintenant avec une vigueur et une indépendance renouvelées par rapport à la politique, et la volonté de Dieu nous apportera la victoire sur le champ de bataille."
+JBS_arabian_horsemanship_idea_desc:0 "Nos cavaliers, équipés des meilleurs coursiers et aguerris par des années de raids, ont répondu à l'appel et se battront pour nous dans la prochaine guerre pour le monde."
+JBS_desert_logstics_idea_desc:0 "Nos forces sont entraînées pour tirer le meilleur parti de notre terrain et connaissent des chemins que les étrangers ne connaissent pas."
+JBS_arabian_war_of_unification_desc:0 "Cela a commencé ! Nos grandes guerres pour unifier l'Arabie sous notre domination décideront du sort de millions de personnes. Nous ne devons pas faiblir !"
+JBS_muslim_universities_desc:0 "Grâce aux fonds publics, nous avons développé nos établissements d'enseignement supérieur."
+JBS_islamic_welfare_desc:0 "La charité envers les nécessiteux est l'un des cinq piliers de notre foi ; les nombreux pauvres, les démunis, les orphelins et les veuves de guerre ne tomberont pas dans la pauvreté sous notre règne."
 
 ### Political Focuses ###
-JBS_the_nemisis:0 "Two Emirs Enter..."
-JBS_the_nemisis_desc:0 "For a century war has raged between our houses, but one fact is clear: The Arabian peninsula is too small for the both of the house of Rashid and Saud."
-JBS_saudis_get_out:0 "House of Rashid Victorious"
-JBS_saudis_get_out_desc:0 "After a century of struggle, we have at least crushed the last meaningful Saudi stronghold, and we can finally reach our rightful place as masters of this land."
+JBS_the_nemisis:0 "Deux émirs entrent..."
+JBS_the_nemisis_desc:0 "Depuis un siècle, la guerre fait rage entre nos maisons, mais un fait est clair : la péninsule arabique est trop petite pour les deux maisons de Rachid et de Saoud."
+JBS_saudis_get_out:0 "La dynastie Rashidi Victorieux"
+JBS_saudis_get_out_desc:0 "Après un siècle de lutte, nous avons au moins écrasé le dernier bastion saoudien significatif, et nous pouvons enfin atteindre notre place légitime en tant que maîtres de cette terre".
 ### Rashidi Hegemony Focuses ###
-JBS_rashidi_hegemony:0 "Rashid Hegemony"
-JBS_rashidi_hegemony_desc:0 "Our allies have served their propose. With the Saudi's gone, no tribe has the means to stand in our way. A new era begins for Arabia, and the Rashids call the shots now."
-JBS_expand_oil_hold:0 "Expand our grip on Oil Grants"
-JBS_expand_oil_hold_desc:0 "For a long time we alloed local lords and cheifs to freely do with the Oil in their land as it pleased them; not anymore! Every man must be his duty to strenghten our position..."
-JBS_consolidating_suryah:0 "Consolidate our grip on the Levant"
-JBS_consolidating_suryah_desc:0 "The Western Mashriq is a vast land that has the potential to far outshine Arabia economically and politically, and now that we are in it's possession, we must ensure that our government is actually felt and respected by the locals."
-JBS_develop_suryah:0 "Industry in Syria"
-JBS_develop_suryah_desc:0 "The land we now own are greatly urbanised areas with an immense potential workforce, and our new spoils put the family in a prime position to build factories in the large cities of Syria; we must take haste and seize this opportunity."
-JBS_consolidating_fringe_arabia:0 "Consolidate our grip on Yemen"
-JBS_consolidating_fringe_arabia_desc:0 "As the flames of war lessen, we can finally set roots on the rich region of Yemen. Once allied Arabia Felix by the Rum due to the immense wealth of its rulers, these lands have long been held by Ottoman forcesm but also divided by petty sectarian squabbles which must be dealt with."
-JBS_develop_fringe_arabia:0 "Develop the Fringes of Arabia"
-JBS_develop_fringe_arabia_desc:0 "The cities of Sanaa and Aden are among the largest in our realm, and their merchant classes will eagerly accept our help to develop and improve their lands, and ensure that they finally reach this new age of wonders we live in."
-JBS_consolidating_iraq_i_arab:0 "Consolidate our grip on Mesopotamia"
-JBS_consolidating_iraq_i_arab_desc:0 "As our rule reaches these ancient lands, we reach the jewel of the Mashriq, Baghdad, but also many other towns who are unaware of sometimes who we even are! If Arabia is to stand as one, the grand machinery of the state must reach Iraq-i-Arab."
-JBS_develop_iraq_i_arab:0 "Invest in Iraq-i-Arab"
-JBS_develop_iraq_i_arab_desc:0 "As our hold on the Eastern Mashriq improves, the opportunity to make use of its workforce to improve our production capacity must not go to waste. Baghdad will soon be the beating heart of this new Arabia."
-JBS_tighten_control_nejd:0 "Tighten our Hold over Nejd"
-JBS_tighten_control_nejd_desc:0 "There have been many years since we controlled Nejd, and many of our old allies have forgotten their allegiances. Paying visits and showing respect to these lords, and convincing them our just intentions, will, God willing, take not much time."
-JBS_purge_saudi:0 "Hunt Down the Saudis"
-JBS_purge_saudi_desc:0 "The last of the Saudi's are on hiding, both on lands we control and aborad. The only way to truly consolidate our rule and to end delusions of grandeur from lesser houses for good is to end their line, in a definitive fashion."
+JBS_rashidi_hegemony:0 "L'hégémonie de Rashid"
+JBS_rashidi_hegemony_desc:0 "Nos alliés ont servi leur proposition. Les Saoudiens étant partis, aucune tribu n'a les moyens de se mettre en travers de notre chemin. Une nouvelle ère commence pour l'Arabie, et les Rashid mènent la danse maintenant."
+JBS_expand_oil_hold:0 "Elargir notre emprise sur les subventions pétrolières"
+JBS_expand_oil_hold_desc:0 "Pendant longtemps, nous avons permis aux seigneurs et aux cheifs locaux de faire librement ce qu'ils voulaient du pétrole sur leurs terres ; plus maintenant ! Chaque homme doit être son devoir de renforcer notre position..."
+JBS_consolidating_suryah:0 "Consolider notre emprise sur le Levant"
+JBS_consolidating_suryah_desc:0 "Le Machrek occidental est une vaste terre qui a le potentiel de surpasser l'Arabie sur le plan économique et politique, et maintenant que nous sommes en sa possession, nous devons nous assurer que notre gouvernement est réellement ressenti et respecté par les habitants.
+JBS_develop_suryah:0 "L'industrie en Syrie"
+JBS_develop_suryah_desc:0 "Les terres que nous possédons maintenant sont des zones fortement urbanisées avec un immense potentiel de main-d'œuvre, et notre nouveau butin place la famille dans une position privilégiée pour construire des usines dans les grandes villes de Syrie ; nous devons nous hâter et saisir cette opportunité".
+JBS_consolidating_fringe_arabia:0 "Consolider notre emprise sur le Yémen"
+JBS_consolidating_fringe_arabia_desc:0 "Alors que les flammes de la guerre s'atténuent, nous pouvons enfin prendre racine dans la riche région du Yémen. Autrefois alliées à l'Arabie Félix par le Rhum en raison de l'immense richesse de ses dirigeants, ces terres ont longtemps été tenues par les forces ottomanes mais aussi divisées par de petites querelles sectaires qu'il faut régler".
+JBS_develop_fringe_arabia:0 "Développer les franges de l'Arabie"
+JBS_develop_fringe_arabia_desc:0 "Les villes de Sanaa et d'Aden sont parmi les plus grandes de notre royaume, et leurs classes marchandes accepteront avec enthousiasme notre aide pour développer et améliorer leurs terres, et s'assurer qu'elles atteignent enfin cette nouvelle ère de merveilles dans laquelle nous vivons.
+JBS_consolidating_iraq_i_arab:0 "Consolider notre emprise sur la Mésopotamie"
+JBS_consolidating_iraq_i_arab_desc:0 "Alors que notre règle atteint ces terres anciennes, nous atteignons le joyau du Machriq, Bagdad, mais aussi de nombreuses autres villes qui ignorent parfois qui nous sommes ! Si l'Arabie doit rester unie, la grande machine de l'État doit atteindre l'Irak-i-Arabe".
+JBS_develop_iraq_i_arab:0 "Investir en Irak-i-Arabe"
+JBS_develop_iraq_i_arab_desc:0 "Alors que notre emprise sur le Machrek oriental s'améliore, la possibilité d'utiliser sa main-d'œuvre pour améliorer notre capacité de production ne doit pas être gâchée. Bagdad sera bientôt le cœur battant de cette nouvelle Arabie".
+JBS_tighten_control_nejd:0 "Resserrer notre emprise sur le Nejd"
+JBS_tighten_control_nejd_desc:0 "Il y a de nombreuses années que nous avons contrôlé le Nejd, et beaucoup de nos anciens alliés ont oublié leurs allégeances. Rendre visite à ces seigneurs, leur témoigner du respect et les convaincre de nos justes intentions ne prendra pas beaucoup de temps, si Dieu le veut".
+JBS_purge_saudi:0 "Traquer les Saoudiens"
+JBS_purge_saudi_desc:0 "Les derniers Saoudiens se cachent, à la fois sur les terres que nous contrôlons et sur celles d'aborad. La seule façon de consolider véritablement notre pouvoir et de mettre fin définitivement aux illusions de grandeur des petites maisons est de mettre un terme à leur ligne, de façon définitive.
 JBS_purge_ikh:0 "Purge the Ikhwan"
-JBS_purge_ikh_desc:0 "The cruel and wicked Saudis kept a vile group of attack dogs as their guards; the Ikhwan. A Wahabbi militia composed of the most twisted and wicked religious fanatics, these brutal savages saw the words of the Prophet, blessed be his name in these dark days, as little more than an excuse to seize land and kill the innocent. We must deal swiftly with these brigands to ensure peace."
-JBS_dealing_with_kuwait:0 "Dockyards of the Trucial States"
-JBS_dealing_with_kuwait_desc:0 "The Persian Gulf is our access to the outside world and as such needs substantial infrastructural expansion on its coastline should we wish to entertain relations with the Great Powers and export Arabian goods."
-JBS_consolidating_coaliiton:0 "Consolidating Coalition"
-JBS_consolidating_coaliiton_desc:0 "Our tribal allies will all gather again, and will be convinced by our wise arguments that our Emir is the sole supreme lord of Arabia. Of course, things are a little more complicated than that, and a concentrated effort must be made to reach that end."
+JBS_purge_ikh_desc:0 "Les cruels et méchants Saoudiens avaient pour gardiens un vilain groupe de chiens d'attaque : les Ikhwan. Milice wahhabite composée des fanatiques religieux les plus tordus et les plus méchants, ces sauvages brutaux voyaient dans les paroles du Prophète, béni soit son nom en ces jours sombres, à peine plus qu'un prétexte pour s'emparer de terres et tuer des innocents. Nous devons traiter rapidement avec ces brigands pour assurer la paix".
+JBS_dealing_with_kuwait:0 "Les chantiers navals des États de la Trêve"
+JBS_dealing_with_kuwait_desc:0 "Le golfe Persique est notre accès au monde extérieur et, à ce titre, il a besoin d'une expansion substantielle des infrastructures sur son littoral si nous voulons entretenir des relations avec les grandes puissances et exporter des marchandises arabes".
+JBS_consolidating_coaliiton:0 "Consolidation de la coalition"
+JBS_consolidating_coaliiton_desc:0 "Nos alliés tribaux se réuniront tous à nouveau et seront convaincus par nos sages arguments que notre émir est le seul seigneur suprême de l'Arabie. Bien sûr, les choses sont un peu plus compliquées que cela, et un effort concentré doit être fait pour atteindre ce but".
 JBS_absolute_rulership:0 "Absolute Leadership"
-JBS_absolute_rulership_desc:0 "There is no time for deliberation and liberalism; there is only time for action. A leader must not waste his time listening to those lesser than him, but rather focus on his own opinions and his most trusted advisers."
-JBS_the_rashidi_caliphate:0 "The Rashid Caliphate"
-JBS_the_rashidi_caliphate_desc:0 "For centuries, the title of Caliph has lay vacant, save for empty claims from small states, such as Sokoto and some Turkish empire. But now, with control over the holiest sites of Islam, and the entirety of Arabia, we already *are* the leader of the faithful, tis' only a matter of making this point official."
-JBS_realm_of_the_arabs:0 "Lead the Arabs"
-JBS_realm_of_the_arabs_desc:0 "All of Arabia is under us, and we carry the flag that once flew over the rebels who fought the Turk. Nothing can stand between us and the destiny of our people, to be united as one, under one single monarch: a Rashid."
-JBS_houses_of_wisdom:0 "Houses of Wisdom"
+JBS_absolute_rulership_desc:0 "Il n'y a pas de temps pour la délibération et le libéralisme ; il n'y a de temps que pour l'action. Un dirigeant ne doit pas perdre son temps à écouter ceux qui sont en dessous de lui, mais plutôt se concentrer sur ses propres opinions et sur ses conseillers les plus fiables".
+JBS_the_rashidi_caliphate:0 "Le califat de Rashid"
+JBS_the_rashidi_caliphate_desc:0 "Depuis des siècles, le titre de calife est resté vacant, à l'exception des revendications vides de sens de petits États, comme Sokoto et certains empires turcs. Mais aujourd'hui, avec le contrôle des lieux saints de l'Islam et de toute l'Arabie, nous sommes déjà le chef des fidèles, il ne s'agit plus que d'officialiser ce point".
+JBS_realm_of_the_arabs:0 "Diriger les Arabes"
+JBS_realm_of_the_arabs_desc:0 "Toute l'Arabie est sous nos pieds, et nous portons le drapeau qui flottait autrefois sur les rebelles qui ont combattu les Turcs. Rien ne peut s'interposer entre nous et le destin de notre peuple, d'être uni en un seul, sous un seul monarque : un Rachid".
+JBS_houses_of_wisdom:0 "Maisons de la Sagesse"
 JBS_houses_of_wisdom_desc:0 ""
 ### United Arabia Focuses ###
-JBS_united_arabia:0 "Unite the Arabs"
-JBS_united_arabia_desc:0 "Now that we have rid our land from the stench of Wahhabism, the prefidous crooks in Constantinople show their true colours. They not only refused to help us in our war, but also insulted and mocked us! Arabia will no longer bow to these corrupt toads!"
-JBS_kingdom_of_arabia:0 "Kingdom of Arabia"
+JBS_united_arabia:0 "Unite les Arabes"
+JBS_united_arabia_desc:0 "Maintenant que nous avons débarrassé notre pays de la puanteur du wahhabisme, les escrocs préfabriqués de Constantinople montrent leurs vraies couleurs. Ils ont non seulement refusé de nous aider dans notre guerre, mais ils nous ont aussi insultés et raillés ! L'Arabie ne s'inclinera plus devant ces crapauds corrompus !"
+JBS_kingdom_of_arabia:0 "Royaume d'Arabie"
 JBS_kingdom_of_arabia_desc:0 ""
-JBS_federation_builders:0 "Federation Builders"
-JBS_federation_builders_desc:0 "Establishing treaties formalizing the alliance that has defeated the dark shadow of Wahhabism is no simple task, for the multitude of political forces involved must find compromise in very complex matters. However, to truly build a new Arabia, this step must be taken."
-JBS_national_legal_code:0 "Reformed Legal Code"
-JBS_national_legal_code_desc:0 "While we still will preserve local law and legislation, we need to draft a proper legal code to be established in the entirety of our allied territory."
-JBS_a_thousand_years:0 "A Lasting Legacy"
-JBS_a_thousand_years_desc:0 "More than making a new state, we are building a way to ensure that our people will forever be united. In order for our proposed system to stand the test of time, we must ensure that all that we do and say cannot be corrupted by those who wish to ruin our work."
-JBS_protect_minorities:0 "Protect Minorities"
-JBS_protect_minorities_desc:0 "For centuries, despite our differences, we have respected the rights of the Christians, Jews and other peoples under our rule, as it was instructed by the Prophet himself. We must ensure that all of our subjects, no matter their creed, are safeguarded."
-JBS_arabian_constutionalism:0 "Arabian Constitutionalism"
-JBS_arabian_constutionalism_desc:0 "To ensure that our alliance endures, and we are prepared for the Turkish invasion that is sure to come, and to the future ahead, we will establish a true constitution; one that takes into account what we stand for, and what we fight for, and we will die for if need be!"
-JBS_united_arab_emirates:0 "The United Arab Emirates"
-JBS_united_arab_emirates_desc:0 "Our alliance has, indeed, been reformed in such a way it is functionally one state for years now. However we have taken steps to formalise this arrangement into an Arab League, one that will ensure that Arabia will focus."
-JBS_elective_monarchy:0 "Establish Elective Monarchy"
-JBS_elective_monarchy_desc:0 "As to keep balance between political forces within the realm, and to keep our unity less vuneable to the will of tyrants, all Arab lords will convene regularly to elect one of their own as Sultan of Arabia, the head of state of our federation, which is already being called the United Arab Emirates abroad and by some members of the press."
-JBS_elective_sabah:0 "Elect an Al-Sabah"
-JBS_elective_sabah_desc:0 "After much deliberation by our councillors, we have opted to grant the leadership of our Alliance to the house of Al Sabah, lords of Kuwait and one of the founders of our alliance."
-JBS_elective_sabah_oil:0 "Oil Extraction Grants"
-JBS_elective_sabah_oil_desc:0 "The oil wealth of the Emirate of Kuwait needs investment to be properly extracted, and thus the Sultan will use its momentary position as head of state to ensure that for the good of all Arabs, these resources do not remain untapped."
-JBS_elective_sabah_iraq_i_arab_development:0 "Industrial Development"
-JBS_elective_sabah_iraq_i_arab_development_desc:0 "Just a short distance from Kuwait lies the region of Iraq-i-Arab, whose cities are finally free of oppression and can truly help us advance towards a better future."
-JBS_elective_al_nahyan:0 "Elect an Al-Nahyan"
-JBS_elective_al_nahyan_desc:0 "After much deliberation by our councillors, we have opted to grant the leadership of our Alliance to the house of Al Nahyan, the emirs of Sharjah and chief house of the old Trucial Coast."
-JBS_elective_al_nahyan_rekindle_trucial_economy:0 "Rekindle Trucial Economy"
-JBS_elective_al_nahyan_rekindle_trucial_economy_desc:0 "After the collapse of the Pearl trade, the coast of the Arabian Gulf has lived it's poorest days in centuries. If we are to rekindle the flame of this once proud region, we must spare no expense."
-JBS_elective_al_nahyan_gulf_safeguards:0 "Protect the Arabian Gulf"
-JBS_elective_al_nahyan_gulf_safeguards_desc:0 "For centuries [PER.GetNameDef] coveted control of the Arabian Gulf, and now with the Ottoman Empire out of the picture, it stares at at our alliance like an angry lion waiting for an opening to pounce. We can do little to dissuade it; we best prepare for it!"
-JBS_elective_bani_sakhir:0 "Elect a Howleitat"
-JBS_elective_bani_sakhir_desc:0 "After much deliberation by our councillors, we have opted to grant the leadership of our Alliance to the ancient clan of the Howleitat, who have not forgotten their nomadic roots."
-JBS_elective_bani_sakhir_nomads:0 "Grand Land to Howleitat Nomads"
-JBS_elective_bani_sakhir_nomads_desc:0 "Used to a life of hardship in the desert, many of the nomads roaming the lands between the Mashriq and the Nefoud can have a shot at a better life in the lands we have retaken, and in doing so they will also help stabilize these recently conquered areas."
-JBS_elective_bani_sakhir_syria_develop:0 "Develop Syrian Centers"
-JBS_elective_bani_sakhir_syria_develop_desc:0 "The large cities in the eastern Mashriq lack a noblemen prestigious enough to be elected sultan, and thus requested the Howleitat to represent their interests if at all possible. For too long under the boot of foreign powers, they finally can excell at their crafts in peace."
-JBS_elective_rashidi:0 "Elect a Rashid"
-JBS_elective_rashidi_desc:0 "After much deliberation by our councillors, we have opted to grant the leadership of our Alliance to the house of Rashid, the founders of our Alliance and lords of Ha'il."
-JBS_elective_rashidi_nejdi_peace:0 "Peace in Nejd"
-JBS_elective_rashidi_nejdi_peace_desc:0 "It's over; after 100 years it's finally over. The Saudis, despite their tricks and twists, could not stand against us in the end. Now we must take steps to heal the horrible wounds of this long war and bring about a new age of peace."
-JBS_elective_rashidi_rid_nejd_of_wahhabism:0 "Cleanse the Stain of Wahhabism"
-JBS_elective_rashidi_rid_nejd_of_wahhabism_desc:0 "Acting as strongmen for the Saudi state, the Wahabbi cult of the Ikhwan has killed and looted for decades under the guise of acting to preserve the 'purity' of our faith. They are a stain on our history, our land and even the name of the Prophet, which was used by them as an excuse for thievery and murder."
-JBS_elective_hashemite:0 "Elect a Hashemite"
-JBS_elective_hashemite_desc:0 "After much deliberation by our councillors, we have opted to grant the leadership of our Alliance to the Hashemites, and ancient and respected dynasty whose very name is known even in the far corners of the globe."
-JBS_elective_hashemite_pan_arabist_ethos:0 "Pan Arabic Ethos"
-JBS_elective_hashemite_pan_arabist_ethos_desc:0 "Arabia rises again, stronger than last time. We wont need to rely on foreign powers or foreign aid, our destiny is ours alone; we need only to grasp it!"
-JBS_elective_hashemite_international_reputation:0 "International Reputation"
-JBS_elective_hashemite_international_reputation_desc:0 "Every Arab intellectual and well read man knows of the efforts of our house during the Weltkrieg. The mistake of our ideals was not to rise against the Turk, but to rely on those who saw us as expendable fodder for their pointless war. Now that idea is reborn anew, and men from abroad recognise that we fight for freedom and justice."
-JBS_settling_tribes:0 "Settling Tribes"
-JBS_settling_tribes_desc:0 "Many nomads and mainly refugees have come to our lands, and we cannot keep them unsheltered forever. Steps should be taken to give them roofs and beds, so they can help our state as a whole."
-JBS_integration_of_yemeni_soverigns:0 "Integration of Yemeni Soverigns"
-JBS_integration_of_yemeni_soverigns_desc:0 "The myriad rulers of Yemen, including the Imam, are to legally join our federation as friends and equals. This may be a painful process, but its for the best, as it's a rich and integral part of Arabia."
-JBS_distribution_of_syrian_titles:0 "Distribution of Syrian Titles"
-JBS_distribution_of_syrian_titles_desc:0 "Syria lacks any amirs or traditional cheifs of it's own in most of its major cities, especially outside of minorities. Many titles can be distributed to loyal generals and officers, and we will reorganize Syria into a part of our alliance in due time."
-JBS_forging_a_new_iraq:0 "Forging a new Iraq"
-JBS_forging_a_new_iraq_desc:0 "As our new realm reaches the land between the rivers, the ancient and rich cities still recover from the terrible years of war and mismanagement under the Ottomans. Convincing the people that we are a better alternative to them or the perfidious [PER.GetAdjective] should not be the hardest of tasks."
-JBS_formal_adminstration:0 "Formal Administration"
-JBS_formal_adminstration_desc:0 "As we advance our hold in these lands, we must also establish proper and formal ways to pay taxes and ensure that the state can help, reach and protect those in need of its assistance."
-JBS_future_of_arabia:0 "Future of Arabia"
-JBS_future_of_arabia_desc:0 "To ensure a better future, we must restore our education, our academia, our sciences! For centuries we have lagged behind, and for these same centuries we endured foreign occupation. This is no coincidence, for a people without wisdom and knowledge is a people without a future."
+JBS_federation_builders:0 "Bâtisseurs de la fédération"
+JBS_federation_builders_desc:0 "Établir des traités formalisant l'alliance qui a vaincu l'ombre du wahhabisme n'est pas une tâche facile, car la multitude de forces politiques impliquées doit trouver des compromis dans des matières très complexes. Cependant, pour véritablement construire une nouvelle Arabie, cette étape doit être franchie".
+JBS_national_legal_code:0 "Code juridique réformé"
+JBS_national_legal_code_desc:0 "Tout en préservant le droit et la législation locaux, nous devons rédiger un code juridique approprié qui sera établi sur l'ensemble du territoire de nos alliés.
+JBS_a_mille_années:0 "Un héritage durable"
+JBS_a_thousand_years_desc:0 "Plus que de créer un nouvel État, nous construisons un moyen de garantir que notre peuple sera à jamais uni. Pour que le système que nous proposons résiste à l'épreuve du temps, nous devons veiller à ce que tout ce que nous faisons et disons ne puisse être corrompu par ceux qui veulent ruiner notre travail".
+JBS_protect_minorities:0 "Protéger les minorités"
+JBS_protect_minorities_desc:0 "Pendant des siècles, malgré nos différences, nous avons respecté les droits des chrétiens, des juifs et des autres peuples sous notre domination, comme le Prophète lui-même l'a ordonné. Nous devons veiller à ce que tous nos sujets, quelle que soit leur croyance, soient sauvegardés".
+JBS_arabian_constutionalism:0 "Le constitutionnalisme arabe"
+JBS_arabian_constutionalism_desc:0 "Pour assurer la pérennité de notre alliance et nous préparer à l'invasion turque qui ne manquera pas de se produire et à l'avenir, nous établirons une véritable constitution, qui tiendra compte de ce que nous défendons et de ce pour quoi nous nous battons, et pour laquelle nous mourrons si nécessaire".
+JBS_united_arab_emirates:0 "Les Émirats arabes unis"
+JBS_united_arab_emirates_desc:0 "Notre alliance a, en effet, été réformée de telle sorte qu'elle constitue fonctionnellement un seul État depuis des années maintenant. Cependant, nous avons pris des mesures pour formaliser cet arrangement en une Ligue arabe, qui garantira que l'Arabie se concentre".
+JBS_elective_monarchy:0 "Etablir une monarchie élective"
+JBS_elective_monarchy_desc:0 "Afin de maintenir l'équilibre entre les forces politiques au sein du royaume, et pour que notre unité soit moins sensible à la volonté des tyrans, tous les seigneurs arabes se réuniront régulièrement pour élire l'un des leurs comme Sultan d'Arabie, le chef d'État de notre fédération, qui est déjà appelée Émirats arabes unis à l'étranger et par certains membres de la presse.
+JBS_elective_sabah:0 "Élire un Al-Sabah"
+JBS_elective_sabah_desc:0 "Après de nombreuses délibérations de nos conseillers, nous avons choisi d'accorder la direction de notre Alliance à la maison d'Al Sabah, seigneurs du Koweït et l'un des fondateurs de notre alliance.
+JBS_elective_sabah_oil:0 "Subventions d'extraction pétrolière"
+JBS_elective_sabah_oil_desc:0 "La richesse pétrolière de l'émirat du Koweït a besoin d'investissements pour être correctement exploitée, et le sultan utilisera donc sa position momentanée de chef d'État pour s'assurer que, pour le bien de tous les Arabes, ces ressources ne restent pas inexploitées".
+JBS_elective_sabah_iraq_i_arab_development:0 "Développement Industriel "
+JBS_elective_sabah_iraq_i_arab_development_desc:0 "À quelques kilomètres du Koweït se trouve la région iraquo-arabe, dont les villes sont enfin libérées de l'oppression et peuvent réellement nous aider à avancer vers un avenir meilleur.
+JBS_elective_al_nahyan:0 "Elire un Al-Nahyan"
+JBS_elective_al_nahyan_desc:0 "Après de nombreuses délibérations de nos conseillers, nous avons choisi d'accorder la direction de notre Alliance à la maison d'Al Nahyan, aux émirs de Sharjah et à la maison principale de l'ancienne Côte de la Trêve".
+JBS_elective_al_nahyan_rekindle_trucial_economy:0 "Rekindle Trucial Economy" (Raviver l'économie sociale)
+JBS_elective_al_nahyan_rekindle_trucial_economy_desc:0 "Après l'effondrement du commerce des perles, la côte du golfe Arabique a vécu ses jours les plus pauvres depuis des siècles. Si nous voulons raviver la flamme de cette région autrefois fière, nous ne devons épargner aucune dépense".
+JBS_elective_al_nahyan_gulf_safeguards:0 "Protéger le golfe Arabique"
+JBS_elective_al_nahyan_gulf_safeguards_desc:0 "Pendant des siècles, [PER.GetNameDef] a convoité le contrôle du Golfe arabique, et maintenant que l'Empire ottoman est hors jeu, il fixe notre alliance comme un lion en colère qui attend qu'une ouverture se présente. Nous ne pouvons pas faire grand-chose pour l'en dissuader ; nous devons nous y préparer".
+JBS_elective_bani_sakhir:0 "Elire un Howleitat"
+JBS_elective_bani_sakhir_desc:0 "Après de nombreuses délibérations de nos conseillers, nous avons choisi d'accorder la direction de notre Alliance à l'ancien clan des Howleitat, qui n'ont pas oublié leurs racines nomades.
+JBS_elective_bani_sakhir_nomads:0 "Une Grande Terre aux nomades Howleitat"
+JBS_elective_bani_sakhir_nomads_desc:0 "Habitués à une vie de privations dans le désert, de nombreux nomades qui parcourent les terres entre le Machriq et le Nefoud peuvent avoir une chance d'avoir une vie meilleure sur les terres que nous avons reprises, et ce faisant, ils contribueront également à stabiliser ces zones récemment conquises.
+JBS_elective_bani_sakhir_syria_develop:0 "Développer les centres syriens".
+JBS_elective_bani_sakhir_syria_develop_desc:0 "Les grandes villes du Machrek oriental n'ont pas de noblesse assez prestigieuse pour être élues sultan, et ont donc demandé à l'Howleitat de représenter leurs intérêts si possible. Pendant trop longtemps sous la botte de puissances étrangères, elles peuvent enfin exceller dans leur métier en toute tranquillité".
+JBS_elective_rashidi:0 "Élire un Rachid"
+JBS_elective_rashidi_desc:0 "Après de nombreuses délibérations de nos conseillers, nous avons choisi d'accorder la direction de notre Alliance à la maison de Rachid, les fondateurs de notre Alliance et les seigneurs de Ha'il.
+JBS_elective_rashidi_nejdi_peace:0 "La paix dans le Nejd"
+JBS_elective_rashidi_nejdi_peace_desc:0 "C'est fini ; après 100 ans, c'est enfin fini. Les Saoudiens, en dépit de leurs ruses et de leurs tordus, n'ont finalement pas pu se dresser contre nous. Nous devons maintenant prendre des mesures pour guérir les horribles blessures de cette longue guerre et instaurer une nouvelle ère de paix".
+JBS_elective_rashidi_rid_nejd_of_wahhabism:0 "Purger le Wahhabisme"
+JBS_elective_rashidi_rid_nejd_of_wahhabism_desc:0 "Agissant comme des hommes forts pour l'État saoudien, le culte wahhabite de l'Ikhwan a tué et pillé pendant des décennies sous le prétexte d'agir pour préserver la "pureté" de notre foi. Ils sont une tache sur notre histoire, notre terre et même sur le nom du Prophète, qu'ils ont utilisé comme excuse pour le vol et le meurtre".
+JBS_elective_hashemite:0 "ElectElire un Hashemite"
+JBS_elective_hashemite_desc:0 "Après de nombreuses délibérations de nos conseillers, nous avons choisi d'accorder la direction de notre Alliance aux Hachémites, dynastie ancienne et respectée dont le nom même est connu même dans les coins les plus reculés du globe.
+JBS_elective_hashemite_pan_arabist_ethos:0 "Ethiques Pan-arabiques"
+JBS_elective_hashemite_pan_arabist_ethos_desc:0 "L'Arabie se relève, plus forte que la dernière fois. Nous n'aurons plus besoin de compter sur les puissances étrangères ou l'aide extérieure, notre destin est à nous seuls ; il nous suffit de le saisir !
+JBS_elective_hashemite_international_reputation:0 "Réputation internationale"
+JBS_elective_hashemite_international_reputation_desc:0 "Tout intellectuel arabe et tout homme de bonne lecture connaît les efforts de notre maison pendant la Weltkrieg. L'erreur de nos idéaux n'a pas été de nous soulever contre les Turcs, mais de compter sur ceux qui nous considéraient comme du fourrage superflu pour leur guerre inutile. Aujourd'hui, cette idée renaît et les hommes de l'étranger reconnaissent que nous nous battons pour la liberté et la justice".
+JBS_settling_tribes:0 "Tribus en voie de sédentarisation"
+JBS_settling_tribes_desc:0 "De nombreux nomades et surtout des réfugiés sont venus sur nos terres, et nous ne pouvons pas les garder sans abri pour toujours. Des mesures doivent être prises pour leur donner un toit et un lit, afin qu'ils puissent aider notre État dans son ensemble".
+JBS_integration_of_yemeni_soverigns:0 "Intégration des Souverains Yéménites"
+JBS_integration_of_yemeni_soverigns_desc:0 "La myriade de dirigeants du Yémen, y compris l'imam, doivent rejoindre légalement notre fédération en tant qu'amis et égaux. C'est peut-être un processus douloureux, mais c'est pour le mieux, car c'est une partie riche et intégrante de l'Arabie".
+JBS_distribution_de_titres_syriens:0 "Distribution de titres syriens"
+JBS_distribution_of_syrian_titles_desc:0 "La Syrie manque d'émirs ou de chefs traditionnels propres dans la plupart de ses grandes villes, surtout en dehors des minorités. De nombreux titres peuvent être distribués à des généraux et des officiers loyaux, et nous réorganiserons la Syrie en temps voulu pour en faire une partie de notre alliance".
+JBS_forging_a_new_iraq:0 "Forger un nouvel Irak"
+JBS_forging_a_new_iraq_desc:0 "Alors que notre nouveau royaume atteint la terre entre les rivières, les villes anciennes et riches se remettent encore des terribles années de guerre et de mauvaise gestion sous les Ottomans. Convaincre les gens que nous sommes une meilleure alternative à eux ou à la perfide [PER.GetAdjective] ne devrait pas être la tâche la plus difficile".
+JBS_formal_adminstration:0 "Une Véritable Administration"
+JBS_formal_adminstration_desc:0 "Au fur et à mesure que nous avançons dans notre emprise sur ces terres, nous devons également établir des moyens appropriés et formels de payer les impôts et veiller à ce que l'État puisse aider, atteindre et protéger ceux qui ont besoin de son assistance.
+JBS_future_of_arabia:0 "L'Avenir de l'Arabie"
+JBS_future_of_arabia_desc:0 "Pour assurer un avenir meilleur, nous devons restaurer notre éducation, notre université, nos sciences ! Pendant des siècles, nous avons été à la traîne, et pendant ces mêmes siècles, nous avons enduré l'occupation étrangère. Ce n'est pas une coïncidence, car un peuple sans sagesse et sans savoir est un peuple sans avenir".
 ### Economics Focuses ###
-JBS_trading_expertise:0 "Trading Expertise"
-JBS_trading_expertise_desc:0 "For millenia the Arab people had become rich not due to the bounty of the land, but by it's expertise in trading. Now more than ever we are strapped for funds and goods, and we need to put all the merchants and diplomats we can into good use!"
-JBS_arms_imports:0 "Military Imports"
-JBS_arms_imports_desc:0 "We need weapons in order to to defeat the ottomans and anyone that would stand in the way of Arabia. To that end, let us import our weapons from abroad."
-JBS_weapons_aqusitions:0 "Weapons Acquisitions"
-JBS_weapons_aqusitions_desc:0 "'This is just a misunderstanding! These are just hunting rifles for the Emir's personal collection. I assure you that everything is in order'."
-JBS_reverse_engineering:0 "Reverse Engineering"
-JBS_reverse_engineering_desc:0 "'It's *not* a Gewher! It's the Arab made Bunduqia Sabah rifle; entirely original design i assure you'."
-JBS_armament_plans:0 "Armament Plans"
-JBS_armament_plans_desc:0 "We have many warriors which are capable and brave, but far fewer guns that are actually usable in a modern battlefield. If we are to take victory and ensure our freedom, we must ensure we have the best available to us."
-JBS_civilian_trade:0 "Rashidi Factories"
-JBS_civilian_trade_desc:0 "As we trade with westerners we should look at building some factories within our lands in order to prepare to defeat the Ottomans."
-JBS_arsenal_of_arabia:0 "Arsenal of Arabia"
-JBS_arsenal_of_arabia_desc:0 "More than just having the minimum of guns, we need to have a surplus; ammo, ships, tires, bandages, food, livestock; Arabia's arsenal has many needs which must be fuffiled lest we will fall to our enemies."
-JBS_caravans_of_tomorrow:0 "Caravans of Tomorrow"
-JBS_caravans_of_tomorrow_desc:0 "Railways will slowly replace old methods of transportations, and soon every city, nook and cranny of our great land will be within a day's ride to a train station and the larger world."
-JBS_foreign_advisors:0 "Foreign Advisers"
-JBS_foreign_advisors_desc:0 "As we advance our industrial and military programs, the lack of know-how begins to become and issue, and we desperately require foreign men to help Arabia back to it's feet after such devastating centuries."
-JBS_oil_market:0 "Expand Oil Operations"
-JBS_oil_market_desc:0 "Our oil wells have been working at sub optimal capacity; even if we need foreign aid and plenty of time, ensuring we can exploit this resource should be our top priority."
-JBS_food_imports:0 "Intensify Food Imports"
-JBS_food_imports_desc:0 "It's no simple task to feed a nation in times of war, especially considering our enemies are likely to have naval superiority. We are planning to make stocks and secure supply channels to make sure that they cannot hope to starve us into submission, and to dimisish all kinds of famine in times of peace."
-JBS_railway_logistics:0 "Railway Logistics"
-JBS_railway_logistics_desc:0 "Building a railway is more than placing the tracks, for much planning is involved before even the first bit is in place. The same should go for any army, for every force marches on it's stomach and we should use our new rail network to good use, and also expand it for military goals."
-JBS_industrial_raw_materials:0 "Industrial Raw Materials"
-JBS_industrial_raw_materials_desc:0 "Our lands hold little in way of metals usable for industry, and thus we have to search far and wide for viable deposits of minerals our industries are bout to be starved for, beginning in the mountainous regions of our land."
-JBS_literacy_campaign:0 "Literacy Campaign"
-JBS_literacy_campaign_desc:0 "Our beautiful words and deep knowledge must be spread far; to allow the people to live in ignorance of the world is to be the most cruel of tyrants, for all men should know his words."
-JBS_education_reform:0 "Education Reform"
-JBS_education_reform_desc:0 "It takes more than reading and writing to make a scholar, much like the ability to speak does not make one intelligent. Proper education for our young, and not only those who can afford tutors, will take decades to truly build, but we must start this most important step today."
-JBS_dig_deeper:0 "Dig for more Oil!"
-JBS_dig_deeper_desc:0 "Wealth flows throughout this land. And if our people have one failing, it is the love of wealth. It is sweeter than water, it is more powerful than the sword, for any sword can be turned aside with a blanque check. Oil will buy us a thousand guns, and why, a thousand guys, they are the start of an Empire!"
-JBS_safety_net:0 "Combat Poverty"
-JBS_safety_net_desc:0 "More than our moral duty as Muslims, to aid the poor is the surest way to create prosperity and and a healthy realm. Little can we do to make the people love us, if they can barely scrape by bread and crumbs! We must ensure that not only the most poor, but also widows of the men who gave their lives for Arabia, have some kind of safety net to fall on, sponsored by our wise state."
-JBS_industrialization_effort:0 "Industrialisation Effort"
-JBS_industrialization_effort_desc:0 "We have built some factories, but we can scarcely be called and industrialised state. Our people still mostly live a way from the cities themselves after all. To change that, we must simply ensure that enough jobs are found at the cities, and continue to expand our ever growing industry."
-JBS_arms_industry:0 "Arms Industry"
-JBS_arms_industry_desc:0 "Our industry now should focus on the defence of the realm, as we work to divert funds and resources towards defence expenses. We must now allow our armed forces to lack the vital equipment they so desperately need!"
-JBS_new_railroads:0 "New Railroads"
-JBS_new_railroads_desc:0 "As we connect the many cities that dot our homeland, across sand and plans and sea, we see a path to a brand new future. Folks who had never seen a carriage now will see trains going through their lands into the sunset of Arabia's bright new future."
-JBS_arabian_airports:0 "Airports for Arabia"
-JBS_arabian_airports_desc:0 "Connecting our cities not only by land, but by air, should be a priority for our new government. The added bonus of allowing greater military traffic certainly is a bonus..."
-JBS_building_better_future:0 "Building a Better Future"
-JBS_building_better_future_desc:0 "A better future is more than new buildings, or new books, or new goods; its changing the way we see the world, and thus changing the world. God's light again shines over us, and we will make this earth a better place, even if the cost is high."
-JBS_techslot_machine:0 "Build Universties"
-JBS_techslot_machine_desc:0 "The final step our plans for education is naturally the higher learning, and revitalizing the science and advancement than once were synonym with the Arabic language. Naturally, more hawkish advisers see more 'pratical' gains from such universities..."
+JBS_trading_expertise:0 "Expertise en matière de commerce"
+JBS_trading_expertise_desc:0 "Pendant des millénaires, le peuple arabe s'est enrichi non pas grâce à la richesse de la terre, mais grâce à son expertise en matière de commerce. Aujourd'hui plus que jamais, nous sommes à court de fonds et de biens, et nous devons mettre à profit tous les commerçants et diplomates que nous pouvons".
+JBS_arms_imports:0 "Importations militaires"
+JBS_arms_imports_desc:0 "Nous avons besoin d'armes pour vaincre les ottomans et tous ceux qui feraient obstacle à l'Arabie. À cette fin, importons nos armes de l'étranger".
+JBS_weapons_aqusitions:0 "Acquisitions d'armes"
+JBS_weapons_aqusitions_desc:0 "'C'est juste un malentendu ! Ce ne sont que des fusils de chasse pour la collection personnelle de l'émir. Je vous assure que tout est en ordre".
+JBS_reverse_engineering:0 "Ingénérie Presque Arabe"
+JBS_reverse_engineering_desc:0 "'Ce n'est pas un Gewher ! C'est le fusil Bunduqia Sabah de fabrication arabe ; conception entièrement originale, je vous l'assure".
+JBS_Plans_de_désarmement:0 "Plans d'armement"
+JBS_armament_plans_desc:0 "Nous avons de nombreux guerriers qui sont capables et courageux, mais beaucoup moins d'armes qui sont réellement utilisables sur un champ de bataille moderne. Si nous voulons remporter la victoire et assurer notre liberté, nous devons nous assurer que nous avons ce qu'il y a de mieux à notre disposition".
+JBS_civilian_trade:0 "Les Usines Rashidi"
+JBS_civilian_trade_desc:0 "Dans le cadre de nos échanges commerciaux avec les Occidentaux, nous devrions envisager de construire des usines sur nos terres afin de nous préparer à vaincre les Ottomans.
+JBS_arsenal_of_arabia:0 "Arsenal d'Arabie"
+JBS_arsenal_of_arabia_desc:0 "Plus que d'avoir le minimum d'armes, nous devons avoir un surplus ; munitions, bateaux, pneus, bandages, nourriture, bétail ; l'arsenal de l'Arabie a de nombreux besoins qui doivent être comblés de peur que nous ne tombions aux mains de nos ennemis.
+JBS_caravans_of_tomorrow:0 "Les caravanes de demain"
+JBS_caravans_of_tomorrow_desc:0 "Les chemins de fer remplaceront peu à peu les anciens moyens de transport, et bientôt, chaque ville, chaque recoin de notre grand pays sera à une journée de route d'une gare et du monde entier.
+JBS_foreign_advisors:0 "Conseillers étrangers"
+JBS_foreign_advisors_desc:0 "Alors que nous faisons progresser nos programmes industriels et militaires, le manque de savoir-faire commence à devenir et à se poser, et nous avons désespérément besoin d'hommes étrangers pour aider l'Arabie à se remettre sur pied après des siècles si dévastateurs.
+JBS_oil_market:0 "Développer les opérations pétrolières"
+JBS_oil_market_desc:0 "Nos puits de pétrole ont fonctionné à une capacité sous-optimale ; même si nous avons besoin d'aide étrangère et de beaucoup de temps, faire en sorte que nous puissions exploiter cette ressource devrait être notre priorité absolue.
+JBS_food_imports:0 "Intensifier les importations alimentaires"
+JBS_food_imports_desc:0 "Ce n'est pas une tâche simple que de nourrir une nation en temps de guerre, surtout si l'on considère que nos ennemis sont susceptibles d'avoir une supériorité navale. Nous prévoyons de constituer des stocks et de sécuriser les canaux d'approvisionnement pour qu'ils ne puissent pas espérer nous affamer jusqu'à la soumission, et pour atténuer toutes sortes de famines en temps de paix".
+JBS_railway_logistics:0 "Logistique ferroviaire"
+JBS_railway_logistics_desc:0 "Construire un chemin de fer, c'est plus que poser les rails, car il faut beaucoup de planification avant même que le premier élément ne soit en place. Il devrait en être de même pour toute armée, car chaque force marche sur le ventre et nous devrions utiliser notre nouveau réseau ferroviaire à bon escient, et aussi l'étendre pour des objectifs militaires".
+JBS_industrial_raw_materials:0 "Matières premières industrielles"
+JBS_industrial_raw_materials_desc:0 "Nos terres contiennent peu de métaux utilisables par l'industrie, et nous devons donc chercher partout des gisements viables de minéraux dont nos industries sont sur le point de mourir de faim, à commencer par les régions montagneuses de nos terres.
+JBS_literacy_campaign:0 "Campagne d'alphabétisation"
+JBS_literacy_campaign_desc:0 "Nos belles paroles et notre connaissance profonde doivent être diffusées loin ; permettre aux gens de vivre dans l'ignorance du monde, c'est être le plus cruel des tyrans, car tous les hommes doivent connaître ses paroles.
+JBS_education_reform:0 "Réforme de l'éducation"
+JBS_education_reform_desc:0 "Il faut plus que lire et écrire pour devenir un savant, tout comme la capacité de parler ne rend pas intelligent. Il faudra des décennies pour mettre en place une véritable éducation pour nos jeunes, et pas seulement pour ceux qui peuvent se permettre d'avoir un tuteur, mais nous devons commencer cette étape très importante dès aujourd'hui".
+JBS_dig_deeper:0 "Creusez pour plus de pétrole !"
+JBS_dig_deeper_desc:0 "La richesse coule à travers cette terre. Et si notre peuple a un défaut, c'est l'amour de la richesse. Elle est plus douce que l'eau, elle est plus puissante que l'épée, car toute épée peut être retournée avec un chèque en blanc. Le pétrole nous achètera mille canons, et pourquoi, mille gars, c'est le début d'un Empire !"
+JBS_safety_net:0 "Combattre la pauvreté"
+JBS_safety_net_desc:0 "Plus que notre devoir moral en tant que musulmans, aider les pauvres est le moyen le plus sûr de créer la prospérité et un royaume sain. Nous ne pouvons pas faire grand-chose pour que les gens nous aiment, s'ils peuvent à peine gratter avec du pain et des miettes ! Nous devons faire en sorte que non seulement les plus pauvres, mais aussi les veuves des hommes qui ont donné leur vie pour l'Arabie, aient une sorte de filet de sécurité sur lequel s'appuyer, parrainé par notre État sage".
+JBS_industrialization_effort:0 "Effort d'industrialisation"
+JBS_industrialization_effort_desc:0 "Nous avons construit quelques usines, mais nous ne pouvons guère être appelés et industrialisés État. Après tout, notre peuple vit encore en grande partie loin des villes elles-mêmes. Pour changer cela, nous devons simplement veiller à ce que suffisamment d'emplois soient trouvés dans les villes, et continuer à développer notre industrie toujours croissante".
+JBS_arms_industry:0 "Industrie de l'armement"
+JBS_arms_industry_desc:0 "Notre industrie devrait maintenant se concentrer sur la défense du royaume, alors que nous nous efforçons de détourner des fonds et des ressources vers les dépenses de défense. Nous devons maintenant permettre à nos forces armées de manquer de l'équipement vital dont elles ont si désespérément besoin !
+JBS_new_railroads:0 "De Nouvelles Voies de Chemin de Fer"
+JBS_new_railroads_desc:0 "Alors que nous relions les nombreuses villes qui parsèment notre pays, à travers le sable, les plans et la mer, nous voyons un chemin vers un tout nouvel avenir. Les gens qui n'avaient jamais vu de wagon maintenant verront des trains traverser leurs terres au coucher du soleil du nouvel avenir brillant de l'Arabie".
+JBS_arabian_airports:0 "Aéroports pour l'Arabie"
+JBS_arabian_airports_desc:0 "Relier nos villes non seulement par voie terrestre, mais aussi par voie aérienne, devrait être une priorité pour notre nouveau gouvernement. Le fait de permettre un plus grand trafic militaire est certainement un bonus..."
+JBS_building_better_future:0 "Construire un meilleur avenir"
+JBS_building_better_future_desc:0 "Un meilleur avenir, c'est plus que de nouveaux bâtiments, de nouveaux livres ou de nouveaux biens ; c'est changer la façon dont nous voyons le monde, et donc changer le monde. La lumière de Dieu brille à nouveau sur nous, et nous ferons de cette terre un endroit meilleur, même si le prix à payer est élevé".
+JBS_techslot_machine:0 "Construire des universités"
+JBS_techslot_machine_desc:0 "L'étape finale de nos plans pour l'éducation est naturellement l'enseignement supérieur, et la revitalisation de la science et le progrès qu'autrefois étaient synonymes de la langue arabe. Naturellement, plus de conseillers faucons voient des avantages plus "pratiques" de telles universités...".
 ### Military Focuses ##
-JBS_recruiting_effort:0 "Recruiting Effort"
-JBS_recruiting_effort_desc:0 "Many young men risk idling by the great histories in motion, and will not even hear to call to arms! This cannot be tolerated, and every man in Arabia will be reached out on how to fight for the Emir and his people."
-JBS_contest_the_gulf:0 "Contest the Gulf"
-JBS_contest_the_gulf_desc:0 "Many would call it the 'Persian' Gulf. But we know better, and we will make sure the world does too!"
-JBS_protect_oil_shipping:0 "Protect Oil Shipping"
-JBS_protect_oil_shipping_desc:0 "Our oil exports are a very vital part of our economy, and our enemies know this. To ensure that the shipments safely reach the Indian Ocean, a proper oceangoing navy will be needed, and the crews to maintain it."
-JBS_kuwait_naval_base:0 "Al-Hasa Naval Base"
-JBS_kuwait_naval_base_desc:0 "Once part of the Ottoman Basra Vilayet, Al-Hasa will now be properly refitted to be our main port for the foreseeable future."
-JBS_naval_exercises:0 "Naval Exercises"
-JBS_naval_exercises_desc:0 "As we prepare for confrontation with [PER.GetNameDef] and other hostile powers in the Arabian Gulf, we will conduct navy exercises to ensure our fleet has actual experience at sea when conflict flares up."
-JBS_liberation_war_of_holy_cities:0 "Liberate the Holy Cities"
-JBS_liberation_war_of_holy_cities_desc:0 "The holy cities of Mecca and Medina are held in bondage by the Ottoman Turks. It is our holy duty to liberate these holy cities under our banner."
-JBS_mobilize_the_tribes:0 "Mobilise the Tribes"
-JBS_mobilize_the_tribes_desc:0 "Every tribe in these lands has sworn to help us, and now we are at war with foes which wish to undo all we have fought for so long. Fulfil your oaths! Come to us, for your Emir calls for aid!"
-JBS_army_command_modernization:0 "Army Command Modernisation"
-JBS_army_command_modernization_desc:0 "It's high time we modernise the way our army is led, away from the lords and into the Army, which will be properly organised following foreign military doctrine, with different branches for different types of units and theaters."
-JBS_establish_arabian_airforce:0 "Establish Arabian Aiforce"
-JBS_establish_arabian_airforce_desc:0 "We should look into establishing the first ever Arabian air-force and rule the skies above the desert dunes."
-JBS_establish_arabian_mechanized_brigades:0 "Establish Mechanised Brigades"
-JBS_establish_arabian_mechanized_brigades_desc:0 "In this new age, we must ensure our capacity to adapt is as present as our bravery and ingeniuty. Mechanised and Motorised infantry forces will play a grand part in our reconquest of the homeland!"
+JBS_recruiting_effort:0 "Effort de Recrutement"
+JBS_recruiting_effort_desc:0 "Beaucoup de jeunes hommes risquent de rester inactifs devant les grandes histoires en cours, et n'entendent même pas appeler aux armes ! Cela ne peut pas être toléré, et chaque homme en Arabie sera tendu la main pour savoir comment se battre pour l'émir et son peuple".
+JBS_contest_the_gulf:0 "Contester le Golfe"
+JBS_contest_the_gulf_desc:0 "Beaucoup l'appelleraient le Golfe persique. Mais nous le connaissons bien, et nous ferons en sorte que le monde le connaisse aussi !
+JBS_protect_oil_shipping:0 "Protéger le transport du pétrole"
+JBS_protect_oil_shipping_desc:0 "Nos exportations de pétrole sont un élément vital de notre économie, et nos ennemis le savent. Pour garantir que les cargaisons atteignent l'océan Indien en toute sécurité, il faudra une marine de haute mer appropriée, et les équipages pour l'entretenir".
+JBS_kuwait_naval_base:0 "Base Navale d'Al-Hasa"
+JBS_kuwait_naval_base_desc:0 "Autrefois partie de la Basra Vilayet ottomane, Al-Hasa sera désormais correctement réaménagée pour devenir notre principal port dans un avenir prévisible".
+JBS_naval_exercises:0 "Exercices navals".
+JBS_naval_exercises_desc:0 "Alors que nous nous préparons à la confrontation avec [PER.GetNameDef] et d'autres puissances hostiles dans le golfe Persique, nous allons mener des exercices de la marine pour nous assurer que notre flotte a une expérience réelle en mer lorsque le conflit éclate.
+JBS_liberation_war_of_holy_cities:0 "Libérer les villes saintes"
+JBS_liberation_war_of_holy_cities_desc:0 "Les villes saintes de La Mecque et de Médine sont tenues en esclavage par les Turcs ottomans. Il est de notre devoir sacré de libérer ces villes saintes sous notre bannière".
+JBS_mobilize_the_tribes:0 "Mobiliser les tribus"
+JBS_mobilize_the_tribes_desc:0 "Chaque tribu de ces terres a juré de nous aider, et maintenant nous sommes en guerre contre des ennemis qui veulent défaire tout ce que nous avons combattu pendant si longtemps. Respectez vos serments ! Venez à nous, car votre émir appelle à l'aide !"
+JBS_army_command_modernization:0 "Modernisation du commandement de l'armée"
+JBS_army_command_modernization_desc:0 "Il est grand temps que nous modernisions la manière dont notre armée est conduite, loin des seigneurs et dans l'armée, qui sera correctement organisée selon la doctrine militaire étrangère, avec des branches différentes pour les différents types d'unités et de théâtres.
+JBS_establish_arabian_airforce:0 "Etablir une Armée de l'Air Arabe"
+JBS_establish_arabian_airforce_desc:0 "Nous devrions envisager la création de la toute première force aérienne arabe et régir le ciel au-dessus des dunes du désert.
+JBS_establish_arabian_mechanized_brigades:0 "Établir des brigades mécanisées"
+JBS_establish_arabian_mechanized_brigades_desc:0 "En cette nouvelle ère, nous devons nous assurer que notre capacité d'adaptation est aussi présente que notre courage et notre ingéniosité. Les forces d'infanterie mécanisées et motorisées joueront un grand rôle dans notre reconquête de la patrie !"
 JBS_establish_new_arabian_army:0 "The New Arabian Army"
-JBS_establish_new_arabian_army_desc:0 "As our army reform continues, more political effort must be done to ensure it works at a similar capacity to that of Major Powers, lest we will be sent back to the dustbin of history. The time has come for us to spare no effort in making sure to end tribalism and factionalism in our armed forces and prepare it for the coming century."
+JBS_establish_new_arabian_army_desc:0 "Alors que la réforme de notre armée se poursuit, des efforts politiques supplémentaires doivent être faits pour s'assurer qu'elle fonctionne à un niveau similaire à celui des grandes puissances, de peur que nous ne soyons renvoyés à la poubelle de l'histoire. Le temps est venu pour nous de ne ménager aucun effort pour mettre fin au tribalisme et au factionnalisme dans nos forces armées et les préparer pour le siècle à venir".
 JBS_arabian_horsemanship:0 "Arabian Horsemanship"
-JBS_arabian_horsemanship_desc:0 "Ever since before the time of the Caliphate, we Arabians were well known as excellent horsemen, and trusty warriors are one thing that we'll surely need. As our cavalry divisions modernise, they are expected to operate in a distinct Arabian fashion, still."
-JBS_desert_warfare:0 "Desert Warfare"
-JBS_desert_warfare_desc:0 "We know how to fight in these lands, better than anyone else. Our men have fought off our rivals for decades now, and many more foes are to come to our sands. But they will be defeated, and learn to hate sand."
-JBS_desert_logstics:0 "Desert Logistics"
-JBS_desert_logstics_desc:0 "Moving armies through the desert is oftentimes impossible if you do not know the way; a wrong turn may have your forces trapped in trackless desert, or straight into an enemy trap!"
-JBS_war_of_resistance:0 "War of Resistance"
-JBS_war_of_resistance_desc:0 "We live in an age of total war, where even limited conflicts put everything at stake. Your young nation can fall just as fast as it arose, and be crushed under the iron heels of history. We must resist! Forever Arabia will be Free!"
+JBS_arabian_horsemanship_desc:0 "Depuis bien avant l'époque du califat, nous, les Arabes, étions connus pour être d'excellents cavaliers, et de fidèles guerriers sont une chose dont nous aurons sûrement besoin. Au fur et à mesure que nos divisions de cavalerie se moderniseront, elles devront continuer à opérer à la manière arabe".
+JBS_desert_warfare:0 "Guerre du désert"
+JBS_desert_warfare_desc:0 "Nous savons mieux que quiconque comment nous battre dans ces terres. Nos hommes ont combattu nos rivaux pendant des décennies et beaucoup d'autres ennemis vont venir sur nos sables. Mais ils seront vaincus, et apprendront à haïr le sable."
+JBS_desert_logstics:0 "Logistique du Désert"
+JBS_desert_logstics_desc:0 "Déplacer des armées à travers le désert est souvent impossible si vous ne connaissez pas le chemin ; un mauvais virage peut entraîner vos forces dans un désert sans piste, ou directement dans un piège ennemi !
+JBS_war_of_resistance:0 "La guerre de résistance"
+JBS_war_of_resistance_desc:0 "Nous vivons à une époque de guerre totale, où même des conflits limités mettent tout en jeu. Votre jeune nation peut tomber aussi vite qu'elle s'est levée, et être écrasée sous les talons de fer de l'histoire. Nous devons résister ! L'Arabie sera toujours libre !"
 
 ### Starting Events ###
 jbs.1.t:0 "Starting Situtation"
-jbs.1.d:0 "The House of Rashid stands at the precipice of victory in the quest to unite Arabia. Behind us we have numerous other tribes that follow our standard – The Howietat, the Al-Sakhr, the Dulaim, Al-Sabah, and even the Heshemites. To the south stands our age old rivals, the House of Saud. The House of Saud has been raiding our lands in the recent years, particularly raids lead by the Ikhwan that support the Saudis.\n\nTo the North lay the Ottoman Empire, where in Istanbul the caliph of Islam lives. Nominally we claim to be loyal to the Ottoman Sultan, though if he thinks he can push us around, he will find that it is not he who rules the desert but us Arabs. And it will be under our banner, the banner of the House of Rashid that all of Arabia is united. From there we shall show the Sultan the might of a united Arabia."
-jbs.1.a:0 "Long live the House of Rashid."
-jbs.2.t:0 "War of Unification"
-jbs.2.d:0 "Now is the time and now is the hour to unify Arabia under our Banner. We shall destroy the Saudis and rule Arabia!"
-jbs.2.a:0 "We shall Unite Arabia!"
-jbs.3.t:0 "The House of Rashid is Victorious"
-jbs.3.d:0 "At long last we have unified Arabia. The house of Rashid stands victorious over are age old rivals, the Saudis. We are now masters of Arabia!"
-jbs.3.a:0 "Long live the House of Rashid."
+jbs.1.d:0 "La Dynastie Rashidi se tient au bord du précipice de la victoire dans la quête de l'unité de l'Arabie. Derrière nous, nous avons de nombreuses autres tribus qui suivent notre norme - l'Howietat, l'Al-Sakhr, les Dulaim, l'Al-Sabah, et même les Heshemites. Au sud se trouve notre vieux rival, la Maison de Saoud. La Maison des Saoud a fait des raids sur nos terres ces dernières années, en particulier les raids menés par l'Ikhwan qui soutient les Saoudiens. Au nord se trouve l'Empire ottoman, où vit le calife de l'Islam à Istanbul. En principe, nous prétendons être loyaux envers le sultan ottoman, mais s'il pense pouvoir nous bousculer, il constatera que ce n'est pas lui qui dirige le désert, mais nous, les Arabes. Et ce sera sous notre bannière, la bannière de la Maison de Rachid, que toute l'Arabie sera unie. De là, nous montrerons au sultan la puissance d'une Arabie unie."
+jbs.1.a:0 "Vive la Dynastie Rashidi."
+jbs.2.t:0 "Guerre d'unification"
+jbs.2.d:0 "L'heure est venue et il est temps d'unifier l'Arabie sous notre bannière. Nous allons détruire les Saoudiens et gouverner l'Arabie !"
+jbs.2.a:0 "Nous allons unifier l'Arabie !"
+jbs.3.t:0 "La Dynastie Rashidi est victorieuse"
+jbs.3.d:0 "Nous avons enfin unifié l'Arabie. La Dynastie Rashidi l'emporte sur des rivaux de longue date, les Saoudiens. Nous sommes maintenant les maîtres de l'Arabie !"
+jbs.3.a:0 "Vive la Dynastie Rashidi."
 #jbs.4 removed
-jbs.5.t:0 "The Sultan claims soverignty over the Caliphate and the Holy Cities!"
-jbs.5.d:0 "In a solemn and sacred ceremony the Rashidi Sultan has declared that he is the new Caliph of Islam. A new an pious dynasty will lead and guide the faithful once more."
-jbs.5.a:0 "Long live the Caliph!"
+jbs.5.t:0 "Le sultan revendique la souveraineté sur le califat et les villes saintes !"
+jbs.5.d:0 "Au cours d'une cérémonie solennelle et sacrée, le sultan Rashidi a déclaré qu'il est le nouveau calife de l'Islam. Une nouvelle dynastie pieuse dirigera et guidera les fidèles une fois de plus".
+jbs.5.a:0 "Vive le calife !"
 ### United Arabia Events ###
-jbs.15.t:0 "Elect a Sultan"
-jbs.15.d:0 "As we are an elected monarchy, it is time for us to elect a Sultan. There are five main clans within the United Arab Emirates, the Rashids, the Al-Nahyan, the Al-Sabah, the Hashemite, or the Howleitat. Whom shall the nobles choose to lead them."
-jbs.15.a:0 "Elect the Rashidi candidate."
-jbs.15.b:0 "Elect the Al-Nahyan candidate."
-jbs.15.c:0 "Elect the Al-Sabah candidate."
-jbs.15.e:0 "Elect the Heshemite candidate."
-jbs.15.f:0 "Elect the Howleitat candidate."
+jbs.15.t:0 "Élire un sultan"
+jbs.15.d:0 "Comme nous sommes une monarchie élue, il est temps pour nous d'élire un sultan. Il existe cinq clans principaux aux Émirats arabes unis, les Rachid, les Al-Nahyan, les Al-Sabah, les Hachémites ou les Howleitat. Qui les nobles choisiront pour les diriger".
+jbs.15.a:0 "Élire le candidat Rashidi."
+jbs.15.b:0 "Élire le candidat Al-Nahyan."
+jbs.15.c:0 "Élire le candidat Al-Sabah."
+jbs.15.e:0 "Élire le candidat Heshemite."
+jbs.15.f:0 "Élire le candidat Howleitat."
 
-jbs.16.t:0 "The Constitutional Council"
-jbs.16.d:0 "Today clans from across Arabia have come to a neutral grounds outside of Ha'il. Banners from all the different clans both great and small can be seen throughout the meeting grounds. They have come to discuss what a Constitution of the new Arabia would look like. This debate will take many days, but a constitutional will be forged for a united Arabia."
-jbs.16.a:0 "Long live a United Arabia."
+jbs.16.t:0 "Le Conseil constitutionnel"
+jbs.16.d:0 "Aujourd'hui, des clans de toute l'Arabie sont venus sur un terrain neutre en dehors de Ha'il. Des banderoles de tous les clans, grands et petits, sont visibles dans tout le lieu de réunion. Ils sont venus pour discuter de ce à quoi ressemblerait une Constitution de la nouvelle Arabie. Ce débat durera plusieurs jours, mais une constitution sera élaborée pour une Arabie unie".
+jbs.16.a:0 "Vive l'Arabie Unie."
 
-jbs.17.t:0 "Arab Constitution - The Arab State"
-jbs.17.d:0 "\n\nArticle 1. The United Arab Emirates is an independent, sovereign, federal state (and is referred to hereafter in this Constitution as The Union). Any other independent Arab country may join the Union, provided that the Council of Emirs agrees unanimously to this. And upon acceptance of joining new member to the federation, the Federation Council of Emirs shall set the number of seats to be allocated to such member in the Federal National Council in addition to the number provided for in Article 68 of this Constitution.\n\nArticle 2. The Union shall exercise sovereignty in matters assigned to it in accordance with this Constitution over all territory and territorial waters lying within the international boundaries of the member Emirates. The member Emirates shall exercise sovereignty over their own territories and territorial waters in all matters not within the jurisdiction of the Union as assigned in this Constitution.\n\nArticle 3. The Union shall be part of the Great Arab Nation, to which it is bound by the ties of religion, language, history and common destiny. The people of the Union shall be a single people, and shall be part of the Arab Nation.\n\nArticle 4. Islam shall be the official religion of the Union. The Islamic Shari'ah shall be a principal source or legislation in the Union. The official language of the Union shall be Arabic."
-jbs.17.a:0 "Approved."
+jbs.17.t:0 "Constitution arabe - L'État arabe"
+jbs.17.d:0 "\n\nArticle 1. Les Émirats arabes unis sont un État indépendant, souverain et fédéral (et sont désignés ci-après dans la présente Constitution par le terme "l'Union"). Tout autre pays arabe indépendant peut adhérer à l'Union, à condition que le Conseil des Émirs y consente à l'unanimité. Et dès l'acceptation de l'adhésion d'un nouveau membre à la fédération, le Conseil des Émirs de la fédération fixe le nombre de sièges à attribuer à ce membre au sein du Conseil national fédéral en plus du nombre prévu à l'article 68 de cette Constitution.\nArticle 2. L'Union exerce sa souveraineté dans les matières qui lui sont attribuées conformément à la présente Constitution sur tout le territoire et les eaux territoriales se trouvant à l'intérieur des frontières internationales des Émirats membres. Les Émirats membres exercent leur souveraineté sur leurs propres territoires et eaux territoriales dans toutes les matières qui ne relèvent pas de la juridiction de l'Union telle qu'elle est définie dans la présente Constitution. L'Union fait partie de la Grande nation arabe, à laquelle elle est liée par les liens de la religion, de la langue, de l'histoire et d'une destinée commune. Le peuple de l'Union est un seul peuple et fait partie de la nation arabe. L'Islam est la religion officielle de l'Union. La charia islamique est la principale source ou législation dans l'Union. La langue officielle de l'Union est l'arabe".
+jbs.17.a:0 "Approuvé".
 
-jbs.18.t:0 "Arab Constitution - Basic Human Rights"
-jbs.18.d:0 "Article 10. Personal freedom shall be guaranteed to all citizens. No person may be arrested, searched, detained or imprisoned except in accordance with the provisions of the law.\nArticle 11. Punishment shall be individual. An accused shall be deemed innocent until he has been convicted by means of a legal and just trial. The accused shall have the right to appoint the person who shall conduct his defence during the trial. The law shall prescribe the circumstances in which the presence of a counsel for the defence shall be obligatory.\nArticle 12. Every person shall have the right to submit complaints to the competent authorities, including the judicial authorities, concerning the abuse or infringement of the rights and freedoms stipulated in this Chapter\nArticle 13. The freedom to hold religious ceremonies in accordance with established custom shall be safeguarded, provided such ceremonies are consistent with public order and with public morals.\nArticle 14. Every citizen shall be free to choose his occupation, trade or profession within the limits of the law, due consideration being given to any regulations prescribed for any such professions and trades. No person may be subjected to forced labour except in exceptional circumstances provided for by the law and in return for compensation. No man may be enslaved."
-jbs.18.a:0 "Approved."
+jbs.18.t:0 "Constitution arabe - Droits fondamentaux de l'homme"
+jbs.18.d:0 "Article 10. La liberté individuelle est garantie à tous les citoyens. Nul ne peut être arrêté, fouillé, détenu ou emprisonné si ce n'est conformément aux dispositions de la loi. Les sanctions sont individuelles. Un accusé est considéré comme innocent jusqu'à ce qu'il ait été condamné à l'issue d'un procès juste et équitable. L'accusé a le droit de désigner la personne qui assurera sa défense pendant le procès. La loi détermine les circonstances dans lesquelles la présence d'un avocat est obligatoire. Toute personne a le droit de soumettre des plaintes aux autorités compétentes, y compris les autorités judiciaires, concernant l'abus ou la violation des droits et libertés stipulés dans le présent chapitre. La liberté de tenir des cérémonies religieuses conformément à la coutume établie doit être sauvegardée, à condition que ces cérémonies soient conformes à l'ordre public et à la moralité publique. Tout citoyen est libre de choisir son métier, sa profession ou son occupation dans les limites de la loi, en tenant compte des règles prescrites pour ces professions et occupations. Nul ne peut être soumis au travail forcé, sauf dans les circonstances exceptionnelles prévues par la loi et moyennant une indemnisation. Nul ne peut être réduit en esclavage".
+jbs.18.a:0 "Approuvé".
 
-jbs.19.t:0 "Arab Constitution - The Elected Monarchy"
-jbs.19.d:0 "Article 15: The Council of Emirs of the Union shall be the supreme authority in the Union. It shall consist of the Rulers of all the Emirates making up the Union, or of those who act for the Rulers in their Emirates in the event of their absence or if they have been excused from attending. Each Emirate shall have a single vote in the deliberations of the Council.\nArticle 16. The Council of Emirs of the Union shall elect from among its members a Sultan of the Union\nArticle 17. The term of office of the Sultan of the Union shall be for life.\nArticle 18. In the event that the office of the Sultan or his Vizier becomes vacant because of death or resignation, or because either one of them ceases to be Ruler in his Emirate for any reason, the Council of Emirs shall be called into session within one month of that date to elect a successor to the vacant office for the period stipulated in Article 52 of this Constitution."
-jbs.19.a:0 "By God, approved!"
+jbs.19.t:0 "Constitution arabe - La monarchie élue"
+jbs.19.d:0 "Article 15 : Le Conseil des Emirs de l'Union est l'autorité suprême de l'Union. Il est composé des dirigeants de tous les Émirats composant l'Union, ou de ceux qui agissent pour les dirigeants de leurs Émirats en cas d'absence ou s'ils ont été excusés. Chaque Émirat dispose d'une seule voix dans les délibérations du Conseil. Le Conseil des Émirs de l'Union élit parmi ses membres un Sultan de l'Union. Le mandat du Sultan de l'Union est à vie. Article 18. Si le poste du Sultan ou de son vizir devient vacant par suite de décès ou de démission, ou si l'un d'eux cesse d'être dirigeant dans son Émirat pour une raison quelconque, le Conseil des Émirs est convoqué en session dans un délai d'un mois à compter de cette date pour élire un successeur au poste vacant pour la période prévue à l'article 52 de la présente Constitution".
+jbs.19.a:0 "Par Dieu, approuvé !"
 
-jbs.20.t:0 "Arab Constitution - Vizier"
-jbs.20.d:0 "The Emirs readily agreed that there should be a second in command, a Vizier, but the question of whom shall appoint him divided them. Some of the Emirs think that it should be a prerogative of the Sultan. While others think that the Council of Emirs shall be the one to elect the Vizier."
-jbs.20.a:0 "The Council of Emirs shall elect the Vizier."
-jbs.20.b:0 "The Sultan shall appoint the Vizier."
+jbs.20.t:0 "Constitution arabe - Vizir"
+jbs.20.d:0 "Les Emirs ont volontiers convenu qu'il devrait y avoir un second, un Vizir, mais la question de savoir qui le désignera les divise. Certains Emirs pensent que cela devrait être une prérogative du Sultan. D'autres pensent que c'est le Conseil des Emirs qui doit élire le Vizir".
+jbs.20.a:0 "Le Conseil des Emirs élira le Vizir."
+jbs.20.b:0 "Le Sultan nomme le Vizir."
 
-jbs.21.t:0 "Arab Constitution - Centralisation or Decentralisation"
-jbs.21.d:0 "While Article 15 did state the Council of Emirs made up of each ruling emirate would be well the Council of Emirs. A debate among the various emirs as to how much power it should have in comparison to the various emirates with two camps emerging. One that favoured a strong Council of Emirs to bind the Union together. While the other preferred less centralisation to preserve the traditional power of the various emirates and prevent one single emirate from dominating."
-jbs.21.a:0 "The power ultimately belongs with the Council of Emirs."
-jbs.21.b:0 "The power ultimately belongs with the Emirates."
+jbs.21.t:0 "Constitution arabe - Centralisation ou décentralisation"
+jbs.21.d:0 "Alors que l'article 15 stipulait que le Conseil des Emirs composé de chaque émirat au pouvoir serait bien le Conseil des Emirs. Un débat entre les différents émirs sur le pouvoir qu'il devrait avoir par rapport aux différents émirats avec l'émergence de deux camps. L'un d'entre eux est favorable à un Conseil des Emirs fort pour lier l'Union. Alors que l'autre préférait une centralisation moindre pour préserver le pouvoir traditionnel des différents émirats et éviter qu'un seul émirat ne domine".
+jbs.21.a:0 "Le pouvoir appartient en dernier ressort au Conseil des Emirs."
+jbs.21.b:0 "Le pouvoir appartient en dernier ressort aux Émirats."
 
-jbs.22.t:0 "Arab Constitution - The Judiciary"
-jbs.22.d:0 "Another debate was raging among the Emirs about the Judiciary; specifically how much independence it should have. Two Camps have emerged those that favour oversight and those that favour an independent Judiciary. What shall the council approve."
-jbs.22.a:0 "Government Oversight."
-jbs.22.b:0 "Independent Judiciary."
+jbs.22.t:0 "Constitution arabe - Le pouvoir judiciaire"
+jbs.22.d:0 "Un autre débat faisait rage parmi les Emirs au sujet du pouvoir judiciaire ; plus précisément au sujet du degré d'indépendance qu'il devrait avoir. Deux camps ont émergé : ceux qui sont en faveur de la surveillance et ceux qui sont en faveur d'un pouvoir judiciaire indépendant. Ce que le conseil doit approuver".
+jbs.22.a:0 "Surveillance du gouvernement".
+jbs.22.b:0 "Pouvoir judiciaire indépendant".
 
-jbs.23.t:0 "Arab Constitution - Economic Rights of the Emirates"
-jbs.23.d:0 "Article 28. The natural resources and wealth in each Emirate shall be considered the public property of that Emirate. Society shall be responsible for the protection and proper exploitation of such natural resources and wealth for the benefit of the national economy.\nArticle 29. The member Emirates of the Union shall contribute a specified proportion of their annual revenues to cover the annual general budget expenditure of the Union, in the manner and on the scale to be prescribed in the Budget Law.\nArticle 30. No Union tax may be imposed, varied or abolished except by means of a law. No person may be exempted from liability to pay such taxes except as prescribed by the law. Union taxes, duties and fees may not be levied on any person except within the limits of the law and in accordance with its provisions."
-jbs.23.a:0 "Approved!"
+jbs.23.t:0 "Constitution arabe - Droits économiques des Émirats".
+jbs.23.d:0 "Article 28. Les ressources naturelles et les richesses de chaque émirat sont considérées comme la propriété publique de cet émirat. La société est responsable de la protection et de la bonne exploitation de ces ressources naturelles et de ces richesses au profit de l'économie nationale. Les Émirats membres de l'Union contribuent à une proportion déterminée de leurs revenus annuels pour couvrir les dépenses annuelles du budget général de l'Union, de la manière et selon l'échelle prescrite dans la loi de budget. Aucune taxe de l'Union ne peut être imposée, modifiée ou supprimée, sauf par le biais d'une loi. Nul ne peut être exempté de l'obligation de payer ces impôts, sauf dans les conditions prévues par la loi. Les impôts, droits et taxes de l'Union ne peuvent être perçus sur quiconque que dans les limites de la loi et conformément à ses dispositions".
+jbs.23.a:0 "Approuvé !"
 
-jbs.24.t:0 "Arab Constitution - Minister of Defence"
-jbs.24.d:0 "Article 85: Every attack upon any member Emirate of the Union shall be considered an attack upon all the Emirates and upon the existence of the Union itself, which all Union and local forces will cooperate to repel by all means possible.\n\nWhile Article 85 was easily approved. The question as to whom shall lead the Armed forces became up for debate with as expected some Emirs believing in strengthening the Council of Emirs while others support the new role of Sultan."
-jbs.24.a:0 "The Sultan shall have the authority to appoint the Minister of Defence."
-jbs.24.b:0 "The Council of Emirs shall have the Authority to appoint the Minister of Defence."
+jbs.24.t:0 "Constitution arabe - Ministre de la défense"
+jbs.24.d:0 "Article 85 : Toute attaque contre un émirat membre de l'Union sera considérée comme une attaque contre tous les émirats et contre l'existence même de l'Union, que toutes les forces de l'Union et les forces locales coopéreront pour repousser par tous les moyens possibles. Alors que l'article 85 a été facilement approuvé. La question de savoir qui dirigera les forces armées a été débattue, comme prévu, certains émirs croyant au renforcement du Conseil des émirs tandis que d'autres soutiennent le nouveau rôle du sultan".
+jbs.24.a:0 "Le Sultan aura le pouvoir de nommer le ministre de la défense."
+jbs.24.b:0 "Le Conseil des Emirs aura l'autorité de nommer le Ministre de la Défense."
 
-jbs.25.t:0 "The First Arab Constitution"
-jbs.25.d:0 "The first ever Arab Constitution was proclaimed in Ha'il and then sent out to all the people in the Union. From here on we shall be known as the United Arab Emirates."
-jbs.25.a:0 "Long live the United Arab Emirates!"
+jbs.25.t:0 "La première constitution arabe"
+jbs.25.d:0 "La toute première Constitution arabe a été proclamée à Ha'il, puis envoyée à tous les peuples de l'Union. Nous serons désormais connus sous le nom d'Émirats arabes unis".
+jbs.25.a:0 "Vive les Émirats arabes unis !"
 
 jbs.26.t:0 ""
 jbs.26.d:0 ""
@@ -376,120 +376,120 @@ jbs.30.b:0 ""
 
 ### Reactions to the Caliph Event ###
 
-jbs.31.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.31.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. Many liberals in the cafes throughout Egypt were said to burst into laughter at the news finding it ridiculous, even Sultan Farouk was said to find this news ridiculous. Even among the conservative Ittihad party, Hassan al-Banna and Sayyid Qutb both came out and denounced it calling the Sultan of Arabia immoral and not fit to hold the office."
-jbs.31.a:0 "Reject these ludicrous claims."
+jbs.31.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.31.d:0 "Le sultan d'Arabie s'est déclaré le calife de l'Islam. On dit que de nombreux libéraux dans les cafés d'Égypte ont éclaté de rire en voyant cette nouvelle, la trouvant ridicule, et même le sultan Farouk l'a trouvée ridicule. Même au sein du parti conservateur Ittihad, Hassan al-Banna et Sayyid Qutb ont tous deux dénoncé la nouvelle, qualifiant le sultan d'Arabie d'immoral et d'inapte à exercer ses fonctions".
+jbs.31.a:0 "Rejeter ces affirmations ridicules."
 
-jbs.32.t:0 "Egypt Rejects our Claims"
-jbs.32.d:0 "We have received news from Egypt that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.32.a:0 "We shall not forget this Egypt."
+jbs.32.t:0 "L'Égypte rejette nos revendications"
+jbs.32.d:0 "Nous avons reçu des nouvelles d'Égypte selon lesquelles le peuple semble avoir décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.32.a:0 "Nous n'oublierons pas cette Égypte."
 
-jbs.33.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.33.d:0 "News has reached [266.GetName] that the Sultan of Arabia has declared himself the Caliph of Islam. The caliph of Sunni Islam specifically. The vast majority of people in [PER.GetNameDef] are Shia Muslim and consequently have little interest in what the Arab Sultan decided. We do not care about him."
-jbs.33.a:0 "Who cares what the Arab Sultan claims."
+jbs.33.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.33.d:0 "La nouvelle est parvenue à [266.GetName] que le Sultan d'Arabie s'est déclaré Calife de l'Islam. Le calife de l'islam sunnite en particulier. La grande majorité des gens de [PER.GetNameDef] sont des musulmans chiites et par conséquent n'ont que peu d'intérêt pour ce que le sultan arabe a décidé. Nous ne nous soucions pas de lui".
+jbs.33.a:0 "Qui se soucie de ce que le sultan arabe prétend."
 
-jbs.34.t:0 "[PER.GetNameDefCap] Rejects our Claims"
-jbs.34.d:0 "We have received news from [PER.GetNameDef] that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.34.a:0 "We shall not forget this [PER.GetName]"
+jbs.34.t:0 "[PER.GetNameDefCap] Rejette nos revendications"
+jbs.34.d:0 "Nous avons reçu des nouvelles de [PER.GetNameDef] selon lesquelles le peuple semble avoir décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.34.a:0 "Nous n'oublierons pas ce [PER.GetName]"
 
-jbs.35.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.35.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We should reject his claim, we do not need to recognise the claims"
-jbs.35.a:0 "Reject this claim."
+jbs.35.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.35.d:0 "Le sultan d'Arabie s'est déclaré le calife de l'Islam. C'est un stratagème évident au pouvoir. Nous devrions rejeter sa demande, nous n'avons pas besoin de reconnaître les demandes"
+jbs.35.a:0 "Rejeter cette demande".
 
-jbs.36.t:0 "Yemen Rejects our Claims"
-jbs.36.d:0 "We have received news from Yemen that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.36.a:0 "We shall not forget this Yemen."
+jbs.36.t:0 "Le Yémen rejette nos revendications"
+jbs.36.d:0 "Nous avons reçu des nouvelles du Yémen selon lesquelles le peuple semble avoir décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.36.a:0 "Nous n'oublierons pas ce Yémen."
 
-jbs.37.t:0 "Indian Muslims celebrate the renewed caliphate!"
-jbs.37.d:0 "Throughout India the Muslims have decided to celebrate the new Caliphate that has been declared by the Sultan of Arabia. While most of the elites have not taken part of this celebration, the Muslim masses of India have."
-jbs.37.a:0 "Inshallah."
+jbs.37.t:0 "Les musulmans indiens célèbrent le nouveau califat !"
+jbs.37.d:0 "Dans toute l'Inde, les musulmans ont décidé de célébrer le nouveau califat qui a été déclaré par le Sultan d'Arabie. Alors que la plupart des élites n'ont pas pris part à cette célébration, les masses musulmanes de l'Inde l'ont fait".
+jbs.37.a:0 "Inshallah".
 
-jbs.38.t:0 "Indian Muslims accept our Claims"
-jbs.38.d:0 "We have received good news out of India. The Muslim population of India has accepted our claims as the Caliph."
-jbs.38.a:0 "We shall remember this India."
+jbs.38.t:0 "Les musulmans indiens acceptent nos revendications"
+jbs.38.d:0 "Nous avons reçu de bonnes nouvelles de l'Inde. La population musulmane de l'Inde a accepté nos revendications en tant que calife".
+jbs.38.a:0 "Nous nous souviendrons de cette Inde."
 
-jbs.39.t:0 "News of the Caliphate reach Insulindia"
-jbs.39.d:0 "News of the sultan of Jabar Shammar's decision to declare himself the Caliph of Islam has reached Insulindia. Most of the Muslims in Insulindia have not approved of this decision."
+jbs.39.t:0 "Les nouvelles du califat parviennent à Insulindia"
+jbs.39.d:0 "La nouvelle de la décision du sultan de Jabar Shammar de se déclarer calife de l'Islam est parvenue à Insulindia. La plupart des musulmans d'Insulindia n'ont pas approuvé cette décision".
 jbs.39.a:0 "Inshallah."
 
-jbs.40.t:0 "Insulindian Muslims reject our Claims"
-jbs.40.d:0 "We have received good news out of Insulindia. The Muslim population of Insulindia has accepted our claims as the Caliph."
-jbs.40.a:0 "We shall remember this."
+jbs.40.t:0 "Les musulmans d'Insulindia rejettent nos revendications"
+jbs.40.d:0 "Nous avons reçu de bonnes nouvelles d'Insulindia. La population musulmane d'Insulindia a accepté nos revendications en tant que calife".
+jbs.40.a:0 "Nous nous en souviendrons."
 
-jbs.41.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.41.d:0 "We have received news from Insulindia that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.41.a:0 "He is not the Caliph."
+jbs.41.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.41.d:0 "Nous avons reçu des nouvelles d'Insulindia qui semblent indiquer que le peuple a décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.41.a:0 "Il n'est pas le calife."
 
-jbs.42.t:0 "Morocco Rejects our Claims"
-jbs.42.d:0 "We have received news from Morocco that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.42.a:0 "We shall not forget this Morocco."
+jbs.42.t:0 "Le Maroc rejette nos revendications"
+jbs.42.d:0 "Nous avons reçu des nouvelles du Maroc selon lesquelles le peuple semble avoir décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.42.a:0 "Nous n'oublierons pas ce Maroc."
 
-jbs.43.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.43.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We should reject his claim, we do not need to recognise the claims."
-jbs.43.a:0 "He is not the Caliph."
+jbs.43.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.43.d:0 "Le sultan d'Arabie s'est déclaré le calife de l'Islam. C'est un stratagème évident au pouvoir. Nous devrions rejeter sa revendication, nous n'avons pas besoin de reconnaître les revendications".
+jbs.43.a:0 "Il n'est pas le calife."
 
-jbs.44.t:0 "Somalia Rejects our Claims"
-jbs.44.d:0 "We have received news from Somalia that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.44.a:0 "We shall not forget this."
+jbs.44.t:0 "La Somalie rejette nos revendications"
+jbs.44.d:0 "Nous avons reçu des nouvelles de Somalie qui semblent indiquer que leur peuple a décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.44.a:0 "Nous n'oublierons pas cela."
 
-jbs.45.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.45.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We should reject his claim, we do not need to recognise the claims."
-jbs.45.a:0 "He is not the Caliph."
+jbs.45.t:0 "Le Sultan d'Arabie se déclare Calife"
+jbs.45.d:0 "Le sultan d'Arabie s'est déclaré le calife de l'Islam. C'est un stratagème évident au pouvoir. Nous devrions rejeter sa revendication, nous n'avons pas besoin de reconnaître les revendications".
+jbs.45.a:0 "Il n'est pas le calife."
 
-jbs.46.t:0 "Albania Rejects our Claims"
-jbs.46.d:0 "We have received news from Albania that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.46.a:0 "We shall not forget this."
+jbs.46.t:0 "L'Albanie rejette nos revendications"
+jbs.46.d:0 "Nous avons reçu des nouvelles d'Albanie selon lesquelles leur peuple semble avoir décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.46.a:0 "Nous n'oublierons pas cela."
 
-jbs.47.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.47.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. The various Russian muslims have rejected his claim, we do not need to recognise the claims."
-jbs.47.a:0 "He is not the Caliph."
+jbs.47.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.47.d:0 "Le sultan d'Arabie s'est déclaré le calife de l'Islam. C'est un stratagème évident au pouvoir. Les différents musulmans russes ont rejeté sa revendication, nous n'avons pas besoin de reconnaître les revendications".
+jbs.47.a:0 "Il n'est pas le calife."
 
-jbs.48.t:0 "Russian Muslims Reject our Claims"
-jbs.48.d:0 "We have received news from Yemen that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.48.a:0 "We shall not forget this."
+jbs.48.t:0 "Les musulmans russes rejettent nos revendications"
+jbs.48.d:0 "Nous avons reçu des nouvelles du Yémen selon lesquelles le peuple semble avoir décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.48.a:0 "Nous n'oublierons pas cela."
 
-jbs.49.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.49.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We should reject his claim, we do not need to recognise the claims."
-jbs.49.a:0 "He is not the Caliph."
+jbs.49.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.49.d:0 "Le sultan d'Arabie s'est déclaré le calife de l'Islam. C'est un stratagème évident au pouvoir. Nous devrions rejeter sa revendication, nous n'avons pas besoin de reconnaître les revendications".
+jbs.49.a:0 "Il n'est pas le calife."
 
-jbs.50.t:0 "Azerbjan Rejects our Claims"
-jbs.50.d:0 "We have received news from Azerbjan that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.50.a:0 "We shall not forget this."
+jbs.50.t:0 "L'Azerbaïdjan rejette nos revendications"
+jbs.50.d:0 "Nous avons reçu des nouvelles de l'Azerbaïdjan selon lesquelles le peuple a semblé décider que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.50.a:0 "Nous n'oublierons pas cela."
 
-jbs.51.t:0 "The Sultan of Arabia declares himself Caliph"
-jbs.51.d:0 "The Sultan of Arabia has declared himself the Caliph of Islam. This is an obvious ploy at power. We should reject his claim, we do not need to recognise the claims."
-jbs.51.a:0 "He is not the Caliph."
+jbs.51.t:0 "Le sultan d'Arabie se déclare calife"
+jbs.51.d:0 "Le sultan d'Arabie s'est déclaré le calife de l'Islam. C'est un stratagème évident au pouvoir. Nous devrions rejeter sa revendication, nous n'avons pas besoin de reconnaître les revendications".
+jbs.51.a:0 "Il n'est pas le calife."
 
-jbs.52.t:0 "Turkey Rejects our Claims"
-jbs.52.d:0 "We have received news from Turkey that the people their have seemed to decide that we are not the caliph in their eyes. This is an outrage that we shall not forget."
-jbs.52.a:0 "We shall not forget this."
+jbs.52.t:0 "La Turquie rejette nos revendications"
+jbs.52.d:0 "Nous avons reçu des nouvelles de Turquie qui semblent indiquer que leur peuple a décidé que nous ne sommes pas le calife à leurs yeux. C'est un scandale que nous n'oublierons pas".
+jbs.52.a:0 "Nous n'oublierons pas cela."
 ### Core Medina/Hejaz ###
-jbs.53.t:0 "Integration of Hejaz"
-jbs.53.d:0 "At long last the holy cities of Medina and Mecca have joined our Arabian nation. Whilst we encountered significant opposition from the local populace against our aggressive behaviour in the Ottoman war, the people there still agree with the idea of an Arabian state and have mostly given up fighting our rule."
-jbs.53.a:0 "Arabia grows stronger by the day!"
+jbs.53.t:0 "Intégration du Hejaz"
+jbs.53.d:0 "Enfin, les villes saintes de Médine et de La Mecque ont rejoint notre nation arabe. Bien que nous ayons rencontré une opposition importante de la population locale contre notre comportement agressif dans la guerre ottomane, les gens de cette ville sont toujours d'accord avec l'idée d'un État arabe et ont pour la plupart renoncé à lutter contre notre pouvoir".
+jbs.53.a:0 "L'Arabie se renforce de jour en jour !"
 
 ### Cultural Flavor Events ###
 
-jbs.54.t:0 "Emirs swear loyalty to the Rashidi state"
-jbs.54.d:0 "The tent city of Ha'il saw the procession of sabers upon many soldiers' heads under Abdulaziz bin Saud Al Rashid's orders. In its wake is the procession of captured Emirs. The first group, including the Sauds, Duwaish, and Otaibi were deemed too rebellious to be loyal vassals to Jabal Shammar. The latter group, including the Al Nahyan, Hashimites and the Gadban of the Bani Lam, were more useful. Ibn Saud has decided to spare the families of the Emirs on the condition that they swear total alleigence to Jabal Shammar. This new form of alliance is different from the ruthless precedence Al Rashid's forefathers operated on, and are protected from the Ottomans in perpetuity. "
-jbs.54.a:0 "Sufficient is Allah as our ally"
+jbs.54.t:0 "Les émirs jurent fidélité à l'État de Rashidi"
+jbs.54.d:0 "La ville de tentes de Ha'il a vu la procession de sabres sur la tête de nombreux soldats sous les ordres d'Abdulaziz bin Saud Al Rashid. Dans son sillage se trouve le cortège des émirs capturés. Le premier groupe, comprenant les Sauds, les Duwaish et les Otaibi, a été jugé trop rebelle pour être un vassal loyal à Jabal Shammar. Le second groupe, comprenant les Al Nahyan, les Hashimites et le Gadban des Bani Lam, était plus utile. Ibn Saoud a décidé d'épargner les familles des Emirs à condition qu'elles jurent une totale allégeance à Jabal Shammar. Cette nouvelle forme d'alliance est différente de l'impitoyable préséance que les ancêtres d'Al Rashid ont opérée, et sont protégés des Ottomans à perpétuité. "
+jbs.54.a:0 "Allah est suffisant comme allié"
 
 ### SAU-JBS Struggle ###
-jbs.55.t:0 "Trucial States fall to Ibn Saud"
-jbs.55.d:0 "Reports have reached us that the Emirs of the Trucial States have fallen prey to the advances of Ibn Saud and that our allies in the region have stopped responding. This sign of weakness is already spreading to the other Emirs in our alliance and cracks are already forming. Whether or not we'll end up on the right side of history will have to be seen."
-jbs.55.a:0 "Most unfortunate"
+jbs.55.t:0 "Les États de la Trêve tombent aux mains d'Ibn Saud"
+jbs.55.d:0 "Des rapports nous sont parvenus indiquant que les Emirs des Etats de la Trêve sont devenus la proie des avancées d'Ibn Saoud et que nos alliés dans la région ont cessé de réagir. Ce signe de faiblesse s'étend déjà aux autres Emirs de notre alliance et des fissures se forment déjà. Il faudra voir si nous finirons ou non du bon côté de l'histoire".
+jbs.55.a:0 "Très malheureux"
 
-jbs.56.t:0 "Qatar falls to Ibn Saud"
-jbs.56.d:0 "Reports have reached us that the Emir of Qatar States has fallen prey to the advances of Ibn Saud and that our allies in the region have stopped responding. This sign of weakness is already spreading to the other Emirs in our alliance and cracks are already forming. Whether or not we'll end up on the right side of history will have to be seen."
-jbs.56.a:0 "Most unfortunate"
+jbs.56.t:0 "Le Qatar tombe aux mains d'Ibn Saud"
+jbs.56.d:0 "Des rapports nous sont parvenus indiquant que l'émir des États du Qatar est devenu la proie des avancées d'Ibn Saud et que nos alliés dans la région ont cessé de réagir. Ce signe de faiblesse se propage déjà aux autres Emirs de notre alliance et des fissures se forment déjà. Il faudra voir si nous finirons ou non du bon côté de l'histoire".
+jbs.56.a:0 "Très malheureux"
 
-jbs.57.t:0 "Bahrain falls to Ibn Saud"
-jbs.57.d:0 "Reports have reached us that the Emir of Bahrain has fallen prey to the advances of Ibn Saud and that our allies in the region have stopped responding. This sign of weakness is already spreading to the other Emirs in our alliance and cracks are already forming. Whether or not we'll end up on the right side of history will have to be seen."
-jbs.57.a:0 "Most unfortunate"
+jbs.57.t:0 "Le Bahreïn tombe aux mains d'Ibn Saud"
+jbs.57.d:0 "Des rapports nous sont parvenus indiquant que l'émir de Bahreïn est devenu la proie des avancées d'Ibn Saud et que nos alliés dans la région ont cessé de réagir. Ce signe de faiblesse se propage déjà aux autres Emirs de notre alliance et des fissures se forment déjà. Il faudra voir si nous finirons ou non du bon côté de l'histoire".
+jbs.57.a:0 "Très malheureux"
 
-jbs.58.t:0 "Al-Hasa falls to Ibn Saud"
-jbs.58.d:0 "Reports have reached us that troops of Ibn Saud have stormed the coast of Al-Hasa. Cutting off our only link to the allies in the Trucial States, Bahrain and Qatar, this sign of weakness is already spreading to the other Emirs in our alliance and cracks are already forming. Whether or not we'll end up on the right side of history will have to be seen."
-jbs.58.a:0 "Most unfortunate"
+jbs.58.t:0 "Al-Hasa tombe aux mains d'Ibn Saud"
+jbs.58.d:0 "Nous avons reçu des informations selon lesquelles les troupes d'Ibn Saud ont pris d'assaut la côte d'Al-Hasa. Coupant notre seul lien avec les alliés des États de la Trêve, du Bahreïn et du Qatar, ce signe de faiblesse se propage déjà aux autres émirs de notre alliance et des fissures se forment déjà. Il faudra voir si nous finirons ou non du bon côté de l'histoire".
+jbs.58.a:0 "Très malheureux"
 
 #Cosmetic Tags
 JBS_ARA_authoritarian_democrat:0 "Arabie Rachidite"
