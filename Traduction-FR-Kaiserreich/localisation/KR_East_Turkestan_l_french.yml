@@ -73,31 +73,31 @@ ETS_desertconstruct_desc:0 ""
 ETS_assassination_on_sabit_idea:0 "Tentative d'assassinat sur Sabit Damulla"
 
 #Flag
-SIK_ETS_rebellion:0 "The East Turkestan Rebellion has begun"
-ETS_rebellion_victory:0 "Victory in the Revolution"
-ETS_firearm_expert_hired:0 "Firearm expert has been hired"
-ETS_hotan_conversion_completed:0 "Hotan Carpet Factory has been converted"
-ETS_firearm_expert_hiring:0 "In the process of hiring a Firearm Expert"
-ETS_gunpowder_learned:0 "Source of gunpowder has been secured"
-ETS_mineral_processing_learned:0 "Know how to process minerals"
-ETS_openelectimur:0 "The Victory Parade went off without a hitch"
-ETS_timurshah_flag:0 "The Victory Parade resumed after a short disruption"
-ETS_islamiccountry:0 "We chose to focus inwards"
-ETS_turkiccountry:0 "We chose to focus outwards"
-ETS_army_created:0 "The Army has been established in full"
-ETS_demoflag:0 "Pursued Free Elections"
-ETS_sabriflag:0 "National Elections Postponed"
-ETS_otto_reach_out_flag:0 "Reached out to the Ottoman Empire"
+SIK_ETS_rebellion:0 "La rébellion du Turkestan oriental a commencé"
+ETS_rebellion_victory:0 "Victoire dans la révolution"
+ETS_firearm_expert_hired:0 "Un expert en armes à feu a été engagé"
+ETS_hotan_conversion_completed:0 "L'usine de tapis de Hotan a été convertie"
+ETS_firearm_expert_hiring:0 "En cours d'embauche d'un expert en armes à feu
+ETS_gunpowder_learned:0 "La source de poudre à canon a été sécurisée"
+ETS_mineral_processing_learned:0 "Savoir comment traiter les minéraux"
+ETS_openelectimur:0 "Le défilé de la Victoire s'est déroulé sans encombre"
+ETS_timurshah_flag:0 "Le défilé de la Victoire a repris après une courte interruption
+ETS_islamiccountry:0 "Nous avons choisi de nous concentrer sur l'intérieur"
+ETS_turkiccountry:0 "Nous avons choisi de nous tourner vers l'extérieur".
+ETS_army_created:0 "L'armée a été entièrement créée"
+ETS_demoflag:0 "Poursuivre des élections libres"
+ETS_sabriflag:0 "Elections nationales reportées
+ETS_otto_reach_out_flag:0 "Atteindre l'Empire ottoman".
 
 #Opinion Modifiers
-KR_ETS_violent_night:0 "Subjected Ambassadors to a Bloodbath"
-KR_ETS_peaceful_night:0 "Held a Grand Reception"
+KR_ETS_violent_night:0 "Les ambassadeurs soumis à un bain de sang"
+KR_ETS_peaceful_night:0 "A organisé une grande réception"
 
 #Scripted Text
-get_ETS_full_support:0 " decides to fully support our cause  £trigger_yes "
-get_ETS_partial_support:0 " decides to partially support our cause  £trigger_yes "
-get_ETS_no_support:0 " decides not to support our cause  £trigger_no "
-get_ETS_no_response:0 " has yet to decide whether to support our cause §Y?§!"
+get_ETS_full_support:0 " décide de soutenir pleinement notre cause  £trigger_yes "
+get_ETS_partial_support:0 " décide de soutenir partiellement notre cause  £trigger_yes "
+get_ETS_no_support:0 " décide de ne pas soutenir notre cause  £trigger_no "
+get_ETS_no_response:0 " n'a pas encore décidé s'il faut soutenir notre cause §Y?§!"
 get_ETS_infantry_equipment_amount_shortage:0 "§RIn Shortage§!"
 get_ETS_infantry_equipment_amount_excess:0 "§G[?num_equipment@infantry_equipment]§!"
 
@@ -152,39 +152,39 @@ ETS_hotan_learn_mineral_processing_yes:0 "\n£trigger_yes We know how to process
 ETS_hotan_learn_mineral_processing_no:0 "\n£trigger_no We don't know how to process minerals"
 
 #National Focuses
-ETS_uyghur_revolution:0 "The National Revolution"
-ETS_uyghur_revolution_desc:0 "The centuries long oppression of the Turkic people of Xinjiang must end. While the Chinese would artificially divide us as Uyghur, Kazakhs, and Kyrgyz, we shall rise as one to throw off the yoke of the Chinese."
-ETS_seek_foreign_support:0 "Seek Foreign Support"
-ETS_seek_foreign_support_desc:0 "Our movement teeters on the brink of annihilation. We will need foreign help to fix the deep problems with our upstart army and state."
-ETS_construct_kashgar_hotan_highway:0 "Construct the Kashgar-Hotan Highway"
-ETS_construct_kashgar_hotan_highway_desc:0 "Kashgar and Hotan are the most steadfast redoubts of nationalism and the dual 'seats' of our splintered government. While we cannot yet build a robust system of roads between them, we should carve an impromptu route across the desert where Chinese troops cannot follow."
-ETS_emergency_factory_conversion:0 "Convert the Hotan Carpet Factory"
-ETS_emergency_factory_conversion_desc:0 "Much of our economy is centered on traditional textile manufacturing. Our carpets are especially prized internationally, which has catalyzed a degree of industrialisation in the sector. The largest factory by far is centered in Hotan and should be converted to produce arms for the war effort."
-ETS_build_second_military_factory:0 "Build the Kashgar Small Arms Factory"
-ETS_build_second_military_factory_desc:0 "As the largest city under our control, Kashgar naturally has the potential to reduce our deficit of firearms. We should put any bit of capital we can into the construction of a central small arms factory in the city."
-ETS_timur_military_academy:0 "Establish the Timur Military Academy"
-ETS_timur_military_academy_desc:0 "Timur Beg has ample experience as a commander of men, unique among our leadership. He should be directed to set up an academy to train officers and set up a modern system of officer commissions."
-ETS_army_training:0 "Train a Professional Army"
-ETS_army_training_desc:0 "The new army is made up mostly of irregulars and former guerillas. Few men have any sort of education. Even as we battle the Chinese, we must begin to better their fighting ability and knowledge of modern doctrine."
-ETS_organize_seized_gold_and_rifle:0 "Gather Seized Treasury and Weaponry"
-ETS_organize_seized_gold_and_rifle_desc:0 "Much was seized from the Chinese during the initial uprising, so much in fact that we have been unable to sort and properly repportion the materiel. A concerted effort must be made to accomplish such."
-ETS_hotan_gold:0 "Gold from Keriya Mine"
-ETS_hotan_gold_desc:0 "The miners at Keriya have borne incredible hardship at the hands of the Chinese and have consequently embraced the cause wholeheartedly. The mine must be brought back to working order."
-ETS_uyghur_independence:0 "Turkic Declaration of Independence"
-ETS_uyghur_independence_desc:0 "The great battle is over, all of what was once Xinjiang is ours. East Turkestan shall rise from ashes greater than ever before. With control now obtained both de-facto and de-jure, let us issue a new declaration of independence and join the wide world."
-ETS_a_night_to_remember:0 "A Night to Remember"
-ETS_a_night_to_remember_desc:0 "With independence achieved, internal factions struggle for power. One day, these divisions will surely come to a dramatic head."
-ETS_timur_win:0 "Timur Survives"
-ETS_timur_win_desc:0 "Timur Beg has survived the attempt on his life and driven his enemies from power. The state is now his to command, and surely he has proven a most benevolent man."
-ETS_victory_parade:0 "Military Parade"
-ETS_victory_parade_desc:0 "Timur Beg is known for his extravagance and love of military discipline. With his power secured, his first course of action shall be, of course, to hold a massive military parade in Kashgar."
-ETS_timur_open_elections:0 "Open 'Elections'"
-ETS_timur_open_elections_desc:0 "East Turkestan is, after all, a republic, and as such the people must have a say in politics. The people, however, are easily taken by self-destructive foolishness, so the outcome of certain high level elections should not be left to chance."
-ETS_dilate_presidential_powers:0 "Executive Administration"
-ETS_dilate_presidential_powers_desc:0 "The presidency, rather than the council or the legislature, must have direct control of the bureaucracy. The constitution must be amended to that end."
-ETS_rewrite_constitution:0 "Rewrite the Constitution"
-ETS_rewrite_constitution_desc:0 "The flaws of the constitution have been made apparent following the debacle over the bureaucracy. It must be rewritten entirely."
-ETS_flexible_prime_minister:0 "Timur the Flexible"
+ETS_uyghur_revolution:0 "La révolution nationale"
+ETS_uyghur_revolution_desc:0 "L'oppression séculaire du peuple turc du Xinjiang doit cesser. Alors que les Chinois nous diviseraient artificiellement en ouïgours, kazakhs et kirghizes, nous nous élèverons à l'unisson pour nous libérer du joug des Chinois".
+ETS_seek_foreign_support:0 "Rechercher un soutien étranger"
+ETS_seek_foreign_support_desc:0 "Notre mouvement vacille au bord de l'anéantissement. Nous aurons besoin d'une aide étrangère pour régler les problèmes profonds de notre armée et de notre État naissants.
+ETS_construct_kashgar_hotan_highway:0 "Construire l'autoroute Kashgar-Hotan"
+ETS_construct_kashgar_hotan_highway_desc:0 "Kashgar et Hotan sont les plus fermes redoutes du nationalisme et les deux "sièges" de notre gouvernement éclaté. Bien que nous ne puissions pas encore construire un solide système de routes entre eux, nous devrions tracer une route improvisée à travers le désert que les troupes chinoises ne peuvent pas suivre".
+ETS_emergency_factory_conversion:0 "Convertir l'usine de tapis Hotan"
+ETS_emergency_factory_conversion_desc:0 "Une grande partie de notre économie est centrée sur la fabrication textile traditionnelle. Nos tapis sont particulièrement prisés au niveau international, ce qui a catalysé un certain degré d'industrialisation dans le secteur. La plus grande usine, de loin, est centrée à Hotan et devrait être convertie pour produire des armes pour l'effort de guerre".
+ETS_build_second_military_factory:0 "Construire l'usine d'armes légères de Kashgar"
+ETS_build_second_military_factory_desc:0 "En tant que plus grande ville sous notre contrôle, Kashgar a naturellement le potentiel de réduire notre déficit en armes à feu. Nous devrions investir le plus de capitaux possible dans la construction d'une usine centrale d'armes légères dans la ville".
+ETS_timur_military_academy:0 "Créer l'Académie militaire de Timur"
+ETS_timur_military_academy_desc:0 "Timur Beg a une grande expérience en tant que commandant d'hommes, unique parmi nos dirigeants. Il devrait être chargé de créer une académie pour former des officiers et mettre en place un système moderne de commissions d'officiers".
+ETS_army_training:0 "Former une armée professionnelle"
+ETS_army_training_desc:0 "La nouvelle armée est composée principalement d'irréguliers et d'anciens guérilleros. Peu d'hommes ont reçu une quelconque formation. Même si nous combattons les Chinois, nous devons commencer à améliorer leur capacité de combat et leur connaissance de la doctrine moderne".
+ETS_organize_seized_gold_and_rifle:0 "Rassemblez le trésor et l'armement saisis"
+ETS_organize_seized_gold_and_rifle_desc:0 "Beaucoup de choses ont été saisies aux Chinois lors du soulèvement initial, tellement en fait que nous n'avons pas été en mesure de trier et de répartir correctement le matériel. Un effort concerté doit être fait pour y parvenir".
+ETS_hotan_gold:0 "L'or de la mine de Keriya"
+ETS_hotan_gold_desc:0 "Les mineurs de Keriya ont subi d'incroyables épreuves aux mains des Chinois et ont donc embrassé la cause avec enthousiasme. La mine doit être remise en état de marche".
+ETS_uyghur_independence:0 "Déclaration d'indépendance turque"
+ETS_uyghur_independence_desc:0 "La grande bataille est terminée, tout ce qui était autrefois le Xinjiang est à nous. Le Turkestan oriental renaîtra de ses cendres plus que jamais. Le contrôle étant désormais obtenu de facto et de jure, publions une nouvelle déclaration d'indépendance et rejoignons le monde entier".
+ETS_a_night_to_remember:0 "Une nuit à se souvenir"
+ETS_a_night_to_remember_desc:0 "Une fois l'indépendance acquise, les factions internes luttent pour le pouvoir. Un jour, ces divisions atteindront certainement un sommet dramatique".
+ETS_timur_win:0 "Timur survit"
+ETS_timur_win_desc:0 "Timur Beg a survécu à la tentative d'assassinat et a chassé ses ennemis du pouvoir. L'État est maintenant sous son commandement, et il a certainement prouvé qu'il était un homme très bienveillant."
+ETS_victory_parade:0 "Military Parade" (Défilé militaire)
+ETS_victory_parade_desc:0 "Timur Beg est connu pour son extravagance et son amour de la discipline militaire. Son pouvoir étant assuré, sa première action sera, bien entendu, d'organiser un défilé militaire massif à Kashgar".
+ETS_timur_open_elections:0 "Élections ouvertes"
+ETS_timur_open_elections_desc:0 "Après tout, le Turkestan oriental est une république et, à ce titre, le peuple doit avoir son mot à dire en politique. Cependant, le peuple est facilement pris par des bêtises autodestructrices, aussi le résultat de certaines élections de haut niveau ne doit-il pas être laissé au hasard".
+ETS_dilate_presidential_powers:0 "Administration exécutive"
+ETS_dilate_presidential_powers_desc:0 "La présidence, plutôt que le conseil ou le corps législatif, doit avoir un contrôle direct sur la bureaucratie. La constitution doit être modifiée à cette fin".
+ETS_rewrite_constitution:0 "Réécrire la Constitution"
+ETS_rewrite_constitution_desc:0 "Les défauts de la constitution ont été mis en évidence à la suite de la débâcle de la bureaucratie. Elle doit être entièrement réécrite".
+ETS_flexible_prime_minister:0 "Timur le Flexible"
 ETS_flexible_prime_minister_desc:0 "Timur Beg is nothing if not adaptable. Administrators must be trained in rapid reorientation. While bureaucracies may necessitate a certain degree of inertia, we will put a spring in their step."
 ETS_business_ties:0 "Encourage Business Ties"
 ETS_business_ties_desc:0 "Timur Beg has many ties of businesses and merchants across the region. They could be useful in making East Turkestan more industrialised."
